@@ -1,0 +1,421 @@
+OrgDefinedId,My Major is: Text Grade <Text>,What is the next math class needed for my major? Text Grade <Text>,CATS Text Grade <Text>,SALT Text Grade <Text>,DRC Text Grade <Text>,GRO student Text Grade <Text>,Enrolled in UNIV 100 Text Grade <Text>,Proctored Initial Knowledge Check Points Grade <Numeric MaxPoints:5 Category:Orientation>,Final Exam Topics Points Grade <Numeric MaxPoints:700 Category:Final Exam>,IKC Topics Points Grade <Numeric MaxPoints:700 Category:ALEKS Topic Goals Weekly Counts (Hidden)>,End-of-Line Indicator,High School Code,First Generation Flag,Student ID,White Flag,Hispanic or Latinx Flag,Native Hawaiian or Other Pacific Islander Flag,Asian Flag,American Indian or Alaska Native Flag,Black or African American Flag,Gender Code,Tribal Affiliation,ACT Reading,ACT English,ACT Math,High School Admission GPA,High School State Code,High School County,High School City,High School City.1,High School Description
+#22096397,[NMSSCIND] No Major Selected Science,See Advisor,,,,,,5,647,173,#,18010862,N,22096397,Y,N,N,N,N,N,M,-,,,,,AZ,Pima,Tucson,Tucson,Sahuaro High School
+#22102964,[BMGTBSBA] Business Management,Math 112,,,,,,5,469,126,#,18049032,Y,22102964,Y,Y,N,N,N,N,F,-,,,,2.96,AZ,Pima,Tucson,Tucson,San Miguel High School
+#22108329,[BMGTBSBA] Business Management,Math 112,,,,,,5,448,181,#,18027597,N,22108329,Y,N,N,N,N,N,M,-,,,,,NM,-,Albuquerque,Albuquerque,La Cueva High School
+#22108747,[BMGTBSBA] Business Management,Math 112,,,,,,4.25,556,83,#,18036687,N,22108747,Y,N,N,N,N,N,F,-,,,,,TX,Harrison,Hallsville,Hallsville,Hallsville High School
+#23504800,[CYBRBAPS] Cyber Operations,"PHIL 110, prefer Math 107",,,,,,5,494,296,#,18010878,Y,23504800,Y,Y,N,N,N,N,M,-,26,25,24,2.68,AZ,Pima,Tucson,Tucson,Tucson High Magnet School
+#23507421,Nutritional Science,Math 112,,,DRC,,,5,501,152,#,18028504,N,23507421,Y,N,N,N,N,N,F,-,,,,,NY,-,Hampton Bays,Hampton Bays,Hampton Bays Secondary School
+#23544134,[GDDBS] Game Design & Development,Math 112,,,,,,0,604,279,#,18010649,Y,23544134,Y,Y,N,N,N,N,M,-,,,,,AZ,Santa Cruz,Nogales,Nogales,Nogales High School
+#23595263,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,0,498,627,#,18010649,Y,23595263,Y,Y,N,N,N,N,M,-,21,20,23,3.11,AZ,Santa Cruz,Nogales,Nogales,Nogales High School
+#23666429,[ECONBA] Economics,Math 112,,,,,,0,,231,#,18010867,N,23666429,N,N,N,N,N,Y,M,-,,,,3,AZ,Pima,Tucson,Tucson,Salpointe Catholic High School
+#23703222,[COSCBS] Computer Science,Math 112,,,,,,5,391,155,#,18027815,Y,23703222,N,N,N,N,Y,N,M,"Zuni Tribe of the Zuni Reservation, New Mexico",,,,2.75,NM,-,Zuni,Zuni,Zuni High School
+#23724346,[PSYSBS] Psychological Science,Math 112,,,,,,5,498,213,#,18010854,N,23724346,Y,N,N,N,N,N,F,-,,,,3.16,AZ,Pima,Tucson,Tucson,Palo Verde Magnet High School
+#23741716,[APHMBA] Applied Humanities,"PHIL 110/LING 123, some options need Math 112",,,,,,5,625,207,#,18010839,N,23741716,Y,N,N,N,N,N,F,-,,,,3.16,AZ,Pima,Tucson,Tucson,Catalina Foothills High School
+#23742797,[BMGTBSBA] Business Management,Math 112,,,,,,4.5,585,298,#,18024995,N,23742797,Y,N,N,N,N,N,F,-,22,20,18,,MS,-,Ocean Springs,Ocean Springs,Ocean Springs High School
+#23750189,[BMGTBSBA] Business Management,Math 112,,,,,,5,,327,#,23390484,Y,23750189,N,N,N,N,Y,N,M,Tohono O'Odham,,,,3.28,NM,-,Santa Fe,Santa Fe,New Mexico Connections Academy
+#23752243,[PSYCBA] Psychology,Math 107,,,,,,0,590,200,#,18021352,Y,23752243,Y,N,N,N,N,N,M,-,,,,2.68,LA,-,Jefferson,Jefferson,Riverdale High School
+#23758551,[NHPBS] Nutrition & Human Performance,Math 112,,,,,,5,290,69,#,18010757,Y,23758551,N,N,N,N,Y,N,M,Navajo,18,14,14,3.96,AZ,Apache,Saint Michaels,Saint Michaels,Saint Michael Indian School
+#23763532,[LAWBA] Law,"SBS 200 or Math 112, See Advisor",,,,,,0.75,591,250,#,23573909,N,23763532,Y,Y,N,N,N,N,F,-,,,,3.32,AZ,Pima,Tucson,Tucson,Vail Innovation Center
+#23778260,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,5,366,93,#,18010622,Y,23778260,N,N,N,N,Y,N,F,Two Or More Tribal Affiliations,,,,,AZ,Pima,Tucson,Tucson,Marana High School
+#23782599,[PSYCBA] Psychology,Math 107,,,,,,5,291,76,#,18010878,Y,23782599,N,Y,N,N,N,N,F,-,,,,2.96,AZ,Pima,Tucson,Tucson,Tucson High Magnet School
+#23784429,[ARBBA] Arabic,"PHIL 110/LING 123, see advisor",,,,,,5,608,227,#,23786541,N,23784429,Y,N,N,N,N,N,M,-,,,,3.6,NH,-,Manchester,Manchester,Founders Academy Public Charter School
+#23794275,[BIOLBS] Biology,Math 112,,,,,,5,297,144,#,18049033,N,23794275,N,N,N,N,Y,Y,F,Tohono O'Odham,,,,2.04,AZ,Pima,Tucson,Tucson,City High School
+#23801459,[PSYSBS] Psychological Science,Math 112,,,,,,5,248,55,#,18010622,Y,23801459,N,N,N,N,N,Y,F,-,14,13,14,2.54,AZ,Pima,Tucson,Tucson,Marana High School
+#23804342,[VSCBS] Veterinary Science,Math 112,,,,,,5,695,301,#,18010534,N,23804342,Y,N,N,N,N,N,F,-,32,35,27,3.96,AZ,Maricopa,Chandler,Chandler,Chandler High School
+#23805674,[RCSCBS] Retailing & Consumer Science,Math 112,,,,,,5,678,354,#,18050072,N,23805674,Y,N,N,N,N,N,F,-,,,,4,WA,-,Camas,Camas,Union High School
+#23812861,[BMGTBSBA] Business Management,Math 112,,,,,,5,452,166,#,18010873,N,23812861,Y,N,N,N,N,N,M,-,,,,2.43,AZ,Pima,Oro Valley,Oro Valley,Ironwood Ridge High School
+#23819777,[RCSCBS] Retailing & Consumer Science,Math 112,,,,,,5,367,52,#,18022574,Y,23819777,Y,N,N,N,N,N,F,-,,,,3.35,MA,-,Marshfield,Marshfield,Marshfield High School
+#23826484,[PSYSBS] Psychological Science,Math 112,,,,,,5,533,217,#,18010594,N,23826484,Y,N,N,N,N,N,F,-,32,27,26,3.92,AZ,Maricopa,Glendale,Glendale,Mountain Ridge High School
+#23835776,[NTRSBS] Natural Resources,Math 112,,,,,,5,,70,#,18010876,Y,23835776,N,Y,N,N,Y,N,F,Pascua Yaqui,,,,2.66,AZ,Pima,Tucson,Tucson,Sunnyside High School
+#23839738,[PSYCBA] Psychology,Math 107,,,,,,4.25,494,138,#,18047397,N,23839738,Y,N,N,N,N,N,M,-,,,,3.14,CA,Riverside,Temecula,Temecula,Great Oak High School
+#23844100,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,5,518,355,#,23570836,Y,23844100,N,N,N,N,N,N,M,-,,,,3.33,37,-,Jinan,Jinan,The Xiuwen International Academy at Jinan
+#23861504,[PSYSBS] Psychological Science,Math 112,,,DRC,,,5,635,177,#,18010867,N,23861504,Y,Y,N,N,N,N,F,-,,,,2.46,AZ,Pima,Tucson,Tucson,Salpointe Catholic High School
+#23864196,[PSYSBS] Psychological Science,Math 112,,,,,,0,583,698,#,18010846,N,23864196,Y,N,N,N,N,N,F,-,,,,2.92,AZ,Pima,Tucson,Tucson,Flowing Wells High School
+#23864793,[PSYSBS] Psychological Science,Math 112,,,,,,2.75,587,230,#,18041144,Y,23864793,Y,N,N,N,N,N,F,-,,,,,DC,-,Washington,Washington,GED Test Scores
+#23876103,[SBEBSSBE] Sustainable Built Environments,Math 108 (preferred) or Math 112,,,,,,5,543,198,#,18010839,N,23876103,Y,N,N,N,N,N,F,-,,,,3.33,AZ,Pima,Tucson,Tucson,Catalina Foothills High School
+#23880844,[GDDBS] Game Design & Development,Math 112,,,DRC,,,5,464,148,#,18031442,N,23880844,Y,N,N,N,N,N,F,-,,,,,OH,-,Morrow,Morrow,Little Miami High School
+#23881451,[FITSBA] Fashion Industry Sci & Tech,Math 107,,,,,,5,257,64,#,18010842,Y,23881451,N,Y,N,N,N,N,M,-,,,,,AZ,Pima,Tucson,Tucson,Desert View High School
+#23882790,[MEDBS] Medicine,Math 112,,,,,,5,552,161,#,18010687,N,23882790,Y,N,N,N,N,N,F,-,,,,2.73,AZ,Maricopa,Phoenix,Phoenix,Carl Hayden High School
+#23884903,[COSCBS] Computer Science,Math 112,,,,,,0,568,146,#,18026736,N,23884903,Y,N,N,N,N,N,M,-,,,,,NH,-,Concord,Concord,Concord High School
+#23886919,[PSYCBA] Psychology,Math 107,,,,,,5,531,128,#,18012310,N,23886919,Y,Y,N,N,N,N,F,-,,,,3.46,CA,Los Angeles,Lakewood,Lakewood,Lakewood High School
+#23886975,[PSYSBS] Psychological Science,Math 112,,,,,,0,598,171,#,18010878,N,23886975,N,N,Y,N,N,N,F,-,,,,2.6,AZ,Pima,Tucson,Tucson,Tucson High Magnet School
+#23888499,[NMSEGND] No Major Selected Engineering,Math 112,,,,,,5,555,111,#,18010839,Y,23888499,N,N,N,N,N,Y,M,-,,,,3.07,AZ,Pima,Tucson,Tucson,Catalina Foothills High School
+#23893394,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,0,545,529,#,18010862,Y,23893394,N,Y,N,N,N,Y,M,-,,,,2.7,AZ,Pima,Tucson,Tucson,Sahuaro High School
+#23893615,[BMGTBSBA] Business Management,Math 112,,,,,,5,475,289,#,23715534,N,23893615,Y,N,N,N,N,N,M,-,,,,3.6,AZ,Maricopa,Waddell,Waddell,Canyon View High School
+#23893900,[PSYCBA] Psychology,Math 107,,,,,,5,254,62,#,18010722,N,23893900,Y,Y,N,Y,N,N,F,-,,,,2.75,AZ,Maricopa,Phoenix,Phoenix,Desert Vista High School
+#23895355,[MEDBS] Medicine,Math 112,,,,,,5,568,222,#,18010649,Y,23895355,Y,Y,N,N,N,N,F,-,,,,3.69,AZ,Santa Cruz,Nogales,Nogales,Nogales High School
+#23897386,[LARBLA] Landscape Architecture,Math 108,,,,,,1.25,394,72,#,18010838,Y,23897386,N,N,N,N,N,Y,F,-,,,,2.57,AZ,Pima,Tucson,Tucson,Catalina Magnet High School
+#23897776,[MEDBS] Medicine,Math 112,,,,,,5,,130,#,18010846,Y,23897776,Y,Y,N,N,N,N,F,-,,,,2.75,AZ,Pima,Tucson,Tucson,Flowing Wells High School
+#23902785,[RCSCBS] Retailing & Consumer Science,Math 112,,,,,,5,601,224,#,18013761,N,23902785,Y,N,N,N,N,N,M,-,,,,2.8,CA,San Joaquin,Stockton,Stockton,Saint Marys High School
+#23918367,[BMGTBSBA] Business Management,Math 112,,,,,,5,463,178,#,18039339,N,23918367,Y,N,N,N,N,N,M,-,,,,3.38,WA,-,Seattle,Seattle,Blanchet High School
+#23925589,[FITSBA] Fashion Industry Sci & Tech,Math 107,,,,,,5,264,75,#,18029178,N,23925589,N,Y,N,N,N,N,F,-,,,,2.92,NY,-,Port Washington,Port Washington,Paul D Schreiber Senior High
+#23927025,[PSYSBS] Psychological Science,Math 112,,,,,,5,517,53,#,18046816,Y,23927025,Y,Y,N,N,N,N,F,-,,,,3.46,AZ,Pima,Tucson,Tucson,Saint Augustine Catholic High School
+#23934228,[ASTRBS] Astronomy,Math 112,,,,,,5,664,271,#,18045427,Y,23934228,Y,N,N,N,N,N,M,-,,,,3.34,AZ,Pima,Tucson,Tucson,Southern Arizona Comm Academy
+#23934973,[PSYCBA] Psychology,Math 107,,,,,,5,,256,#,18029339,N,23934973,N,Y,N,N,N,N,F,-,,,,3.28,NY,-,Shrub Oak,Shrub Oak,Lakeland Senior High School
+#23943268,[BMGTBSBA] Business Management,Math 112,,,,,,0,608,698,#,18026632,N,23943268,Y,N,N,N,N,N,F,-,,,,3.15,NV,-,Las Vegas,Las Vegas,Faith Lutheran Jr Sr Hs
+#23945305,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,5,,290,#,18014679,N,23945305,Y,N,N,N,N,N,M,-,,,,2.57,CT,-,Granby,Granby,Granby Memorial High School
+#23946449,[BMGTBSBA] Business Management,Math 112,,,,,,0,424,296,#,18027597,N,23946449,Y,Y,N,N,N,N,F,-,,,,,NM,-,Albuquerque,Albuquerque,La Cueva High School
+#23946580,[DAPBA] Design Arts & Practice,"PHIL 110, see advisor",,,,,,5,413,177,#,18010873,N,23946580,Y,Y,N,N,N,N,M,-,,,,2.87,AZ,Pima,Oro Valley,Oro Valley,Ironwood Ridge High School
+#23949170,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,0,,549,#,18012757,N,23949170,Y,Y,N,N,N,N,M,-,,,,2.8,CA,Napa,Napa,Napa,Vintage High School
+#23952584,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,,,,,,0,396,221,#,18013458,N,23952584,Y,Y,N,N,Y,Y,M,Tribal Affiliation Not Reported,,,,2.76,CA,San Francisco,San Francisco,San Francisco,Archbishop Riordan High School
+#23953370,[PSYSBS] Psychological Science,Math 112,,,,,,5,635,142,#,18027682,N,23953370,N,Y,N,N,Y,N,F,Navajo Nation (New Mexico),,,,,NM,-,Gallup,Gallup,Gallup High School
+#23954494,[SPSBS] Sustainable Plant Systems,Math 112,,,,,,0,447,200,#,18045372,Y,23954494,N,N,N,N,N,N,F,-,,,,,-,-,-,-,High School in Saudi Arabia
+#23955580,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,,,,,,2,545,133,#,23562899,N,23955580,Y,Y,N,N,N,N,F,-,,,,,AZ,Maricopa,Tempe,Tempe,ASU Prep Digital
+#23957068,[MMDIBSED] Mild to Moderate Disabilities,Math 106,,,,,,5,507,59,#,23226423,Y,23957068,Y,Y,N,N,N,N,F,-,,,,,AZ,Pima,Sahuarita,Sahuarita,Walden Grove High School
+#23960763,[BIOLBS] Biology,Math 112,,,,,,5,,292,#,18027777,N,23960763,Y,Y,N,N,N,N,M,-,,,,3.82,NM,-,Santa Fe,Santa Fe,Santa Fe High School
+#23964004,[BMGTBSBA] Business Management,Math 112,,,,,,0,638,698,#,18044770,N,23964004,Y,N,N,Y,N,N,F,-,,,,3.51,-,-,-,-,High School in Kazakhstan
+#23965627,[LAWBA] Law,"SBS 200 or Math 112, See Advisor",,,,,,3.75,396,46,#,18012410,N,23965627,Y,Y,N,Y,N,N,M,-,,,,3.51,CA,Los Angeles,Long Beach,Long Beach,Robert A Millikan High School
+#23965937,[MCBBS] Molecular & Cellular Biology,Math 112,,,,,,0,523,181,#,18032801,N,23965937,Y,N,N,N,N,N,F,-,,,,,OR,-,Portland,Portland,Franklin High School
+#23966537,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,5,,197,#,18042820,Y,23966537,N,N,N,N,N,N,M,-,,,,,-,-,-,-,High School in China
+#23967069,[ECONBA] Economics,Math 112,,,,,,4.25,534,97,#,18045083,N,23967069,Y,N,N,N,N,N,M,-,,,,2.93,-,-,-,-,High School in UAE
+#23967316,[NTDIBS] Nutrition and Dietetics,Math 112,,,,,,5,442,248,#,23066493,Y,23967316,Y,N,N,N,N,N,F,-,,,,,AZ,Pima,Tucson,Tucson,Aztec Middle College Desert Vista
+#23967419,[BMGTBSBA] Business Management,Math 112,,,,,,5,514,301,#,18010649,Y,23967419,Y,Y,N,N,N,N,M,-,,,,,AZ,Santa Cruz,Nogales,Nogales,Nogales High School
+#23968610,[PHLBS] Public Health,Math 112,,,,,,5,259,120,#,23261983,N,23968610,N,N,N,N,N,N,F,-,,,,3.35,SON,-,Hermosillo,Hermosillo,Colegio Regis La Salle
+#23973608,[MEDBS] Medicine,Math 112,,,,,,5,596,114,#,18010757,Y,23973608,N,N,N,N,Y,N,F,Navajo Nation (New Mexico),,,,,AZ,Apache,Saint Michaels,Saint Michaels,Saint Michael Indian School
+#23973985,[BMGTBSBA] Business Management,Math 112,,,,,,5,530,222,#,24066884,Y,23973985,N,N,N,N,N,N,M,-,,,,2.88,SON,-,Navojoa,Navojoa,Colegio Del Pacifico De La Universidad De Navojoa
+#23974741,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,,,,,,5,595,237,#,23452182,Y,23974741,N,Y,N,N,N,N,F,-,,,,3.82,AZ,Maricopa,Phoenix,Phoenix,Western School of Science and Technology - CFA
+#23974995,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,5,,239,#,18049031,Y,23974995,N,Y,N,N,N,N,F,-,,,,2.85,AZ,Pima,Tucson,Tucson,Empire High School
+#23975333,[VSCBS] Veterinary Science,Math 112,,,,,,5,341,134,#,18010670,Y,23975333,Y,N,N,N,N,N,F,-,30,24,22,2.84,AZ,Maricopa,El Mirage,El Mirage,Dysart High School
+#23975815,[COSCBS] Computer Science,Math 112,,,,,,5,424,158,#,18010745,Y,23975815,Y,N,N,N,N,N,M,-,,,,3.88,AZ,Pima,Sahuarita,Sahuarita,Sahuarita High School
+#23976039,[MEDBS] Medicine,Math 112,,,,,,5,466,119,#,18049772,N,23976039,N,Y,N,N,N,N,F,-,,,,3.5,AZ,Maricopa,Buckeye,Buckeye,Verrado High School
+#23977519,[PSYCBA] Psychology,Math 107,,,,,UNIV 100,5,288,32,#,18010796,N,23977519,Y,N,N,N,N,N,F,-,,,,2.61,AZ,Cochise,Sierra Vista,Sierra Vista,Buena High School
+#23980233,[NURSBSN] Nursing,Math 112,,,,,,0,455,501,#,18010883,Y,23980233,N,Y,N,N,N,N,F,-,,,,3.39,AZ,Pima,Tucson,Tucson,Vail Academy and High School
+#23980347,[PSYSBS] Psychological Science,Math 112,,SALT,,,,3.5,441,166,#,18010826,Y,23980347,Y,N,N,N,N,N,F,-,,,,3.03,AZ,Pima,Tucson,Tucson,Amphitheater High School
+#23981883,[NMSEGND] No Major Selected Engineering,Math 112,,,,,,5,387,115,#,18010862,Y,23981883,Y,Y,N,N,N,N,M,-,,,,3.13,AZ,Pima,Tucson,Tucson,Sahuaro High School
+#23981987,[MEDBS] Medicine,Math 112,,,,,,5,309,59,#,18010876,Y,23981987,Y,Y,N,N,N,N,F,-,14,11,16,3.37,AZ,Pima,Tucson,Tucson,Sunnyside High School
+#23983033,[BMGTBSBA] Business Management,Math 112,,,,,,0,459,200,#,18010550,Y,23983033,Y,N,N,N,N,Y,F,-,,,,2.67,AZ,Maricopa,Chandler,Chandler,Hamilton High School
+#23983635,[MEDBS] Medicine,Math 112,,,,,,4.25,,35,#,18010867,Y,23983635,N,Y,N,N,N,N,F,-,,,,2.92,AZ,Pima,Tucson,Tucson,Salpointe Catholic High School
+#23983990,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,0,624,528,#,18014715,Y,23983990,Y,N,N,N,N,N,M,-,,,,3.07,CT,-,Kent,Kent,Kent School
+#23985170,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,UNIV 100,0,522,229,#,18010876,Y,23985170,Y,Y,N,N,N,N,M,-,,,,2.46,AZ,Pima,Tucson,Tucson,Sunnyside High School
+#23985209,[MEDBS] Medicine,Math 112,,,,,,5,,68,#,18010878,Y,23985209,Y,Y,N,N,N,N,F,-,,,,3.26,AZ,Pima,Tucson,Tucson,Tucson High Magnet School
+#23985593,[BMGTBSBA] Business Management,Math 112,,,,,UNIV 100,5,404,114,#,18010839,N,23985593,N,Y,N,N,N,N,F,-,,,,3.5,AZ,Pima,Tucson,Tucson,Catalina Foothills High School
+#23986536,[NCSBS] Neuroscience & Cognitive Sci,Math 112,,,,,UNIV 100,5,300,179,#,18010867,Y,23986536,Y,Y,N,N,N,N,F,-,,,,3,AZ,Pima,Tucson,Tucson,Salpointe Catholic High School
+#23986784,[MEDBS] Medicine,Math 112,,,,,UNIV 100,5,445,94,#,18010876,Y,23986784,N,N,N,N,N,Y,F,-,,,,3.08,AZ,Pima,Tucson,Tucson,Sunnyside High School
+#23987023,[BMGTBSBA] Business Management,Math 112,,,,,UNIV 100,0,361,133,#,18010876,Y,23987023,N,Y,N,N,Y,Y,M,Tribal Affiliation Not Reported,23,25,16,2.6,AZ,Pima,Tucson,Tucson,Sunnyside High School
+#23987102,[MEDBS] Medicine,Math 112,,,,,,5,242,158,#,18010876,Y,23987102,Y,Y,N,N,N,N,F,-,,,,2.84,AZ,Pima,Tucson,Tucson,Sunnyside High School
+#23987117,[BMGTBSBA] Business Management,Math 112,,,,,,1.5,283,91,#,18010876,Y,23987117,Y,Y,N,N,N,N,F,-,,,,3.2,AZ,Pima,Tucson,Tucson,Sunnyside High School
+#23987145,[PHSCBS] Pharmaceutical Sciences,Math 112,,,,,,5,603,145,#,18010876,Y,23987145,Y,Y,N,N,N,N,M,-,16,15,15,3.57,AZ,Pima,Tucson,Tucson,Sunnyside High School
+#23988256,[NMSALSND] No Major Selected Ag Life Sci,See Advisor,,SALT,,,,5,450,146,#,18010886,N,23988256,Y,N,N,N,N,N,M,-,,,,3.85,AZ,Pima,Vail,Vail,Cienega High School
+#23988328,[SBEBSSBE] Sustainable Built Environments,Math 108 (preferred) or Math 112,,,,,,5,282,89,#,18010691,N,23988328,N,N,N,N,N,Y,M,-,,,,2.79,AZ,Maricopa,Phoenix,Phoenix,Moon Valley High School
+#23988379,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,5,506,200,#,18049772,N,23988379,N,Y,N,Y,N,N,F,-,31,28,21,3.5,AZ,Maricopa,Buckeye,Buckeye,Verrado High School
+#23990313,[STDOBA] Studio Art,See Advisor,,,,,,5,571,134,#,18010532,N,23990313,Y,N,N,N,N,N,F,-,,,,3.26,AZ,Maricopa,Cave Creek,Cave Creek,Cactus Shadows High School
+#23990962,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,5,531,340,#,23856969,N,23990962,Y,N,N,N,Y,N,F,"Pokagon Band of Potawatomi Indians, MI and IN",,,,3,VA,-,Reston,Reston,The Keystone School
+#23991819,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,5,,186,#,18010876,Y,23991819,N,Y,N,N,N,N,F,-,,,,2.69,AZ,Pima,Tucson,Tucson,Sunnyside High School
+#23992067,[BIOCBS] Biochemistry,Math 112,,,,,,0.75,469,216,#,18010876,Y,23992067,N,Y,N,N,N,N,F,-,21,17,14,2.5,AZ,Pima,Tucson,Tucson,Sunnyside High School
+#23992305,[BMGTBSBA] Business Management,Math 112,,,,,UNIV 100,5,,146,#,18012542,N,23992305,Y,N,N,N,N,N,F,-,,,,3.16,CA,Los Angeles,Los Angeles,Los Angeles,Notre Dame Academy
+#23992833,[COSCBS] Computer Science,Math 112,,,,,,5,337,209,#,18010856,Y,23992833,N,Y,N,N,N,Y,M,-,,,,2.2,AZ,Pima,Tucson,Tucson,Mountain View High School
+#23992839,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,5,,290,#,18010839,N,23992839,Y,Y,N,N,N,N,F,-,,,,2.4,AZ,Pima,Tucson,Tucson,Catalina Foothills High School
+#23993246,[MEDBS] Medicine,Math 112,,,,,UNIV 100,0,,12,#,18010838,Y,23993246,N,N,N,N,N,Y,F,-,,,,2.93,AZ,Pima,Tucson,Tucson,Catalina Magnet High School
+#23993629,[BIOLBS] Biology,Math 112,,,,,,5,630,338,#,18010846,Y,23993629,N,Y,N,N,N,N,F,-,,,,3.2,AZ,Pima,Tucson,Tucson,Flowing Wells High School
+#23994998,[PSYCBA] Psychology,Math 107,,,,,UNIV 100,5,346,65,#,18010745,N,23994998,N,Y,N,N,N,Y,F,-,,,,2.64,AZ,Pima,Sahuarita,Sahuarita,Sahuarita High School
+#23995442,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,UNIV 100,5,593,94,#,18044580,N,23995442,Y,N,N,N,N,N,F,-,,,,2.96,AZ,Maricopa,Phoenix,Phoenix,Sandra Day O'Connor High School
+#23995544,[AGTEBS] Agricultural Tech Mgmt & Educ,Math 112,,,,,,5,186,81,#,18010638,Y,23995544,N,Y,N,N,N,N,F,-,,,,3.33,AZ,Maricopa,Mesa,Mesa,Westwood High School
+#23996501,[MEDBS] Medicine,Math 112,,,,,,5,558,266,#,18010878,Y,23996501,Y,Y,N,N,N,N,F,-,,,,3.61,AZ,Pima,Tucson,Tucson,Tucson High Magnet School
+#23997082,[PSYCBA] Psychology,Math 107,,,,,,5,565,144,#,18010856,N,23997082,N,N,N,Y,N,N,F,-,,,,3.69,AZ,Pima,Tucson,Tucson,Mountain View High School
+#23997462,[BMGTBSBA] Business Management,Math 112,,,,,,5,615,374,#,18012323,N,23997462,Y,N,N,N,N,N,M,-,,,,3.46,CA,Marin,Larkspur,Larkspur,Redwood High School
+#23997607,[NCSBS] Neuroscience & Cognitive Sci,Math 112,,,,,,5,414,156,#,18044081,N,23997607,Y,N,N,N,N,N,F,-,,,,3,AZ,Maricopa,Scottsdale,Scottsdale,Notre Dame Prep High School
+#23997718,[BMGTBSBA] Business Management,Math 112,,,,,,0,587,281,#,18010807,Y,23997718,N,Y,N,N,N,N,F,-,,,,2.59,AZ,Maricopa,Tempe,Tempe,Marcos De Niza High School
+#23997909,[BMGTBSBA] Business Management,Math 112,,,,,,5,384,392,#,18042778,N,23997909,Y,N,N,N,N,N,M,-,,,,2.72,AZ,Maricopa,Goodyear,Goodyear,Estrella Foothills High School
+#23998296,[PSYSBS] Psychological Science,Math 112,,,,,,5,496,268,#,23810850,N,23998296,Y,N,N,N,N,N,F,-,,,,3.17,MT,-,Bozeman,Bozeman,Gallatin High School
+#23998898,[BMGTBSBA] Business Management,Math 112,,,,,,5,,233,#,18010859,Y,23998898,N,Y,N,N,N,N,M,-,,,,3.07,AZ,Pima,Tucson,Tucson,Pueblo High School
+#23999341,[CYBRBAPS] Cyber Operations,"PHIL 110, prefer Math 107",,,,,,4.25,600,72,#,23140883,Y,23999341,N,Y,N,N,N,N,M,-,,,,2.92,AZ,Maricopa,Surprise,Surprise,Shadow Ridge High School
+#24001065,[BMGTBSBA] Business Management,Math 112,,,,,,1.25,407,383,#,18011989,Y,24001065,Y,N,N,N,N,N,M,-,35,24,21,3.8,CA,San Diego,San Marcos,San Marcos,San Marcos High School
+#24001523,[BMGTBSBA] Business Management,Math 112,,,,,,5,575,339,#,18024474,N,24001523,Y,N,N,N,N,N,M,-,,,,3.18,MN,-,Maplewood,Maplewood,Hill-Murray School
+#24001885,[ECOLBS] Ecology & Evolutionary Biology,Math 112,,,,,,2,,393,#,23478317,N,24001885,Y,N,N,N,N,Y,M,-,,,,3.35,AZ,Pinal,Casa Grande,Casa Grande,ASU Preparatory Academy- Casa Grande
+#24003156,[NMSCLASND] No Major Selected A-Center,See Advisor,,SALT,,,,5,332,144,#,18014260,Y,24003156,Y,N,N,N,N,N,M,-,,,,3.12,CO,-,Denver,Denver,Denver Academy
+#24004289,[CJSBS] Criminal Justice Studies,"SBS 200, see advisor",,,,,UNIV 100,5,425,142,#,18014329,Y,24004289,Y,N,N,N,N,N,F,-,,,,2.57,CO,-,Erie,Erie,Erie High School
+#24004798,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,UNIV 100,5,204,121,#,18010844,Y,24004798,N,Y,N,N,N,N,M,-,,,,2.82,AZ,Pima,Tucson,Tucson,Desert Christian High School
+#24004801,[BMGTBSBA] Business Management,Math 112,,,,,,0,425,209,#,18049032,Y,24004801,N,Y,N,N,N,N,M,-,,,,2.96,AZ,Pima,Tucson,Tucson,San Miguel High School
+#24005093,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,5,453,294,#,18010535,N,24005093,Y,N,N,N,N,N,F,-,,,,2.89,AZ,Maricopa,Chandler,Chandler,Seton Catholic High School
+#24005155,[ABEMBS] Agribusiness Economics & Mgmt,Math 112,,,,,UNIV 100,2,524,270,#,23265745,N,24005155,Y,N,N,N,N,N,F,-,,,,3.27,-,-,Safwa,Safwa,The 1st secondary scl in Safwa
+#24005217,[BMGTBSBA] Business Management,Math 112,,,,,,5,,42,#,18010883,N,24005217,N,Y,N,Y,N,N,F,-,11,14,14,3.03,AZ,Pima,Tucson,Tucson,Vail Academy and High School
+#24006325,[BMGTBSBA] Business Management,Math 112,,,,,,5,,204,#,18036439,Y,24006325,Y,Y,N,N,N,N,F,-,,,,2.91,TX,El Paso,El Paso,El Paso,Socorro High School
+#24006911,[NHPBS] Nutrition & Human Performance,Math 112,,,,,,0,480,239,#,18024474,Y,24006911,Y,N,N,N,N,N,M,-,,,,2.66,MN,-,Maplewood,Maplewood,Hill-Murray School
+#24006931,[BMGTBSBA] Business Management,Math 112,,SALT,,,,5,570,167,#,18027537,N,24006931,Y,Y,N,N,N,N,M,-,,,,2.69,NJ,-,Westfield,Westfield,Westfield High School
+#24007019,[NTRSBS] Natural Resources,Math 112,,,,,,0,430,90,#,18039405,N,24007019,Y,N,N,N,N,N,F,-,,,,,WA,-,Snohomish,Snohomish,Snohomish Senior High School
+#24007422,[LAWBA] Law,"SBS 200 or Math 112, See Advisor",,,,,,5,541,183,#,18040056,Y,24007422,Y,N,N,N,N,N,M,-,,,,3.42,WI,-,La Crosse,La Crosse,Central High School
+#24007518,[BMGTBSBA] Business Management,Math 112,,,,,,0,506,566,#,18026815,N,24007518,Y,N,N,N,N,N,M,-,,,,3.38,NH,-,Northwood,Northwood,Coe Brown Northwood Academy
+#24007786,[BMGTBSBA] Business Management,Math 112,,SALT,,,,5,346,29,#,18039223,N,24007786,Y,N,N,N,N,N,F,-,,,,2.44,WA,-,Mercer Island,Mercer Island,Mercer Island High School
+#24008228,[BMGTBSBA] Business Management,Math 112,,,,,UNIV 100,5,462,55,#,18017735,Y,24008228,Y,Y,N,N,N,N,F,-,,,,2.67,IL,-,Chicago,Chicago,Lake View High School
+#24008310,[SPSBS] Sustainable Plant Systems,Math 112,,,,,,5,614,92,#,18010796,N,24008310,N,N,N,N,N,Y,M,-,16,18,13,2.92,AZ,Cochise,Sierra Vista,Sierra Vista,Buena High School
+#24008673,[PHLBS] Public Health,Math 112,,,,,,5,519,287,#,18039011,N,24008673,Y,N,N,Y,N,N,F,-,,,,3.07,WA,-,Bellevue,Bellevue,Newport High School
+#24009410,[REBS] Real Estate,Math 107,,,,,UNIV 100,0,,509,#,18018614,N,24009410,Y,N,N,N,N,N,M,-,,,,2.52,IL,-,Winnetka,Winnetka,New Trier Township High School
+#24010093,[ECONBA] Economics,Math 112,,,,,,5,,197,#,18027211,N,24010093,Y,N,N,N,N,N,F,-,,,,2.64,NJ,-,Moorestown,Moorestown,Moorestown High School
+#24010215,[BMGTBSBA] Business Management,Math 112,,,,,,5,,166,#,18010873,N,24010215,N,N,N,Y,N,N,M,-,,,,2.65,AZ,Pima,Oro Valley,Oro Valley,Ironwood Ridge High School
+#24011533,[VSCBS] Veterinary Science,Math 112,,SALT,DRC,,,5,386,57,#,23361602,N,24011533,Y,N,N,N,N,N,F,-,,,,3.71,IL,-,Chicago,Chicago,Wolcott School
+#24012559,[NHPBS] Nutrition & Human Performance,Math 112,,,,,,0,454,392,#,18023441,N,24012559,Y,Y,N,N,N,N,M,-,,,,3.11,MI,-,Jackson,Jackson,Northwest High School
+#24013468,[BMGTBSBA] Business Management,Math 112,,,,,UNIV 100,1.25,,96,#,18010842,Y,24013468,N,N,N,N,N,Y,F,-,19,10,15,3.68,AZ,Pima,Tucson,Tucson,Desert View High School
+#24013492,[BMGTBSBA] Business Management,Math 112,,,,,,5,360,220,#,18012523,N,24013492,Y,Y,N,N,N,N,M,-,,,,3.23,CA,Los Angeles,Los Angeles,Los Angeles,Loyola High School
+#24013547,[NTRSBS] Natural Resources,Math 112,,,,,,5,521,268,#,18022199,N,24013547,Y,N,N,N,N,N,F,-,,,,3.5,MD,-,Silver Spring,Silver Spring,Montgomery Blair High School
+#24013892,[NMSSBSND] No Major Selected Soc Beh Sci,"SBS 200, see advisor",,,,,,5,329,101,#,18044580,Y,24013892,Y,N,N,N,N,N,F,-,,,,2.61,AZ,Maricopa,Phoenix,Phoenix,Sandra Day O'Connor High School
+#24014004,[BMGTBSBA] Business Management,Math 112,,,,,,5,228,108,#,18050014,N,24014004,Y,Y,N,N,N,N,M,-,,,,2.64,CA,Los Angeles,Chatsworth,Chatsworth,Sierra Canyon School
+#24014299,[NMSCLASND] No Major Selected A-Center,See Advisor,,SALT,,,,5,,197,#,18022749,N,24014299,Y,N,N,Y,N,N,M,-,,,,2.71,MA,-,Sudbury,Sudbury,Lincoln-Sudbury Regl High Sch
+#24014524,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,5,406,176,#,18010836,N,24014524,Y,Y,N,N,N,N,M,-,23,23,19,2.5,AZ,Pima,Oro Valley,Oro Valley,Canyon Del Oro High School
+#24015005,[PSYSBS] Psychological Science,Math 112,,,,,,5,365,40,#,23131490,N,24015005,N,N,N,N,N,Y,M,-,,,,2.53,AZ,Maricopa,Phoenix,Phoenix,Sierra Linda High School
+#24015282,[FITSBA] Fashion Industry Sci & Tech,Math 107,,,,,UNIV 100,5,268,55,#,18018303,N,24015282,Y,N,N,N,N,N,F,-,,,,2.48,IL,-,Oak Park,Oak Park,Oak Park-River Forest Hs
+#24015600,[BMGTBSBA] Business Management,Math 112,,,,,,2.75,302,123,#,18013159,Y,24015600,Y,N,N,N,N,Y,M,-,,,,3.32,CA,Los Angeles,Reseda,Reseda,Cleveland High School
+#24015606,[PSYCBA] Psychology,Math 107,,,,,,5,,292,#,18014143,N,24015606,Y,N,N,N,N,N,F,-,,,,3.85,CO,-,Breckenridge,Breckenridge,Summit High School
+#24015627,[BMGTBSBA] Business Management,Math 112,,,,,UNIV 100,5,337,155,#,18013661,N,24015627,N,N,Y,Y,N,N,M,-,,,,3.07,CA,Santa Barbara,Santa Maria,Santa Maria,Saint Joseph High School
+#24015816,[NMSALSND] No Major Selected Ag Life Sci,See Advisor,,,,,UNIV 100,5,358,111,#,18049032,Y,24015816,Y,Y,N,N,N,N,M,-,,,,2.67,AZ,Pima,Tucson,Tucson,San Miguel High School
+#24015832,[COSCBS] Computer Science,Math 112,,,,,,5,484,168,#,18049032,Y,24015832,N,Y,N,N,N,N,M,-,,,,2.82,AZ,Pima,Tucson,Tucson,San Miguel High School
+#24016032,[NMSEGND] No Major Selected Engineering,Math 112,,,,,,0,505,265,#,18027815,Y,24016032,N,N,N,N,Y,N,F,Tribal Affiliation Not Reported,,,,3.15,NM,-,Zuni,Zuni,Zuni High School
+#24016365,[BMGTBSBA] Business Management,Math 112,,,,,,5,411,156,#,18014405,N,24016365,Y,N,N,N,N,N,M,-,,,,3.21,CO,-,Highlands Ranch,Highlands Ranch,Mountain Vista High School
+#24016466,[CJSBS] Criminal Justice Studies,"SBS 200, see advisor",,,,,UNIV 100,5,268,74,#,18049032,Y,24016466,N,Y,N,N,N,N,F,-,,,,2.5,AZ,Pima,Tucson,Tucson,San Miguel High School
+#24016614,[NTRSBS] Natural Resources,Math 112,,,,,,5,660,488,#,18027597,N,24016614,Y,Y,N,N,N,N,F,-,,,,2.5,NM,-,Albuquerque,Albuquerque,La Cueva High School
+#24017765,[BMGTBSBA] Business Management,Math 112,,,,,,5,388,285,#,18011692,N,24017765,Y,N,N,N,N,N,M,-,,,,2.61,CA,San Diego,Carlsbad,Carlsbad,Carlsbad High School
+#24017769,[PSYSBS] Psychological Science,Math 112,,,,,,5,445,128,#,18016417,N,24017769,Y,N,N,N,N,N,F,-,22,23,20,3.32,GA,-,Atlanta,Atlanta,Riverwood High School
+#24017807,[BMGTBSBA] Business Management,Math 112,,SALT,,,,5,381,120,#,23764883,N,24017807,Y,N,N,N,N,N,M,-,,,,4,CA,-,San Diego,San Diego,High Tech High Mesa
+#24018133,[ARCHBARCH] Architecture,Math 108,,,,,,5,406,189,#,18014003,N,24018133,Y,Y,N,N,N,Y,F,-,,,,3.22,CA,Yolo,West Sacramento,West Sacramento,River City High School
+#24018565,[BMGTBSBA] Business Management,Math 112,,,,,,5,363,208,#,18016193,N,24018565,Y,N,N,N,N,N,M,-,,,,2.92,FL,-,Tampa,Tampa,H B Plant High School
+#24018609,[APBTBS] Applied Biotechnology,Math 112,,,,,UNIV 100,0,,502,#,23412535,N,24018609,Y,N,N,N,N,N,F,-,,,,2.76,NY,-,New York,New York,Avenues - The World School
+#24018953,[CHEMBS] Chemistry,Math 112,,,,,,5,671,226,#,18010846,Y,24018953,Y,N,N,N,N,N,F,-,,,,3.22,AZ,Pima,Tucson,Tucson,Flowing Wells High School
+#24020278,[BMGTBSBA] Business Management,Math 112,,,,,,5,476,189,#,18010697,N,24020278,Y,N,N,N,N,N,F,-,,,,2.75,AZ,Maricopa,Phoenix,Phoenix,Xavier College Prep
+#24020298,[NHPBS] Nutrition & Human Performance,Math 112,,,,,,5,616,160,#,18046436,N,24020298,Y,N,N,Y,N,N,F,-,,,,2.75,CO,-,Aurora,Aurora,Cherokee Trail High School
+#24020493,[PSYSBS] Psychological Science,Math 112,,,,,,5,501,166,#,18013553,N,24020493,Y,N,N,Y,N,N,M,-,,,,2.65,CA,San Luis Obispo,San Luis Obispo,San Luis Obispo,San Luis Obispo High School
+#24021327,[BMGTBSBA] Business Management,Math 112,,,,,,5,424,110,#,18013513,Y,24021327,N,N,N,Y,N,N,F,-,,,,3.35,CA,Santa Clara,San Jose,San Jose,Pioneer High School
+#24021396,[BIOLBS] Biology,Math 112,,,,,,5,450,126,#,18010525,Y,24021396,N,N,N,N,N,Y,F,-,,,,3.15,AZ,Maricopa,Buckeye,Buckeye,Buckeye Union High School
+#24021815,[BIOLBS] Biology,Math 112,,,,,,5,398,125,#,18026824,Y,24021815,N,N,N,N,N,Y,F,-,,,,3.08,NH,-,Plaistow,Plaistow,Timberlane Reg High School
+#24022126,[MEDBS] Medicine,Math 112,,,,,,5,305,164,#,18010870,Y,24022126,N,N,N,Y,N,N,F,-,,,,2.62,AZ,Pima,Tucson,Tucson,Santa Rita High School
+#24022218,[STDOBFA] Studio Art,See Advisor,,,,,,5,602,152,#,18029933,N,24022218,N,N,N,Y,N,N,F,-,23,22,16,4,NC,-,Hampstead,Hampstead,Topsail High School
+#24022232,[BMGTBSBA] Business Management,Math 112,,,,,,5,403,181,#,18026956,N,24022232,Y,N,N,N,N,N,F,-,,,,3.28,NJ,-,Cranford,Cranford,Cranford High School
+#24023198,[PHLBS] Public Health,Math 112,,,,,,5,384,239,#,18013880,N,24023198,N,Y,N,Y,N,N,F,-,,,,3.42,CA,San Bernardino,Upland,Upland,Upland High School
+#24024940,[MEDBS] Medicine,Math 112,,,,,,5,178,103,#,18037337,Y,24024940,N,N,N,N,Y,N,F,Navajo Nation (New Mexico),,,,2.75,TX,Ector,Odessa,Odessa,Permian High School
+#24025215,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,UNIV 100,5,273,108,#,18011765,Y,24025215,N,Y,N,N,N,N,F,-,,,,2.76,CA,San Diego,Chula Vista,Chula Vista,Eastlake High School
+#24025854,[BMGTBSBA] Business Management,Math 112,,,,,,5,561,233,#,18013461,N,24025854,Y,N,N,N,N,N,F,-,,,,3.14,CA,San Francisco,San Francisco,San Francisco,Saint Ignatius College Prep
+#24026049,[BIOLBS] Biology,Math 112,,,,,UNIV 100,5,,179,#,18027785,Y,24026049,N,N,N,N,Y,N,F,Tribal Affiliation Not Reported,,,,3,NM,-,Shiprock,Shiprock,Shiprock High School
+#24026127,[BIOLBS] Biology,Math 112,,,,,,0,429,509,#,18013835,Y,24026127,Y,Y,N,N,N,N,M,-,,,,2.61,CA,Riverside,Temecula,Temecula,Chaparral High School
+#24026758,[VSCBS] Veterinary Science,Math 112,,,,,,5,374,138,#,23250018,Y,24026758,N,Y,N,N,Y,N,F,"Pueblo of San Felipe, New Mexico",,,,2.96,AZ,Yavapai,Prescott Valley,Prescott Valley,AAEC- Prescott Valley
+#24027015,[BIOLBS] Biology,Math 112,,,,,,5,467,79,#,18032829,N,24027015,Y,N,N,N,N,N,M,-,,,,,OR,-,Lake Oswego,Lake Oswego,Westside Christian High School
+#24027690,[BMGTBSBA] Business Management,Math 112,,,,,UNIV 100,1.25,369,100,#,18026617,N,24027690,Y,N,N,N,N,N,M,-,,,,3.03,NV,-,Incline Village,Incline Village,Incline High School
+#24029402,[PHSCBS] Pharmaceutical Sciences,Math 112,,,,,,5,614,227,#,18010810,N,24029402,Y,Y,N,N,N,N,F,-,,,,3.25,AZ,Maricopa,Tempe,Tempe,Tempe High School
+#24029981,[MEDBS] Medicine,Math 112,,,,,,5,425,129,#,18024523,Y,24029981,Y,N,N,N,N,N,F,-,,,,2.63,MN,-,Shakopee,Shakopee,Shakopee Senior High School
+#24031259,[ENVSBSES] Environmental Science,Math 112,,,,,,5,373,80,#,23562899,N,24031259,N,Y,N,N,N,N,F,-,,,,,AZ,Maricopa,Tempe,Tempe,ASU Prep Digital
+#24031328,[BIOLBS] Biology,Math 112,,,,,,5,586,365,#,18033970,N,24031328,Y,N,N,N,N,N,F,-,,,,3.15,PA,-,Quakertown,Quakertown,Quakertown Community Senior Hs
+#24031341,[BMGTBSBA] Business Management,Math 112,,,,,,5,170,30,#,18013379,Y,24031341,N,N,N,N,N,Y,F,-,,,,2.84,CA,Los Angeles,Mission Hills,Mission Hills,Bishop Alemany High School
+#24032180,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,,,,,,5,413,198,#,18024447,N,24032180,Y,N,N,N,N,N,F,-,,,,2.9,MN,-,Rosemount,Rosemount,Rosemount High School
+#24032212,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,4.5,347,164,#,18010613,Y,24032212,Y,N,N,N,N,N,F,-,,,,2.53,AZ,Mohave,Lake Havasu City,Lake Havasu City,Lake Havasu High School
+#24032699,[COMMBA] Communication,"SBS 200, see advisor",,,,,UNIV 100,0,503,147,#,18012683,N,24032699,N,Y,N,N,N,N,F,-,,,,2.86,CA,Stanislaus,Modesto,Modesto,Central Catholic High School
+#24032762,[BMGTBSBA] Business Management,Math 112,,,,,,0,405,693,#,23891627,N,24032762,N,N,N,N,N,N,M,-,,,,3.91,ON,-,Toronto,Toronto,Bishop Strachan School
+#24033495,[BIOLBS] Biology,Math 112,,,,,,3.5,,79,#,23999482,Y,24033495,Y,Y,N,N,N,N,F,-,,,,2.87,AZ,Pima,Tucson,Tucson,Desert Sage High School
+#24035038,[BMGTBSBA] Business Management,Math 112,,,,,UNIV 100,5,,57,#,18050072,N,24035038,Y,N,N,N,N,N,M,-,,,,2.5,WA,-,Camas,Camas,Union High School
+#24035238,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,,,,,,0,290,278,#,18030944,Y,24035238,N,N,N,N,N,Y,F,-,,,,2.64,OH,-,Cleveland,Cleveland,Mayfield High School
+#24036571,[NMSEGND] No Major Selected Engineering,Math 112,,,,,,5,361,115,#,18010597,N,24036571,Y,N,N,N,N,N,M,-,,,,3.43,AZ,Maricopa,Gilbert,Gilbert,Mesquite High School
+#24036923,[NMSEGND] No Major Selected Engineering,Math 112,,,,,,5,594,334,#,18049033,Y,24036923,Y,N,N,N,N,N,F,-,,,,3.96,AZ,Pima,Tucson,Tucson,City High School
+#24037706,[BIOLBS] Biology,Math 112,,,,,,5,466,200,#,18010886,N,24037706,N,Y,N,N,N,N,M,-,,,,3.46,AZ,Pima,Vail,Vail,Cienega High School
+#24038717,[VSCBS] Veterinary Science,Math 112,,,,,,5,595,162,#,18038126,Y,24038717,Y,N,N,Y,N,N,M,-,,,,3,UT,-,St George,St George,Snow Canyon High School
+#24039514,[BMGTBSBA] Business Management,Math 112,,,,,UNIV 100,5,407,151,#,18019500,N,24039514,Y,N,N,Y,N,N,F,-,,,,2.9,IA,-,Iowa City,Iowa City,City High School
+#24040042,[BMGTBSBA] Business Management,Math 112,,,,,,4.25,336,163,#,23215946,N,24040042,Y,N,N,N,N,N,F,-,,,,3.75,CA,Los Angeles,Los Angeles,Los Angeles,Fusion Academy Los Angeles
+#24041716,[BMGTBSBA] Business Management,Math 112,,,,,,0,408,511,#,18027662,Y,24041716,Y,Y,N,N,N,N,M,-,,,,3.07,NM,-,Fairview,Fairview,Espanola Valley High School
+#24042273,[COSCBA] Computer Science,Math 112,,SALT,DRC,,,5,609,98,#,23721587,N,24042273,N,N,N,N,Y,N,F,The Muscogee (Creek) Nation,,,,3.88,AZ,Pima,Tucson,Tucson,Mica Mountain High School
+#24043292,[BIOLBS] Biology,Math 112,,,,,,5,663,224,#,18024419,N,24043292,Y,N,N,N,N,N,F,-,,,,2.69,MN,-,Savage,Savage,Prior Lake High School
+#24044010,[BIOLBS] Biology,Math 112,,,,,,5,650,371,#,18022442,Y,24044010,Y,Y,N,N,N,N,F,-,,,,3.73,MA,-,Fall River,Fall River,Diman Regl Vo-Tech Hs
+#24045245,[COSCBS] Computer Science,Math 112,,,,,UNIV 100,5,474,128,#,18010839,N,24045245,N,N,N,Y,N,N,M,-,,,,3,AZ,Pima,Tucson,Tucson,Catalina Foothills High School
+#24045250,[BMGTBSBA] Business Management,Math 112,,,,,,5,1,267,#,18027398,N,24045250,Y,N,N,N,N,N,M,-,,,,2.92,NJ,-,Richland,Richland,Saint Augustine Preparatory Sc
+#24045350,[BMGTBSBA] Business Management,Math 112,,,,,,5,564,166,#,23130282,Y,24045350,N,Y,N,N,N,Y,M,-,,,,2.57,AZ,Pinal,San Tan Valley,San Tan Valley,Combs High School
+#24046248,[BMGTBSBA] Business Management,Math 112,,,,,,3.5,420,194,#,18013314,N,24046248,Y,N,N,N,N,N,F,-,,,,2.56,CA,Orange,San Clemente,San Clemente,San Clemente High School
+#24046253,[COMMBA] Communication,"SBS 200, see advisor",,,,,,0,451,111,#,18010668,N,24046253,Y,Y,N,N,N,N,F,-,,,,3.21,AZ,Maricopa,Peoria,Peoria,Centennial High School
+#24046335,[PHLBS] Public Health,Math 112,,,,,,5,423,104,#,18013689,Y,24046335,Y,Y,N,N,N,N,F,-,,,,3.39,CA,Los Angeles,Canyon Country,Canyon Country,Canyon High School
+#24046559,[LAWBA] Law,"SBS 200 or Math 112, See Advisor",,,,,,5,559,150,#,18014324,N,24046559,Y,N,N,N,N,N,M,-,,,,2.85,CO,-,Englewood,Englewood,Kent Denver School
+#24046880,[PSYCBA] Psychology,Math 107,,,,,,5,382,140,#,18012598,N,24046880,Y,N,N,Y,N,N,M,-,,,,2.89,CA,Santa Clara,Los Gatos,Los Gatos,Los Gatos High School
+#24047169,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,5,504,67,#,23269614,Y,24047169,N,Y,N,N,N,N,M,-,,,,2.52,AZ,Pima,Tucson,Tucson,Pima Rose Academy
+#24047295,[BIOLBS] Biology,Math 112,,,,,,5,589,194,#,18010740,Y,24047295,Y,Y,N,N,N,N,F,-,,,,3.29,AZ,Santa Cruz,Rio Rico,Rio Rico,Rio Rico High School
+#24047571,[CYBRBAPS] Cyber Operations,"PHIL 110, prefer Math 107",,,,,,5,318,115,#,23530394,Y,24047571,N,N,N,N,N,Y,M,-,,,,2.85,FL,-,Windermere,Windermere,Windermere High School
+#24047775,[ENVSBSES] Environmental Science,Math 112,,,,,,5,,130,#,18014362,Y,24047775,Y,N,N,N,N,N,M,-,,,,,CO,-,Glenwood Springs,Glenwood Springs,Glenwood Springs High School
+#24047878,[BMGTBSBA] Business Management,Math 112,,,,,,5,673,402,#,23269468,N,24047878,Y,N,N,N,N,N,M,-,,,,2.85,ON,-,Toronto,Toronto,Tanenbaum Community Hebrew Academy of Toronto
+#24047941,[BMGTBSBA] Business Management,Math 112,,,,,,5,419,251,#,18019391,N,24047941,Y,N,N,N,N,N,M,-,,,,3.07,IA,-,West Des Moines,West Des Moines,Dowling High School
+#24048087,[BMGTBSBA] Business Management,Math 112,,,,,,3.5,442,91,#,18010780,N,24048087,Y,N,N,N,N,N,M,-,,,,2.73,AZ,Maricopa,Scottsdale,Scottsdale,Chaparral High School
+#24048175,[PSYCBA] Psychology,Math 107,,,,,,5,387,177,#,18010878,N,24048175,Y,Y,N,N,N,N,M,-,,,,3.1,AZ,Pima,Tucson,Tucson,Tucson High Magnet School
+#24048361,[COMMBA] Communication,"SBS 200, see advisor",,,,,,5,592,184,#,18011600,N,24048361,Y,N,N,N,N,N,M,-,,,,,CA,Los Angeles,Beverly Hills,Beverly Hills,Beverly Hills High School
+#24048895,[ENVSBSES] Environmental Science,Math 112,,,,,,5,557,118,#,18010631,Y,24048895,Y,N,N,N,N,Y,F,-,,,,3.72,AZ,Maricopa,Mesa,Mesa,Dobson High School
+#24049205,[VSCBS] Veterinary Science,Math 112,,,,,,5,541,257,#,18012821,N,24049205,Y,N,N,N,N,N,F,-,,,,3.5,CA,Marin,Novato,Novato,Nova Education Center
+#24049233,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,UNIV 100,5,452,150,#,18049772,Y,24049233,N,N,N,Y,N,N,F,-,,,,3.11,AZ,Maricopa,Buckeye,Buckeye,Verrado High School
+#24049511,[BMGTBSBA] Business Management,Math 112,,,,,,4.5,565,247,#,18010824,Y,24049511,N,N,N,N,Y,N,F,Navajo,,,,,AZ,Coconino,Tuba City,Tuba City,Tuba City High School
+#24049791,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,,,,,,3.5,582,230,#,18010862,Y,24049791,N,N,N,N,N,Y,F,-,,,,3.7,AZ,Pima,Tucson,Tucson,Sahuaro High School
+#24050126,[POLBA] Political Science,"SBS 200, see advisor",,,,,,0,672,233,#,18051637,Y,24050126,N,N,N,N,N,Y,F,-,,,,3.97,GA,-,Suwanee,Suwanee,Friendship Christian School
+#24050683,[MEDBS] Medicine,Math 112,,,,,,5,347,285,#,18028934,Y,24050683,N,Y,N,N,N,N,M,-,,,,,NY,-,New York,New York,Manhattan Ctr For Sci And Math
+#24051027,[BMGTBSBA] Business Management,Math 112,,,,,,5,302,75,#,18013569,Y,24051027,Y,N,N,N,N,N,M,-,,,,,CA,San Mateo,San Mateo,San Mateo,Hillsdale High School
+#24051327,[BMGTBSBA] Business Management,Math 112,,,,,,0,447,490,#,18014459,N,24051327,Y,N,N,N,N,N,M,-,,,,3.32,CO,-,Longmont,Longmont,Niwot High School
+#24051661,[RCSCBS] Retailing & Consumer Science,Math 112,,SALT,,,,5,430,62,#,18010780,N,24051661,Y,N,N,N,N,N,M,-,,,,2.75,AZ,Maricopa,Scottsdale,Scottsdale,Chaparral High School
+#24052092,[NTDIBS] Nutrition and Dietetics,Math 112,,,,,,1.5,,124,#,23575876,N,24052092,N,N,N,N,N,N,F,-,,,,4,-,-,Akosombo,Akosombo,Akosombo International School
+#24052677,[PSYCBA] Psychology,Math 107,,,,,UNIV 100,5,409,94,#,18010812,N,24052677,N,N,N,N,N,Y,F,-,,,,2.7,AZ,Maricopa,Chandler,Chandler,Valley Christian High School
+#24052831,[PSYSBS] Psychological Science,Math 112,,,,,,5,512,126,#,18010878,Y,24052831,N,Y,N,N,N,N,F,-,14,11,16,3.28,AZ,Pima,Tucson,Tucson,Tucson High Magnet School
+#24053097,[GEOSBS] Geosciences,Math 112,,,,,,0,369,,#,18010839,N,24053097,Y,N,N,N,N,N,M,-,,,,2.36,AZ,Pima,Tucson,Tucson,Catalina Foothills High School
+#24053340,[NCSBS] Neuroscience & Cognitive Sci,Math 112,,,,,,5,376,369,#,18047381,Y,24053340,N,N,N,N,Y,N,F,Pascua Yaqui,,,,3,AZ,Pima,Tucson,Tucson,Hiaki High School
+#24053587,[ECONBA] Economics,Math 112,,,,,,5,500,211,#,24065698,N,24053587,N,N,N,N,N,N,M,-,,,,3.04,-,-,Phnom Penh,Phnom Penh,AUPP High School Foxcroft Academy
+#24053657,[STDOBFA] Studio Art,See Advisor,,,,,,0,,174,#,18041144,Y,24053657,Y,N,N,N,N,N,M,-,,,,,DC,-,Washington,Washington,GED Test Scores
+#24055202,[COSCBS] Computer Science,Math 112,,,,,,4.5,654,285,#,18010622,Y,24055202,N,Y,N,N,N,N,M,-,,,,3.34,AZ,Pima,Tucson,Tucson,Marana High School
+#24056313,[BMGTBSBA] Business Management,Math 112,,,,,UNIV 100,0,,335,#,18010861,N,24056313,Y,N,N,N,N,N,M,-,16,12,14,2.42,AZ,Pima,Tucson,Tucson,Sabino High School
+#24057667,[BMGTBSBA] Business Management,Math 112,,,,,,0.75,690,171,#,23957155,N,24057667,Y,N,N,Y,N,N,F,-,,,,2.45,NSW,-,Kirribilli,Kirribilli,Loreto Kirribilli
+#24057797,[REBS] Real Estate,Math 107,,,,,UNIV 100,5,,150,#,18012620,N,24057797,Y,N,N,N,N,N,M,-,,,,2.7,CA,Los Angeles,Manhattan Beach,Manhattan Beach,Mira Costa High School
+#24057862,[NCSBS] Neuroscience & Cognitive Sci,Math 112,,,,,,5,657,171,#,18050099,Y,24057862,N,N,N,N,N,Y,M,-,,,,2.53,AZ,Maricopa,Gilbert,Gilbert,Williams Field High School
+#24058667,[BMGTBSBA] Business Management,Math 112,,,,,,0.5,,227,#,18042820,Y,24058667,N,N,N,N,N,N,M,-,,,,4,-,-,-,-,High School in China
+#24061714,[COSCBA] Computer Science,Math 112,,,,,,5,,38,#,18038474,N,24061714,N,N,N,N,N,Y,M,-,,,,,VA,-,Alexandria,Alexandria,Bryant Adult Alternative Hs
+#24062120,[BIOLBS] Biology,Math 112,,,,,,5,608,338,#,18047159,N,24062120,Y,N,N,Y,N,N,M,-,,,,3.17,AZ,Maricopa,Anthem,Anthem,Boulder Creek High School
+#24062545,[BMGTBSBA] Business Management,Math 112,,,,,,5,527,101,#,18047159,N,24062545,Y,N,N,N,N,N,M,-,,,,,AZ,Maricopa,Anthem,Anthem,Boulder Creek High School
+#24062944,"[SLHSBS] Speech, Language & Hearing Sci",Math 112,,,,,,5,645,231,#,18032328,N,24062944,Y,N,N,N,N,N,F,-,,,,3.53,OK,-,Piedmont,Piedmont,Piedmont High School
+#24065345,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,5,555,197,#,18023993,N,24065345,Y,N,N,N,N,N,F,-,,,,3.44,MN,-,Anoka,Anoka,Anoka High School
+#24066177,[AIBS] Artificial Intelligence,Math 112,,,,,,5,549,121,#,18010636,N,24066177,Y,Y,N,N,N,N,M,-,,,,,AZ,Maricopa,Mesa,Mesa,Red Mountain High School
+#24066966,[MEDBS] Medicine,Math 112,,,,,UNIV 100,0,,105,#,18039408,Y,24066966,N,N,Y,N,N,N,F,-,,,,2.46,WA,-,South Hill,South Hill,Emerald Ridge High School
+#24069621,[PSYCBA] Psychology,Math 107,,,,,UNIV 100,5,431,91,#,18031618,Y,24069621,N,N,N,N,N,Y,F,-,,,,2.82,OH,-,Sandusky,Sandusky,Sandusky High School
+#24070117,[BIOLBS] Biology,Math 112,,,,,UNIV 100,3.5,631,211,#,18041144,Y,24070117,N,Y,N,N,N,N,F,-,,,,,DC,-,Washington,Washington,GED Test Scores
+#24070120,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,0.75,512,142,#,18050334,N,24070120,Y,N,N,N,N,N,M,-,,,,3.32,AZ,Maricopa,Mesa,Mesa,Arizona Connections Academy
+#24070591,[BMGTBSBA] Business Management,Math 112,,,,,,3.5,696,220,#,23261562,Y,24070591,N,N,N,N,N,N,M,-,,,,,11,-,Beijing,Beijing,Beijing Xiangyu High School
+#24072684,[GEOSBS] Geosciences,Math 112,,,,,,0,675,208,#,18035538,N,24072684,Y,N,N,N,N,N,M,-,,,,,TN,-,Mount Juliet,Mount Juliet,Mount Juliet High School
+#24072808,[ECEDBAED] Early Childhood Education,Math 106,,,,,UNIV 100,5,97,39,#,23870858,Y,24072808,N,N,N,N,N,Y,F,-,,,,2.88,AZ,Pima,Tucson,Tucson,Tucson Unified Virtual Academy
+#24073281,[ECONBA] Economics,Math 112,,,,,UNIV 100,0.5,444,137,#,18010707,N,24073281,N,Y,N,N,N,N,M,-,,,,2.71,AZ,Maricopa,Phoenix,Phoenix,Mountain Pointe High School
+#24074145,[VSCBS] Veterinary Science,Math 112,,,,,,5,635,167,#,18011968,N,24074145,Y,N,N,N,N,N,F,-,,,,3.36,CA,Riverside,Wildomar,Wildomar,Elsinore High School
+#24074434,[MEDBS] Medicine,Math 112,,,,,,5,567,115,#,23718506,N,24074434,N,Y,N,N,N,N,F,-,,,,3.25,AZ,Maricopa,Mesa,Mesa,Eastmark High School
+#24074833,[MEDBS] Medicine,Math 112,,,,,,5,638,95,#,18031758,N,24074833,Y,N,N,N,N,N,F,-,,,,,OH,-,Wadsworth,Wadsworth,Wadsworth Senior High School
+#Student1.Math100,,,,,,,,0,,,#,,,,,,,,,,,,,,,,,,,,
+#23802422,[MEDBS] Medicine,Math 112,,,,,,5,,288,#,18045129,N,23802422,Y,Y,N,N,N,N,F,-,31,27,27,3.96,AZ,Maricopa,Chandler,Chandler,Basha High School
+#23831500,[ECONBA] Economics,Math 112,,,,,,5,469,133,#,18010839,N,23831500,Y,N,N,Y,N,N,M,-,,,,3.14,AZ,Pima,Tucson,Tucson,Catalina Foothills High School
+#23868132,[PLSCBS] Plant Sciences,Math 112,,,,,,5,,178,#,18010886,N,23868132,Y,N,N,Y,N,Y,F,-,,,,2.52,AZ,Pima,Vail,Vail,Cienega High School
+#23903626,[LARBLA] Landscape Architecture,Math 108,,,,,,4.5,418,152,#,18047988,Y,23903626,N,Y,N,N,N,N,M,-,,,,3,AZ,Pima,Tucson,Tucson,Alta Vista Public Charter Hs
+#23908488,[LAWBA] Law,"SBS 200 or Math 112, See Advisor",,,,,,5,434,293,#,18011963,N,23908488,N,Y,N,N,N,N,F,-,,,,2.8,CA,Los Angeles,El Segundo,El Segundo,El Segundo High School
+#23916043,[NTRSBS] Natural Resources,Math 112,,,,,,0,533,165,#,18014187,Y,23916043,Y,Y,N,N,N,N,M,-,,,,,CO,-,Colorado Springs,Colorado Springs,Mesa Ridge High School
+#23919615,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,,,,,UNIV 100,5,577,122,#,18036227,N,23919615,N,N,N,N,N,Y,F,-,,,,3.5,TX,Dallas,Dallas,Dallas,First Baptist Academy
+#23923094,[BMGTBSBA] Business Management,Math 112,,,,,,0,,231,#,18039139,N,23923094,Y,N,N,N,N,N,M,-,,,,2.78,WA,-,Sammamish,Sammamish,Skyline High School
+#23925415,[BMGTBSBA] Business Management,Math 112,,,,,,3.75,419,236,#,18014104,N,23925415,Y,N,N,N,N,N,M,-,,,,2.82,CO,-,Aspen,Aspen,Aspen High School
+#23934702,[BMGTBSBA] Business Management,Math 112,,,,,,5,398,244,#,18012281,Y,23934702,Y,Y,N,N,N,N,M,-,,,,2.92,CA,Los Angeles,La Canada,La Canada,Saint Francis High School
+#23941021,[RCSCBS] Retailing & Consumer Science,Math 112,,,,,,5,510,152,#,18027171,N,23941021,Y,Y,N,N,N,N,M,-,,,,,NJ,-,Maplewood,Maplewood,Columbia High School
+#23941803,[MEDBS] Medicine,Math 112,,,,,,4.25,,108,#,23379633,N,23941803,N,N,N,N,N,N,M,-,,,,3.43,-,-,Jeddah,Jeddah,Jeddah Knowledge International School
+#23947605,[PSYSBS] Psychological Science,Math 112,,,,,,5,533,120,#,23193337,Y,23947605,Y,N,N,N,N,N,F,-,,,,4,PA,-,Lewistown,Lewistown,Mifflin County High School
+#23954131,[ABEMBS] Agribusiness Economics & Mgmt,Math 112,,,,,,0.5,576,8,#,23222487,Y,23954131,N,N,N,N,N,N,M,-,,,,3.92,-,-,Saihat,Saihat,Ibn Al-Qaiem Secondary School
+#23957827,[NTRSBS] Natural Resources,Math 112,,,,,,2.25,,319,#,18014404,N,23957827,Y,N,N,N,N,N,F,-,,,,3.71,CO,-,Highlands Ranch,Highlands Ranch,Thunderridge High School
+#23960220,[BMGTBSBA] Business Management,Math 112,,,,,,0,447,534,#,18010703,N,23960220,Y,Y,N,N,Y,N,M,Hopi,27,23,19,2.53,AZ,Maricopa,Phoenix,Phoenix,Arcadia High School
+#23960401,[VSCBS] Veterinary Science,Math 112,,,,,,5,475,208,#,18013703,N,23960401,N,Y,N,N,Y,N,F,Tribal Affiliation Not Reported,,,,2.6,CA,Los Angeles,North Hills,North Hills,Heritage Christian School
+#23965319,[BMGTBSBA] Business Management,Math 112,,,,,,4.5,396,0,#,18011686,N,23965319,Y,Y,N,N,N,N,M,-,,,,3.31,CA,San Diego,Encinitas,Encinitas,Torrey Pines High School
+#23967688,[RCSCBS] Retailing & Consumer Science,Math 112,,,,,,5,522,112,#,18010870,Y,23967688,N,Y,N,N,N,Y,F,-,,,,3.46,AZ,Pima,Tucson,Tucson,Santa Rita High School
+#23974882,[BMGTBSBA] Business Management,Math 112,,,,,,5,605,201,#,18027474,N,23974882,Y,Y,N,N,N,N,M,-,,,,2.57,NJ,-,Tenafly,Tenafly,Tenafly High School
+#23976113,[BMGTBSBA] Business Management,Math 112,,,,,,5,505,214,#,18032882,N,23976113,N,N,N,N,N,N,M,-,,,,2.94,OR,-,Sherwood,Sherwood,Sherwood High School
+#23976896,[NTDIBS] Nutrition and Dietetics,Math 112,,,,,,0,509,461,#,23567666,N,23976896,N,N,N,N,N,N,M,-,,,,3.59,-,-,Sabah Al Salem,Sabah Al Salem,Al Hayat Universal Bilingual School
+#23979497,[BMGTBSBA] Business Management,Math 112,,,,,,5,457,107,#,18010649,Y,23979497,N,Y,N,N,N,N,M,-,,,,3.23,AZ,Santa Cruz,Nogales,Nogales,Nogales High School
+#23981305,[BMGTBSBA] Business Management,Math 112,,,,,,0,439,630,#,18044081,N,23981305,Y,N,N,N,N,N,M,-,,,,2.67,AZ,Maricopa,Scottsdale,Scottsdale,Notre Dame Prep High School
+#23982387,[BMGTBSBA] Business Management,Math 112,,,,,,5,444,653,#,18010803,N,23982387,Y,N,N,N,N,N,F,-,22,21,21,3.1,AZ,Maricopa,Phoenix,Phoenix,Sunnyslope High School
+#23982391,[PSYSBS] Psychological Science,Math 112,,,,,,5,,298,#,18010839,N,23982391,Y,Y,N,N,N,N,F,-,,,,,AZ,Pima,Tucson,Tucson,Catalina Foothills High School
+#23982732,[BMGTBSBA] Business Management,Math 112,,,,,,0,475,399,#,18010876,Y,23982732,Y,Y,N,N,N,N,M,-,20,15,18,3.5,AZ,Pima,Tucson,Tucson,Sunnyside High School
+#23984068,[BMGTBSBA] Business Management,Math 112,,,,,,5,526,313,#,18047174,N,23984068,Y,N,N,N,N,N,M,-,,,,3.17,CO,-,Highlands Ranch,Highlands Ranch,Rock Canyon High School
+#23984853,[BMGTBSBA] Business Management,Math 112,,SALT,,,,5,641,262,#,18027154,N,23984853,Y,N,N,N,N,N,M,-,,,,2.57,NJ,-,Livingston,Livingston,Livingston High School
+#23985104,[PHSCBS] Pharmaceutical Sciences,Math 112,,,,,,5,472,179,#,18010826,Y,23985104,Y,Y,N,N,N,N,F,-,,,,3.39,AZ,Pima,Tucson,Tucson,Amphitheater High School
+#23985668,[BIOLBS] Biology,Math 112,,,,,,5,573,137,#,18010842,Y,23985668,Y,Y,N,N,N,N,M,-,30,21,18,3.5,AZ,Pima,Tucson,Tucson,Desert View High School
+#23985722,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,5,440,283,#,18010624,N,23985722,Y,N,N,N,N,N,M,-,,,,3.22,AZ,Pinal,Maricopa,Maricopa,Maricopa High School
+#23986097,[BMGTBSBA] Business Management,Math 112,,,,,,4.5,444,690,#,18010677,N,23986097,Y,N,N,N,N,N,M,-,,,,3.03,AZ,Maricopa,Phoenix,Phoenix,Brophy College Preparatory
+#23986139,[BMGTBSBA] Business Management,Math 112,,,,,,5,333,71,#,18010649,N,23986139,N,Y,N,N,N,N,F,-,,,,3.25,AZ,Santa Cruz,Nogales,Nogales,Nogales High School
+#23986364,[MEDBS] Medicine,Math 112,,,,,UNIV 100,4.25,131,38,#,18010842,Y,23986364,N,Y,N,N,N,N,F,-,11,9,10,2.89,AZ,Pima,Tucson,Tucson,Desert View High School
+#23986993,[ELEMBAED] Elementary Education,Math 106,,,,,UNIV 100,0,332,171,#,18010876,Y,23986993,N,Y,N,N,Y,N,F,Tribal Affiliation Not Reported,16,13,16,3.48,AZ,Pima,Tucson,Tucson,Sunnyside High School
+#23987357,[PHLBS] Public Health,Math 112,,,,,,5,273,57,#,18010846,Y,23987357,Y,Y,N,N,N,N,F,-,,,,2.96,AZ,Pima,Tucson,Tucson,Flowing Wells High School
+#23987443,[BMGTBSBA] Business Management,Math 112,,,,,UNIV 100,5,,100,#,18010876,Y,23987443,N,Y,N,N,N,N,F,-,12,11,15,2.63,AZ,Pima,Tucson,Tucson,Sunnyside High School
+#23987465,[BMGTBSBA] Business Management,Math 112,,,,,,5,618,210,#,18010697,N,23987465,N,N,N,N,N,Y,F,-,,,,2.57,AZ,Maricopa,Phoenix,Phoenix,Xavier College Prep
+#23990825,[PHSCBS] Pharmaceutical Sciences,Math 112,,,,,,0,429,354,#,23870858,Y,23990825,Y,N,N,N,N,N,F,-,,,,3.38,AZ,Pima,Tucson,Tucson,Tucson Unified Virtual Academy
+#23991028,[BMGTBSBA] Business Management,Math 112,,,,,,3.5,300,127,#,18010876,Y,23991028,N,Y,N,N,N,N,M,-,17,22,16,2.78,AZ,Pima,Tucson,Tucson,Sunnyside High School
+#23991363,[BMGTBSBA] Business Management,Math 112,,,,,,0,593,381,#,18012750,N,23991363,Y,Y,N,N,N,N,M,-,,,,2.78,CA,Santa Clara,Mountain View,Mountain View,Saint Francis High School
+#23991767,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,,,,,,5,,83,#,18010826,Y,23991767,Y,N,N,N,N,N,F,-,,,,2.96,AZ,Pima,Tucson,Tucson,Amphitheater High School
+#23992582,[BMGTBSBA] Business Management,Math 112,,,,,,5,377,236,#,18022526,N,23992582,Y,N,N,N,N,N,F,-,,,,2.89,MA,-,Lawrence,Lawrence,Central Catholic High School
+#23993410,[PSYCBA] Psychology,Math 107,,,,,,5,283,209,#,18010649,Y,23993410,N,Y,N,N,N,N,F,-,,,,3.1,AZ,Santa Cruz,Nogales,Nogales,Nogales High School
+#23993692,[VSCBS] Veterinary Science,Math 112,,,,,,5,477,117,#,18010846,Y,23993692,Y,N,N,N,N,N,F,-,,,,2.66,AZ,Pima,Tucson,Tucson,Flowing Wells High School
+#23994347,[PHLBS] Public Health,Math 112,,,,,,5,580,126,#,18010783,Y,23994347,N,Y,N,N,N,Y,F,-,,,,,AZ,Maricopa,Scottsdale,Scottsdale,Saguaro High School
+#23994571,[BMGTBSBA] Business Management,Math 112,,,,,,5,553,274,#,18011686,Y,23994571,Y,N,N,N,N,N,F,-,,,,3.23,CA,San Diego,Encinitas,Encinitas,Torrey Pines High School
+#23996088,[PHLBS] Public Health,Math 112,,,,,,0,302,366,#,18010697,Y,23996088,Y,Y,N,N,N,N,F,-,,,,2.62,AZ,Maricopa,Phoenix,Phoenix,Xavier College Prep
+#23996209,[VSCBS] Veterinary Science,Math 112,,,,,,5,522,135,#,18010846,N,23996209,Y,N,N,N,N,N,F,-,21,16,16,2.84,AZ,Pima,Tucson,Tucson,Flowing Wells High School
+#23996234,[BMGTBSBA] Business Management,Math 112,,,,,,2,,205,#,18010846,Y,23996234,N,Y,N,N,N,N,M,-,16,13,18,2.54,AZ,Pima,Tucson,Tucson,Flowing Wells High School
+#23997647,[ARCHBARCH] Architecture,Math 108,,,,,,0,502,561,#,18010860,Y,23997647,N,N,N,Y,N,N,F,-,,,,2.94,AZ,Pima,Tucson,Tucson,Rincon High School
+#23998243,[NMSCLASND] No Major Selected A-Center,See Advisor,,SALT,,,,5,429,255,#,18024468,N,23998243,Y,N,N,N,N,N,M,-,,,,2.67,MN,-,Saint Louis Park,Saint Louis Park,Benilde-St Margaret'S School
+#23998698,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,5,626,223,#,18026620,N,23998698,Y,N,N,N,N,N,M,-,17,18,20,3,NV,-,Las Vegas,Las Vegas,Bishop Gorman High School
+#23999649,[BMGTBSBA] Business Management,Math 112,,,,,,5,361,144,#,18047159,N,23999649,Y,N,N,N,N,N,M,-,,,,2.9,AZ,Maricopa,Anthem,Anthem,Boulder Creek High School
+#23999845,[BMGTBSBA] Business Management,Math 112,,,,,,5,366,32,#,18010697,N,23999845,Y,N,N,N,N,N,F,-,,,,2.42,AZ,Maricopa,Phoenix,Phoenix,Xavier College Prep
+#24001219,[BMGTBSBA] Business Management,Math 112,,,,,,5,491,155,#,18014152,N,24001219,Y,N,N,N,N,N,F,-,,,,3.11,CO,-,Westminster,Westminster,Standley Lake High School
+#24001238,[BMGTBSBA] Business Management,Math 112,,,,,,5,603,292,#,18050407,N,24001238,Y,N,N,N,N,N,M,-,,,,3.3,CA,Fresno,Fresno,Fresno,Clovis North High School
+#24001548,[BMGTBSBA] Business Management,Math 112,,SALT,,,,5,462,161,#,18010716,N,24001548,Y,N,N,N,N,N,M,-,,,,3.07,AZ,Maricopa,Phoenix,Phoenix,Valley Lutheran High School
+#24001876,[BMGTBSBA] Business Management,Math 112,,,,,,5,527,135,#,18032794,N,24001876,Y,N,N,N,N,N,M,-,,,,3.28,OR,-,Portland,Portland,Central Catholic High School
+#24001888,[MEDBS] Medicine,Math 112,,,,,,5,293,71,#,18010878,N,24001888,Y,Y,N,N,N,N,F,-,,,,3.14,AZ,Pima,Tucson,Tucson,Tucson High Magnet School
+#24002011,[BMGTBSBA] Business Management,Math 112,,,,,,5,445,96,#,23810850,N,24002011,Y,N,N,N,N,N,F,-,,,,3.85,MT,-,Bozeman,Bozeman,Gallatin High School
+#24002289,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,,,,,,5,613,242,#,23383448,Y,24002289,N,Y,N,N,N,N,M,-,,,,3.25,AZ,Maricopa,Queen Creek,Queen Creek,Benjamin Franklin High School
+#24003437,[BMGTBSBA] Business Management,Math 112,,,,,,4.25,,571,#,18038095,N,24003437,Y,N,N,N,N,N,M,-,,,,3.55,UT,-,Park City,Park City,Park City High School
+#24003614,[ASCBS] Animal Sciences,Math 112,,,,,,5,432,260,#,18010836,Y,24003614,Y,Y,N,N,N,N,F,-,,,,3.15,AZ,Pima,Oro Valley,Oro Valley,Canyon Del Oro High School
+#24003908,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,UNIV 100,5,478,209,#,18033119,N,24003908,N,N,N,N,N,N,F,-,,,,3.23,PA,-,Collegeville,Collegeville,Perkiomen Valley High School
+#24004604,[BMGTBSBA] Business Management,Math 112,,,,,,5,419,137,#,18012289,N,24004604,Y,N,N,N,N,N,M,-,,,,3,CA,Orange,Laguna Beach,Laguna Beach,Laguna Beach High School
+#24004738,[BMGTBSBA] Business Management,Math 112,,,,,,5,560,201,#,18012470,Y,24004738,Y,N,N,N,N,N,M,-,,,,3.38,CA,Riverside,Temecula,Temecula,Linfield Christian School
+#24005115,[HDFSBS] Human Dev & Family Science,Math 107,,,,,UNIV 100,5,479,83,#,18012104,N,24005115,Y,N,N,N,N,N,F,-,,,,3.5,CA,Santa Clara,Gilroy,Gilroy,Gilroy High School
+#24005870,[NMSUASND] No Major Selected Info Science,See Advisor,,,,,,5,,157,#,18010846,Y,24005870,Y,Y,N,N,N,N,F,-,,,,2.6,AZ,Pima,Tucson,Tucson,Flowing Wells High School
+#24006922,[BMGTBSBA] Business Management,Math 112,,,,,,5,629,334,#,18039012,N,24006922,Y,N,N,N,N,N,M,-,,,,3.82,WA,-,Bellevue,Bellevue,Sammamish High School
+#24007114,[BMGTBSBA] Business Management,Math 112,,SALT,,,,5,559,230,#,18011654,N,24007114,Y,N,N,N,N,N,M,-,,,,3.25,CA,Los Angeles,Calabasas,Calabasas,Viewpoint School
+#24007291,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,,,,,,5,531,236,#,18010688,Y,24007291,N,N,N,N,N,Y,F,-,,,,2.73,AZ,Maricopa,Phoenix,Phoenix,Central High School
+#24007460,[BMGTBSBA] Business Management,Math 112,,,,,,5,485,165,#,18017990,Y,24007460,N,N,N,N,N,Y,M,-,,,,2.84,IL,-,Evanston,Evanston,Evanston Township High School
+#24007482,[BMGTBSBA] Business Management,Math 112,,,,,,5,368,113,#,23571845,N,24007482,N,N,N,N,N,N,M,-,,,,3.13,-,-,Hawalli,Hawalli,Universal Civilizations Academy School
+#24010847,[LARBLA] Landscape Architecture,Math 108,,,,,,5,591,297,#,18045160,N,24010847,Y,N,N,N,N,N,M,-,,,,2.63,-,-,-,-,High School in Colombia
+#24013235,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,0,428,300,#,18032830,N,24013235,Y,N,N,N,N,N,F,-,,,,3.26,OR,-,Portland,Portland,Ida B Wells-Barnett High School
+#24013656,[BMGTBSBA] Business Management,Math 112,,,,,UNIV 100,5,384,97,#,18033869,N,24013656,Y,N,N,N,N,N,M,-,,,,3.39,PA,-,Pittsburgh,Pittsburgh,Central Catholic High School
+#24014019,[BMGTBSBA] Business Management,Math 112,,SALT,,,UNIV 100,5,612,120,#,18039364,N,24014019,Y,N,N,N,N,Y,F,-,,,,2.78,WA,-,Seattle,Seattle,Lincoln High School
+#24014146,[BMGTBSBA] Business Management,Math 112,,,,,,0,350,247,#,18015069,N,24014146,Y,N,N,Y,N,N,F,-,,,,3.14,DC,-,Chevy Chase,Chevy Chase,Saint Johns College High Sch
+#24015331,[LARBLA] Landscape Architecture,Math 108,,,,,,5,516,232,#,18050103,N,24015331,N,N,N,N,Y,N,F,Navajo,19,15,15,2.64,AZ,Maricopa,Buckeye,Buckeye,Youngker High School
+#24015341,[NHPBS] Nutrition & Human Performance,Math 112,,,,,,5,239,89,#,18010740,Y,24015341,N,Y,N,N,N,N,M,-,22,11,13,3.2,AZ,Santa Cruz,Rio Rico,Rio Rico,Rio Rico High School
+#24015555,[BMGTBSBA] Business Management,Math 112,,,,,,5,425,128,#,18017214,Y,24015555,Y,N,Y,Y,N,N,F,-,,,,3.07,HI,-,Kamuela,Kamuela,Hawaii Preparatory Academy
+#24015583,[PHSCBS] Pharmaceutical Sciences,Math 112,,,,,,0,,289,#,18049032,Y,24015583,Y,Y,N,N,N,N,F,-,,,,3.35,AZ,Pima,Tucson,Tucson,San Miguel High School
+#24015714,[BMGTBSBA] Business Management,Math 112,,,,,,5,379,290,#,18027777,N,24015714,Y,N,N,N,N,N,M,-,,,,2.76,NM,-,Santa Fe,Santa Fe,Santa Fe High School
+#24015908,[PSYCBA] Psychology,Math 107,,,,,UNIV 100,1.5,343,160,#,18039364,N,24015908,Y,N,N,N,N,N,F,-,,,,2.75,WA,-,Seattle,Seattle,Lincoln High School
+#24016233,[BMGTBSBA] Business Management,Math 112,,,,,UNIV 100,5,406,99,#,18012323,N,24016233,Y,N,N,N,N,N,F,-,,,,2.68,CA,Marin,Larkspur,Larkspur,Redwood High School
+#24016318,[BMGTBSBA] Business Management,Math 112,,,,,,0,308,603,#,18010839,N,24016318,Y,N,N,N,N,N,F,-,,,,2.58,AZ,Pima,Tucson,Tucson,Catalina Foothills High School
+#24017180,[BMGTBSBA] Business Management,Math 112,,,,,,5,522,305,#,18012750,N,24017180,Y,N,N,Y,N,N,M,-,,,,2.8,CA,Santa Clara,Mountain View,Mountain View,Saint Francis High School
+#24018498,[BMGTBSBA] Business Management,Math 112,,,,,,5,468,188,#,23971436,Y,24018498,Y,Y,N,N,N,N,M,-,,,,2.79,AZ,Yuma,Yuma,Yuma,Student Choice High School - Yuma
+#24019159,[BMGTBSBA] Business Management,Math 112,,SALT,,,UNIV 100,3.5,341,181,#,18032882,N,24019159,Y,N,N,N,N,N,M,-,,,,3,OR,-,Sherwood,Sherwood,Sherwood High School
+#24019543,[BMGTBSBA] Business Management,Math 112,,,,,,5,576,358,#,18013209,Y,24019543,N,N,N,N,Y,N,F,Navajo,18,16,18,2.86,CA,Riverside,Riverside,Riverside,Sherman Indian High School
+#24020315,[BMGTBSBA] Business Management,Math 112,,,,,,5,496,293,#,18013603,Y,24020315,N,N,N,Y,N,N,F,-,,,,2.96,CA,Marin,San Rafael,San Rafael,Terra Linda High School
+#24020429,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,5,230,146,#,18010839,N,24020429,Y,Y,N,N,N,N,F,-,,,,2.85,AZ,Pima,Tucson,Tucson,Catalina Foothills High School
+#24021016,[BMGTBSBA] Business Management,Math 112,,,,,,0,561,677,#,18010878,Y,24021016,Y,Y,N,N,N,N,M,-,,,,3.28,AZ,Pima,Tucson,Tucson,Tucson High Magnet School
+#24022505,[NMSEGND] No Major Selected Engineering,Math 112,,,,,,5,644,462,#,18013314,N,24022505,Y,N,N,N,N,N,F,-,,,,3.46,CA,Orange,San Clemente,San Clemente,San Clemente High School
+#24022547,[BMGTBSBA] Business Management,Math 112,,,,,,4.25,418,142,#,18039266,N,24022547,Y,N,N,N,N,N,F,-,,,,3.64,WA,-,Odessa,Odessa,Odessa High School
+#24024039,[BMGTBSBA] Business Management,Math 112,,,,,,5,412,202,#,18036416,N,24024039,Y,Y,N,N,N,N,F,-,,,,3.53,TX,El Paso,El Paso,El Paso,El Paso High School
+#24024818,[NTRSBS] Natural Resources,Math 112,,,,,,4.5,401,109,#,18039359,Y,24024818,N,N,N,N,N,Y,M,-,,,,2.53,WA,-,Seattle,Seattle,Ingraham High School
+#24025681,[BMGTBSBA] Business Management,Math 112,,,,,,5,693,322,#,18041145,N,24025681,Y,N,N,N,N,N,M,-,17,16,15,3.69,IA,-,Iowa City,Iowa City,Home School
+#24025758,[BMGTBSBA] Business Management,Math 112,,,,,,5,341,142,#,18011977,Y,24025758,Y,N,N,N,N,N,M,-,,,,2.53,CA,Los Angeles,Encino,Encino,Crespi Carmelite High School
+#24026433,[PHLBS] Public Health,Math 112,,,,,,5,,174,#,18050812,Y,24026433,N,N,N,N,Y,N,M,Navajo Nation (New Mexico),,,,2.5,CO,-,Colorado Springs,Colorado Springs,Vista Ridge High School
+#24026472,[BMGTBSBA] Business Management,Math 112,,,,,,5,427,375,#,18049032,Y,24026472,Y,Y,N,N,N,N,M,-,,,,2.57,AZ,Pima,Tucson,Tucson,San Miguel High School
+#24026520,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,5,517,162,#,18010878,Y,24026520,N,Y,N,N,N,N,M,-,,,,3.22,AZ,Pima,Tucson,Tucson,Tucson High Magnet School
+#24028766,[BMGTBSBA] Business Management,Math 112,,,,,UNIV 100,5,427,94,#,18011776,Y,24028766,N,Y,N,N,N,N,M,-,,,,2.87,CA,Los Angeles,Claremont,Claremont,Claremont High School
+#24029278,[BMGTBSBA] Business Management,Math 112,,,,,,1.5,436,246,#,18013954,N,24029278,Y,N,N,N,N,Y,M,-,,,,2.92,CA,Contra Costa,Walnut Creek,Walnut Creek,Las Lomas High School
+#24030736,[BMGTBSBA] Business Management,Math 112,,,,,,5,,164,#,23233330,N,24030736,N,N,N,N,N,Y,M,-,,,,2.84,FL,-,Bradenton,Bradenton,IMG Academy
+#24033065,[BMGTBSBA] Business Management,Math 112,,,,,,5,552,255,#,18010535,N,24033065,N,N,N,N,N,Y,M,-,,,,2.5,AZ,Maricopa,Chandler,Chandler,Seton Catholic High School
+#24034477,[BMGTBSBA] Business Management,Math 112,,,,,,5,,22,#,18011913,Y,24034477,N,Y,N,N,N,N,F,-,,,,3.35,CA,Los Angeles,Downey,Downey,Warren High School
+#24035556,[REBS] Real Estate,Math 107,,,,,,5,472,74,#,18010745,Y,24035556,Y,Y,N,N,N,N,F,-,,,,2.96,AZ,Pima,Sahuarita,Sahuarita,Sahuarita High School
+#24036025,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,0,,225,#,23721587,N,24036025,N,Y,N,N,N,N,M,-,,,,3.57,AZ,Pima,Tucson,Tucson,Mica Mountain High School
+#24036710,[BMGTBSBA] Business Management,Math 112,,,,,,0,522,352,#,18012238,N,24036710,N,Y,N,N,N,N,F,-,,,,3.25,CA,San Diego,Chula Vista,Chula Vista,Mater Dei Catholic High School
+#24040546,[BMGTBSBA] Business Management,Math 112,,,,,,5,375,150,#,18010722,N,24040546,N,N,N,Y,N,N,M,-,,,,2.4,AZ,Maricopa,Phoenix,Phoenix,Desert Vista High School
+#24040674,[BMGTBSBA] Business Management,Math 112,,,,,,0,449,245,#,18013602,N,24040674,Y,N,N,Y,N,N,M,-,,,,3,CA,Contra Costa,San Ramon,San Ramon,California High School
+#24040792,[BMGTBSBA] Business Management,Math 112,,,,,,5,347,103,#,18010844,Y,24040792,N,Y,N,N,N,N,F,-,,,,3.25,AZ,Pima,Tucson,Tucson,Desert Christian High School
+#24040839,[BMGTBSBA] Business Management,Math 112,,,,,,5,265,54,#,18050335,N,24040839,Y,N,N,N,N,N,F,-,23,16,16,3,AZ,Maricopa,Gilbert,Gilbert,Campo Verde High School
+#24041594,[BMGTBSBA] Business Management,Math 112,,,,,UNIV 100,5,141,67,#,18014062,Y,24041594,Y,Y,N,N,N,N,F,-,,,,3.03,CA,San Mateo,Woodside,Woodside,Woodside High School
+#24042143,[REBS] Real Estate,Math 107,,,,,,5,377,300,#,18010703,Y,24042143,N,Y,N,N,N,N,M,-,,,,2.65,AZ,Maricopa,Phoenix,Phoenix,Arcadia High School
+#24042247,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,5,,199,#,18014143,N,24042247,Y,N,N,N,N,N,M,-,,,,3.03,CO,-,Breckenridge,Breckenridge,Summit High School
+#24044217,[BMGTBSBA] Business Management,Math 112,,,,,,0,449,328,#,18011830,N,24044217,Y,N,N,N,N,N,M,-,,,,2.68,CA,Contra Costa,Concord,Concord,De La Salle High School
+#24044489,[MPTBS] Med Pharmacology & Toxicology,Math 112,,,,,,5,357,198,#,18043753,Y,24044489,Y,N,N,N,N,N,F,-,,,,3.53,AZ,Maricopa,Mesa,Mesa,Desert Ridge High School
+#24045894,[PHLBS] Public Health,Math 112,,,,,,0,399,456,#,23974491,N,24045894,Y,Y,N,N,N,N,F,-,,,,2.55,-,-,Mexico City,Mexico City,"American School Foundation, Mexico City"
+#24046235,[BMGTBSBA] Business Management,Math 112,,,,,,5,271,62,#,18027653,Y,24046235,Y,Y,N,N,N,N,M,-,,,,,NM,-,Dulce,Dulce,Dulce High School
+#24047186,[BMGTBSBA] Business Management,Math 112,,,,,,5,536,182,#,18014434,N,24047186,Y,N,N,N,N,N,M,-,,,,3.7,CO,-,Lakewood,Lakewood,Green Mountain High School
+#24048130,[BMGTBSBA] Business Management,Math 112,,,,,,0,448,187,#,18027304,N,24048130,Y,N,N,N,N,N,M,-,,,,2.87,NJ,-,Matawan,Matawan,Old Bridge High School
+#24049672,[BMGTBSBA] Business Management,Math 112,,,,,,5,559,164,#,18010697,N,24049672,N,N,N,N,N,Y,F,-,,,,2.57,AZ,Maricopa,Phoenix,Phoenix,Xavier College Prep
+#24050706,[BMGTBSBA] Business Management,Math 112,,,,,,0,525,348,#,18013249,N,24050706,Y,N,Y,N,N,N,M,-,,,,,CA,Sacramento,Sacramento,Sacramento,Rio Americano High School
+#24051292,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,5,525,252,#,18010622,Y,24051292,Y,N,N,N,N,N,M,-,,,,3.35,AZ,Pima,Tucson,Tucson,Marana High School
+#24051946,[BMGTBSBA] Business Management,Math 112,,,,,,0.75,,178,#,18039112,N,24051946,N,Y,N,N,N,Y,F,-,,,,3.42,WA,-,Everett,Everett,Archbishop Thomas J Murphy Hs
+#24052808,[BMGTBSBA] Business Management,Math 112,,,,,,0,337,543,#,18050809,N,24052808,N,N,N,N,Y,N,M,Tribal Affiliation Not Reported,,,,2.7,CO,-,Colorado Springs,Colorado Springs,Discovery Canyon Campus High School
+#24052876,[BMGTBSBA] Business Management,Math 112,,,,,,4.25,264,75,#,18047380,N,24052876,Y,N,N,Y,N,N,M,-,,,,2.21,AZ,Maricopa,Phoenix,Phoenix,Veritas Preparatory Academy
+#24053659,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,,,,,,5,468,84,#,18010836,Y,24053659,N,Y,N,N,N,N,F,-,,,,3.07,AZ,Pima,Oro Valley,Oro Valley,Canyon Del Oro High School
+#24054419,[PSYSBS] Psychological Science,Math 112,,,,,,5,488,96,#,18044580,N,24054419,Y,N,N,N,N,N,F,-,,,,,AZ,Maricopa,Phoenix,Phoenix,Sandra Day O'Connor High School
+#24055063,[PSYCBA] Psychology,Math 107,,,,,,5,321,29,#,18046075,Y,24055063,N,N,N,N,N,Y,F,-,,,,,AZ,Maricopa,Goodyear,Goodyear,Desert Edge High School
+#24055567,[DSCBS] Data Science,Math 112,,,,,UNIV 100,5,,68,#,18045372,N,24055567,N,N,N,N,N,N,M,-,,,,4,-,-,-,-,High School in Saudi Arabia
+#24055697,[NCSBS] Neuroscience & Cognitive Sci,Math 112,,,,,,5,347,126,#,18012781,N,24055697,N,Y,N,N,N,Y,F,-,,,,2.87,CA,Ventura,Newbury Park,Newbury Park,Newbury Park High School
+#24055887,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,,5,,336,#,18050734,N,24055887,Y,N,N,N,Y,N,F,Tribal Affiliation Not Reported,,,,3.15,CA,Ventura,Simi Valley,Simi Valley,California Virtual Acad-Kings
+#24057054,[BMGTBSBA] Business Management,Math 112,,,,,,5,546,100,#,23562899,Y,24057054,N,Y,N,N,Y,N,F,Gila River Indian Community,,,,3.4,AZ,Maricopa,Tempe,Tempe,ASU Prep Digital
+#24057521,[BMGTBSBA] Business Management,Math 112,,,,,,1.25,381,178,#,18024077,Y,24057521,Y,Y,N,N,N,N,M,-,,,,2.55,MN,-,Collegeville,Collegeville,Saint Johns Preparatory School
+#24058530,[PHLBS] Public Health,Math 112,,,,,,0,600,460,#,18045129,N,24058530,N,N,N,N,Y,N,F,Northern Cheyenne Tribe of Montana,,,,,AZ,Maricopa,Chandler,Chandler,Basha High School
+#24066583,[NMSEGND] No Major Selected Engineering,Math 112,,,,,,0,677,370,#,23870858,Y,24066583,Y,N,N,N,N,N,M,-,,,,3.8,AZ,Pima,Tucson,Tucson,Tucson Unified Virtual Academy
+#24067098,[BMGTBSBA] Business Management,Math 112,,,,,UNIV 100,5,557,130,#,23226423,Y,24067098,Y,Y,N,N,N,N,M,-,,,,3.12,AZ,Pima,Sahuarita,Sahuarita,Walden Grove High School
+#24068326,[COSCBA] Computer Science,Math 112,,,,,UNIV 100,5,627,155,#,18010796,Y,24068326,Y,N,N,N,N,N,M,-,,,,2.85,AZ,Cochise,Sierra Vista,Sierra Vista,Buena High School
+#24072236,[ISCBS] Information Science,Math 112,,,,,,5,616,133,#,18010856,Y,24072236,Y,N,N,N,N,N,M,-,,,,,AZ,Pima,Tucson,Tucson,Mountain View High School
+#24072509,[NMSCLASND] No Major Selected A-Center,See Advisor,,,,,UNIV 100,5,349,108,#,23908310,N,24072509,N,N,N,N,N,N,F,-,,,,2.44,SURREY,-,Epsom,Epsom,Epsom College
+#24072889,[RCSCBS] Retailing & Consumer Science,Math 112,,,,,UNIV 100,5,221,90,#,24052764,N,24072889,N,N,N,N,N,N,M,-,,,,2.84,SON,-,Hermosillo,Hermosillo,Colegio Alerce
+#24073581,[BIOCBS] Biochemistry,Math 112,,,,,,5,553,142,#,18049216,N,24073581,Y,N,N,N,N,N,F,-,,,,3.06,MN,-,Minnetonka,Minnetonka,Excel High School
+#24073669,[BMGTBSBA] Business Management,Math 112,,,,,,3.75,536,136,#,18035773,N,24073669,N,N,N,N,N,Y,M,-,,,,3.46,TX,Collin,Allen,Allen,Allen High School
+#24073909,[BIOLBS] Biology,Math 112,,,,,,5,695,247,#,18010861,N,24073909,N,N,N,N,N,N,M,-,,,,,AZ,Pima,Tucson,Tucson,Sabino High School
+#24074985,[BMGTBSBA] Business Management,Math 112,,,,,,5,530,62,#,18027344,N,24074985,Y,N,N,N,N,N,M,-,,,,,NJ,-,Pemberton,Pemberton,Pemberton Township High School
+#24075282,[COSCBS] Computer Science,Math 112,,,,,UNIV 100,5,248,113,#,24071414,N,24075282,Y,Y,N,N,N,N,F,-,,,,3.38,GO,-,GOIANIA,GOIANIA,Colegio Shallon - Goiania II
+#24101363,[BMGTBSBA] Business Management,Math 112,,,,,,0,550,195,#,18039496,Y,24101363,N,N,N,N,N,Y,M,-,,,,,WA,-,Vancouver,Vancouver,Evergreen High School

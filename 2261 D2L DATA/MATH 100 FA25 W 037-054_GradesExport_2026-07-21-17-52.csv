@@ -1,0 +1,467 @@
+OrgDefinedId,Last Name,First Name,My Major is: Text Grade <Text>,What is the next math class needed for my major? Text Grade <Text>,What is my current math class placement for next semseter (SI_3) Text Grade <Text>,D_U next math class formula (SI_2) Formula Grade <Formula MaxPoints:300>,D_U next math class formula (SI_2) Scheme Symbol,Next Math Class needed (SI_1) Points Grade <Numeric MaxPoints:120 Category:Student Information:>,Next Math Class needed (SI_1) Scheme Symbol,CATS Text Grade <Text>,SALT Text Grade <Text>,DRC Text Grade <Text>,GRO student Text Grade <Text>,Enrolled in UNIV 100 Text Grade <Text>,Final Exam Week 1 Points Grade <Numeric MaxPoints:450 Category:Final Exam (Hidden)>,Final Exam Week 1 Scheme Symbol,Final Exam Week 2 Points Grade <Numeric MaxPoints:450 Category:Final Exam (Hidden)>,Final Exam Week 2 Scheme Symbol,IKC Topics Points Grade <Numeric MaxPoints:700 Category:ALEKS Topic Goals Weekly Counts (Hidden)>,IKC Topics Scheme Symbol,Final Exam Topics Points Grade <Numeric MaxPoints:705 Category:ALEKS Topic Goals Weekly Counts (Hidden)>,Final Exam Topics Scheme Symbol,End-of-Line Indicator
+#23995032,Abdelmessieh,Meryl,[MEDBS] Medicine,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,355.53195,79.01 %,,,324,46.29 %,557,79.01 %,#
+#24023198,Abich,Sophia Michelle,[PHLBS] Public Health,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,250.2126,55.6 %,92,13.14 %,392,55.6 %,#
+#23908988,Abuzaid,Saad Ibrahim,[BIOINBS] Bioinformatics,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,,0,0 %,0,0 %,57,8.14 %,0,0 %,#
+#24043266,Achziger,Brooke S,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,0,0 %,166,23.71 %,701,99.43 %,#
+#24035851,Acosta,Ana Valeria,[MEDBS] Medicine,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,146.80845,32.62 %,61,8.71 %,230,32.62 %,#
+#24055887,Adams,Samantha Rylie,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,226.5957,50.35 %,,,264,37.71 %,355,50.35 %,#
+#23978227,Aguilar,Elvya Danizza,[NURSBSN] Nursing,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,447.4467,99.43 %,,,215,30.71 %,701,99.43 %,#
+#24000898,Alalawi,Sara,[MEDBS] Medicine,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,412.3404,91.63 %,,,189,27 %,646,91.63 %,#
+#24058773,Alarcon,Abel Francisco Rodriguez,[NSCIBS] Neuroscience,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,,0,0 %,0,0 %,245,35 %,0,0 %,#
+#23982803,Alassady,Noor A.,[PHSCBS] Pharmaceutical Sciences,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,308.93625,68.65 %,131,18.71 %,484,68.65 %,#
+#24012107,Alcindor,Kayla Praneda,[BMGTBSBA] Business Management,Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,,349.78725,77.73 %,,,163,23.29 %,548,77.73 %,#
+#23997696,Alday,Roberto Noe,[NMSEGND] No Major Selected Engineering,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,405.31905,90.07 %,245,35 %,635,90.07 %,#
+#24048502,Alibekova,Yasmina,[GEOSBS] Geosciences,Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,UNIV 100,277.02135,61.56 %,,,241,34.43 %,434,61.56 %,#
+#23998093,Alnouri,Rama,[PSYSBS] Psychological Science,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,344.68065,76.6 %,60,8.57 %,540,76.6 %,#
+#24051910,Alqubaisi,Khalifa Shehab Ahmed Darwish,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,234.25515,52.06 %,92,13.14 %,367,52.06 %,#
+#24028046,Alrifai,Ahmed Nasser,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,335.74455,74.61 %,,,164,23.43 %,526,74.61 %,#
+#24027825,Altherr,Addison M,[NURSBSN] Nursing,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,411.06375,91.35 %,,,150,21.43 %,644,91.35 %,#
+#24016440,Alvarez,Alfredo A,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,369.57465,82.13 %,,,348,49.71 %,579,82.13 %,#
+#24051487,Alvarez Galaz,Efrain Alejandro,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,411.06375,91.35 %,,,220,31.43 %,644,91.35 %,#
+#23946340,Ammoura,Aiden Josef Zeppetzauer,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,372.1275,82.7 %,131,18.71 %,583,82.7 %,#
+#23983205,Anaya,Hector Jesus,[NMSEGND] No Major Selected Engineering,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,438.5106,97.45 %,,,354,50.57 %,687,97.45 %,#
+#23963779,Antonio,Unity Lane't,[BIOLBS] Biology,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,386.1702,85.82 %,,,248,35.43 %,605,85.82 %,#
+#23996183,Araujo Borbon,Ana Cecilia,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,401.48955,89.22 %,,,143,20.43 %,629,89.22 %,#
+#24034480,Arceo,Joao,[COSCBA] Computer Science,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,416.17035,92.48 %,,,148,21.14 %,652,92.48 %,#
+#23982214,Armenta,Raymon Eleazar,[NURSBSN] Nursing,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,244.4679,54.33 %,129,18.43 %,383,54.33 %,#
+#23978531,Arteaga,Andrea Sarahi,Political Science,Math 107,Math 100_Final Exam 2nd Attempt Recommended,107,35.67 %,107,89.17 %,,,,,UNIV 100,340.85115,75.74 %,,,44,6.29 %,534,75.74 %,#
+#23988484,Ashley,Addison Elizabeth,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,398.93625,88.65 %,,,179,25.57 %,625,88.65 %,#
+#23980946,Ashour,Amira K,[MEDBS] Medicine,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,338.29785,75.18 %,143,20.43 %,530,75.18 %,#
+#24028552,Babawi,Dima,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,414.25515,92.06 %,179,25.57 %,649,92.06 %,#
+#23991304,Baghumyan,Hanna Makkayla,Psychological Sciences (BS),Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,,289.14885,64.26 %,,,141,20.14 %,453,64.26 %,#
+#23968109,Ballejos,Kaeleb Chasten,[PHSCBS] Pharmaceutical Sciences,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,419.99985,93.33 %,,,219,31.29 %,658,93.33 %,#
+#23993172,Banks,Brogan Mathew,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,416.80845,92.62 %,,,250,35.71 %,653,92.62 %,#
+#24050685,Barazi,Olivia Malak,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,300,100 %,112,93.33 %,,,,,UNIV 100,0,0 %,0,0 %,100,14.29 %,0,0 %,#
+#24013125,Bauer,Aspen Nicole,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,235.5318,52.34 %,82,11.71 %,369,52.34 %,#
+#24015187,Bellis,Avry,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,396.38295,88.09 %,,,255,36.43 %,621,88.09 %,#
+#23991912,Bennett,Jax,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,369.57465,82.13 %,136,19.43 %,579,82.13 %,#
+#24026895,Bergeron,Grace Marie,[MEDBS] Medicine,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,UNIV 100,0,0 %,0,0 %,404,57.71 %,0,0 %,#
+#24026285,Berkman,Davin Henry,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,UNIV 100,0,0 %,0,0 %,87,12.43 %,0,0 %,#
+#24039000,Bombeck,Michael C,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,0,0 %,281,40.14 %,635,90.07 %,#
+#23996479,Borbon,Anakcy,[MEDBS] Medicine,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,359.3619,79.86 %,,,171,24.43 %,563,79.86 %,#
+#23996480,Bowen,Lola Anne,[NURSBSN] Nursing,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,315.9576,70.21 %,101,14.43 %,495,70.21 %,#
+#24045218,Brasch,Isa Bella Lena,[NURSBSN] Nursing,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,188.9361,41.99 %,62,8.86 %,296,41.99 %,#
+#24019421,Brazzell,Maddox Marley,[COSCBS] Computer Science,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,0,0 %,310,44.29 %,648,91.91 %,#
+#23986097,Brewer,Matthew William,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,257.8725,57.3 %,280,40 %,404,57.3 %,#
+#23925473,Brill,Aaron David,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,267.4467,59.43 %,83,11.86 %,419,59.43 %,#
+#24048076,Brough,Jack Thomas,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,254.68065,56.6 %,96,13.71 %,399,56.6 %,#
+#24024860,Brown,Ajah R,[NCSBS] Neuroscience & Cognitive Sci,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,398.93625,88.65 %,,,229,32.71 %,625,88.65 %,#
+#24023612,Brown,Nyheim Messiah,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,UNIV 100,0,0 %,0,0 %,48,6.86 %,0,0 %,#
+#23989708,Byrd,Kierra N,[MEDBS] Medicine,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,365.1066,81.13 %,185,26.43 %,572,81.13 %,#
+#23994067,Cabanillas,Nestor Jesus,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,384.89355,85.53 %,374,53.43 %,603,85.53 %,#
+#23871459,Cabello,Cesar Isaak,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,300.63825,66.81 %,164,23.43 %,471,66.81 %,#
+#24027984,Calderon,Alina,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,103.40415,22.98 %,19,2.71 %,162,22.98 %,#
+#23996074,Camargo,Diego Emilio,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,241.2765,53.62 %,,,162,23.14 %,378,53.62 %,#
+#24010043,Campbell,Daniel James,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,392.553,87.23 %,,,124,17.71 %,615,87.23 %,#
+#24051781,Campbell,Jayden Angelo,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,350.42535,77.87 %,114,16.29 %,549,77.87 %,#
+#24013184,Canoy,Stephanie Ann,[PHLBS] Public Health,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,UNIV 100,353.6172,78.58 %,,,93,13.29 %,554,78.58 %,#
+#24044178,Cardenas,Asia Danyelle,[MEDBS] Medicine,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,267.4467,59.43 %,120,17.14 %,419,59.43 %,#
+#24003646,Cardenas,Bryan Lee,[MEDBS] Medicine,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,405.9576,90.21 %,,,185,26.43 %,636,90.21 %,#
+#24005704,Carrasco,Danielle Lynn,[MEDBS] Medicine,Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,265.53195,59.01 %,156,22.29 %,416,59.01 %,#
+#24058171,Carrillo,Alexis,[SFEBSSFE] Software Engineering,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,367.02135,81.56 %,,,144,20.57 %,575,81.56 %,#
+#23728291,Carroll,Declan Thomas,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not complete,112,37.33 %,112,93.33 %,,,DRC,,,0,0 %,404.0424,89.79 %,100,14.29 %,633,89.79 %,#
+#24002471,Caruso,Adam Kei,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,,0,0 %,0,0 %,306,43.71 %,0,0 %,#
+#24040546,Casalla,Nathaniel,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,267.4467,59.43 %,137,19.57 %,419,59.43 %,#
+#23978245,Casino,Sophia Ann,[PSYCBA] Psychology,Math 107,Math 107,107,35.67 %,107,89.17 %,,,,,UNIV 100,320.42565,71.21 %,,,186,26.57 %,502,71.21 %,#
+#24037706,Castaneda,Jeff A,[BIOLBS] Biology,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,235.5318,52.34 %,,,107,15.29 %,369,52.34 %,#
+#24026311,Castilblanco,Camilla,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,324.25515,72.06 %,,,76,10.86 %,508,72.06 %,#
+#23989215,Castro Rodarte,Emiliano Antonio,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,402.76575,89.5 %,221,31.57 %,631,89.5 %,#
+#24051661,Catchpole,Jake Davie,[RCSCBS] Retailing & Consumer Science,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,282.76605,62.84 %,124,17.71 %,443,62.84 %,#
+#23979497,Cervantes,Bryan Ruben,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,284.6808,63.26 %,74,10.57 %,446,63.26 %,#
+#24006325,Chacon,Areli,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,339.5745,75.46 %,,,161,23 %,532,75.46 %,#
+#23985249,Chaib,Charlize V,[BIOINBS] Bioinformatics,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,0,0 %,288,41.14 %,647,91.77 %,#
+#23982070,Chapman,Chloe A,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,389.3616,86.52 %,151,21.57 %,610,86.52 %,#
+#24028127,Charles,Taylor Leanne,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,300,100 %,112,93.33 %,,,,,UNIV 100,0,0 %,0,0 %,48,6.86 %,0,0 %,#
+#23983822,Chavez,David Jesus,[MEDBS] Medicine,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,UNIV 100,0,0 %,0,0 %,50,7.14 %,0,0 %,#
+#24035705,Chavez Leon,Diego Felipe,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,395.1063,87.8 %,194,27.71 %,619,87.8 %,#
+#24003004,Chivukula,Tyler Krishna,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,299.3616,66.52 %,268,38.29 %,469,66.52 %,#
+#23927808,Cicogna,Farah,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,,0,0 %,0,0 %,116,16.57 %,0,0 %,#
+#23978167,Cohen,Marin W,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,356.17005,79.15 %,115,16.43 %,558,79.15 %,#
+#23998132,Coker,Londyn Kate,[NURSBSN] Nursing,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,321.7023,71.49 %,171,24.43 %,504,71.49 %,#
+#23996209,Collins,Ayden R,[VSCBS] Veterinary Science,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,322.97895,71.77 %,162,23.14 %,506,71.77 %,#
+#24010957,Conroy,Kathleen Amanda,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,239.36175,53.19 %,112,16 %,375,53.19 %,#
+#24054130,Corales,Ariel Marie,[PSYCBA] Psychology,Math 107,Math 100_Final Exam 1st Attempt not complete,300,100 %,107,89.17 %,,,,,UNIV 100,0,0 %,0,0 %,83,11.86 %,0,0 %,#
+#23999044,Cordova,Regina,[BIOLBS] Biology,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,267.4467,59.43 %,101,14.43 %,419,59.43 %,#
+#23981812,Correa,Ambry Myleene,[MEDBS] Medicine,Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,,0,0 %,315.9576,70.21 %,190,27.14 %,495,70.21 %,#
+#24056309,Cortes,Giovanni Daniel,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,315.9576,70.21 %,,,177,25.29 %,495,70.21 %,#
+#24049846,Costales,Kyle,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,255.9573,56.88 %,79,11.29 %,401,56.88 %,#
+#23975138,Crist,Hayden Lexie,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,UNIV 100,351.702,78.16 %,,,88,12.57 %,551,78.16 %,#
+#24054377,Cruz,Jalyssa D,[COSCBA] Computer Science,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,305.1063,67.8 %,,,108,15.43 %,478,67.8 %,#
+#23992833,Cunes,Isaiah Christopher,[COSCBS] Computer Science,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,249.5745,55.46 %,168,24 %,391,55.46 %,#
+#23987348,Currer,Max Alan,[PHSCBS] Pharmaceutical Sciences,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,0,0 %,325,46.43 %,633,89.79 %,#
+#24021614,Cushman,April R,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,318.51045,70.78 %,,,206,29.43 %,499,70.78 %,#
+#24035162,Dall'Acqua,Daniele,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,332.55315,73.9 %,176,25.14 %,521,73.9 %,#
+#24036025,Dancil,Paul Dominic,[MEDBS] Medicine,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,238.0851,52.91 %,164,23.43 %,373,52.91 %,#
+#24013235,Day,Emme Grace,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,UNIV 100,0,0 %,0,0 %,119,17 %,0,0 %,#
+#23987862,De La Rosa,Angel Jose,[NMSEGND] No Major Selected Engineering,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,UNIV 100,0,0 %,0,0 %,60,8.57 %,0,0 %,#
+#23993410,De la Rosa,Sofia,[PSYCBA] Psychology,Math 107,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,107,89.17 %,,,,,,0,0 %,208.08495,46.24 %,180,25.71 %,326,46.24 %,#
+#23988197,Delgado,Leilanie,[BIOCBS] Biochemistry,Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,,0,0 %,333.8298,74.18 %,279,39.86 %,523,74.18 %,#
+#23788122,Derbyshire,Sofia Paola,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,350.42535,77.87 %,131,18.71 %,549,77.87 %,#
+#24019048,DeWig,Mark Thomas,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,209.3616,46.52 %,123,17.57 %,328,46.52 %,#
+#24048451,Dixon,Kiara Yvette-Irene,[ECEDBAED] Early Childhood Education,Math 106,Math 100_Final Exam 1st Attempt not complete,300,100 %,106,88.33 %,,,,,UNIV 100,0,0 %,0,0 %,94,13.43 %,0,0 %,#
+#23995089,Dominguez-Ciscomani,Gianna Shekina,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,333.8298,74.18 %,236,33.71 %,523,74.18 %,#
+#24019657,Donovan,Charles,[BMGTBSBA] Business Management,Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,349.78725,77.73 %,165,23.57 %,548,77.73 %,#
+#23989981,Douglass,Spencer,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,377.8722,83.97 %,214,30.57 %,592,83.97 %,#
+#24025579,Doyle,Tanner David,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,37.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,361.27665,80.28 %,179,25.57 %,566,80.28 %,#
+#24015007,Drew,Alexa Paige,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,UNIV 100,375.31935,83.4 %,,,188,26.86 %,588,83.4 %,#
+#24026346,Dryden,Tristan Hilbert,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,225.31905,50.07 %,106,15.14 %,353,50.07 %,#
+#24013259,Dunefsky,AJ,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,363.82995,80.85 %,182,26 %,570,80.85 %,#
+#23997220,Dwyer,Abby Marie,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,375.95745,83.55 %,101,14.43 %,589,83.55 %,#
+#24013263,Edosomwan,Noma Bethany,[MEDBS] Medicine,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,367.65945,81.7 %,70,10 %,576,81.7 %,#
+#24005925,Egozi,Isabelle Rose,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,417.447,92.77 %,199,28.43 %,654,92.77 %,#
+#23996224,Ehrlich,Ashley Reese,[MMDIBSED] Mild to Moderate Disabilities,Math 106,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,106,88.33 %,,,,,,229.7871,51.06 %,,,68,9.71 %,360,51.06 %,#
+#23973985,Elias,Jorge Alberto,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,316.5957,70.35 %,113,16.14 %,496,70.35 %,#
+#23982091,Elias,Valerie,[MEDBS] Medicine,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,329.99985,73.33 %,145,20.71 %,517,73.33 %,#
+#24043572,Enriquez,Leyla Danitza,[ARCHBARCH] Architecture,Math 108,Math 100_Recommend meeting with Advisor,100,33.33 %,108,90 %,,,,,,0,0 %,274.46805,60.99 %,112,16 %,430,60.99 %,#
+#23981601,Ensio,Lex Christian,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,377.8722,83.97 %,,,288,41.14 %,592,83.97 %,#
+#24002836,Erickson,Jake Anthony,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,298.08495,66.24 %,,,244,34.86 %,467,66.24 %,#
+#24009587,Erlenbaugh,Maisy Maria,[DSCBS] Data Science,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,377.8722,83.97 %,,,169,24.14 %,592,83.97 %,#
+#23986724,Escobedo,Gisele Lren,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,183.1914,40.71 %,87,12.43 %,287,40.71 %,#
+#24057958,Espinosa,Emelia Lynn,[ENVSBSES] Environmental Science,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,388.08495,86.24 %,272,38.86 %,608,86.24 %,#
+#23991583,Espinoza,Jacob Daniel,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,UNIV 100,0,0 %,0,0 %,101,14.43 %,0,0 %,#
+#24053659,Estrella,Juliana Micel,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,335.74455,74.61 %,,,100,14.29 %,526,74.61 %,#
+#23993213,Euglow,Jack Travis,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,218.2977,48.51 %,,,384,54.86 %,342,48.51 %,#
+#24054657,Evans,Makailah Rose,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,UNIV 100,0,0 %,0,0 %,11,1.57 %,0,0 %,#
+#23996329,Faith,Ardyn,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,154.4679,34.33 %,412,58.86 %,242,34.33 %,#
+#23985266,Fajardo,Arlyn,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,318.51045,70.78 %,259,37 %,499,70.78 %,#
+#24035238,Fenderson,Sanai LeAnne,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,214.4682,47.66 %,110,15.71 %,336,47.66 %,#
+#24003446,Fernandez,Adriana,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,114.25545,25.39 %,50,7.14 %,179,25.39 %,#
+#24039527,Fernandez,Campbell Martha,[NURSBSN] Nursing,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,,0,0 %,0,0 %,190,27.14 %,0,0 %,#
+#23996720,Ferreira,Elaina Leigh,[NHPBS] Nutrition & Human Performance,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,349.14915,77.59 %,,,193,27.57 %,547,77.59 %,#
+#23989248,Fierros,Roberto Alejandro,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,437.23395,97.16 %,,,254,36.29 %,685,97.16 %,#
+#24047178,Figueroa,Jeffrey Manuel,[COSCBS] Computer Science,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,361.91475,80.43 %,237,33.86 %,567,80.43 %,#
+#24012337,Finotti Kemper,Carolina,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,310.851,69.08 %,112,16 %,487,69.08 %,#
+#24018181,Fjeld,Kate,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,352.34055,78.3 %,,,258,36.86 %,552,78.3 %,#
+#24051320,Florence,Si'Ann Leteria,[PHLBS] Public Health,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,319.149,70.92 %,,,283,40.43 %,500,70.92 %,#
+#23989414,Fonseca,Jose David,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,361.27665,80.28 %,131,18.71 %,566,80.28 %,#
+#23980449,Forrest,Taylor Triniere,[ASCBS] Animal Sciences,Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,296.1702,65.82 %,117,16.71 %,464,65.82 %,#
+#23997611,Fowler,Madison Elise,[NSCIBS] Neuroscience,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,220.2129,48.94 %,59,8.43 %,345,48.94 %,#
+#24011345,Fredericks,Rowan Marie,[CHEMBS] Chemistry,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,421.2765,93.62 %,,,153,21.86 %,660,93.62 %,#
+#24056777,Freeman,Jackson Randall,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,0,0 %,311,44.43 %,681,96.6 %,#
+#23999649,Friedman,Jack Ryan,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,230.42565,51.21 %,103,14.71 %,361,51.21 %,#
+#24048093,Fuller,Jaceon K,[MEDBS] Medicine,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,367.02135,81.56 %,,,189,27 %,575,81.56 %,#
+#23992728,Garcia,Jesse,[NMSEGND] No Major Selected Engineering,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,298.08495,66.24 %,166,23.71 %,467,66.24 %,#
+#24029419,Gauvin,Alexandra Ly,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,392.553,87.23 %,,,325,46.43 %,615,87.23 %,#
+#24057797,Gentry,Carter Stephen,[REBS] Real Estate,Math 107,Math 100_Final Exam 1st Attempt not complete,300,100 %,107,89.17 %,,,,,UNIV 100,0,0 %,0,0 %,132,18.86 %,0,0 %,#
+#24025622,Gigante,Kasey Lynn,[NURSBSN] Nursing,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,174.2553,38.72 %,,,183,26.14 %,273,38.72 %,#
+#24007633,Gillespie,Kalissa Rose Yvonne,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,321.7023,71.49 %,,,123,17.57 %,504,71.49 %,#
+#23980653,Glover,Benjamin Isaiah,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,391.9149,87.09 %,,,249,35.57 %,614,87.09 %,#
+#24007986,Goldberg,Spencer,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,347.23395,77.16 %,193,27.57 %,544,77.16 %,#
+#24055346,Goldkuhl,Connor Andrew,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,356.17005,79.15 %,155,22.14 %,558,79.15 %,#
+#24050702,Goldstein,Sophia Belle,[PSYCBA] Psychology,Math 107,Math 107,107,35.67 %,107,89.17 %,,,,,UNIV 100,0,0 %,284.0427,63.12 %,143,20.43 %,445,63.12 %,#
+#24030729,Golembiewski,Makayla Ann,[NMSALSND] No Major Selected Ag Life Sci,See Advisor,Math 107_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,333.8298,74.18 %,,,276,39.43 %,523,74.18 %,#
+#24028612,Gomez,Kiandrick,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,UNIV 100,0,0 %,0,0 %,50,7.14 %,0,0 %,#
+#23988555,Gonzales,Sarina Yvonne,[VSCBS] Veterinary Science,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,358.08525,79.57 %,155,22.14 %,561,79.57 %,#
+#23974741,Gonzalez Duran,Yaneth,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,282.1275,62.7 %,179,25.57 %,442,62.7 %,#
+#24010456,Gooch,Mia,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,333.8298,74.18 %,217,31 %,523,74.18 %,#
+#24008387,Govier,Max Victor,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,412.3404,91.63 %,163,23.29 %,646,91.63 %,#
+#24021933,Graham,Kayla Rose,[BMGTBSBA] Business Management,Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,243.8298,54.18 %,77,11 %,382,54.18 %,#
+#24049672,Gray,Chineze Pauline,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,277.02135,61.56 %,215,30.71 %,434,61.56 %,#
+#24010987,Gray,Ethan Michael,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,244.4679,54.33 %,75,10.71 %,383,54.33 %,#
+#24049206,Griffin,Jaxon Douglas,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,CATS,,,,,0,0 %,350.42535,77.87 %,286,40.86 %,549,77.87 %,#
+#24002556,Griffith,Mason Henry-Lyn,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,405.31905,90.07 %,,,163,23.29 %,635,90.07 %,#
+#23984514,Griffith,Owen,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,280.8513,62.41 %,125,17.86 %,440,62.41 %,#
+#24004682,Grijalva,Michael A,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,37.33 %,112,93.33 %,,,,,,443.6172,98.58 %,,,174,24.86 %,695,98.58 %,#
+#23994723,Grove,Lailah Brooke,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,328.7232,73.05 %,,,194,27.71 %,515,73.05 %,#
+#23989682,Guerra Gomez,Carlos,[ECONBA] Economics,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,,0,0 %,0,0 %,32,4.57 %,0,0 %,#
+#24032078,Guerrero,Juan Miguel,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,UNIV 100,0,0 %,0,0 %,87,12.43 %,0,0 %,#
+#24005661,Guillen,Abrianna Martina,[ELEMBAED] Elementary Education,Math 106,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,106,88.33 %,,,,,UNIV 100,0,0 %,142.3404,31.63 %,65,9.29 %,223,31.63 %,#
+#24007646,Guillen,Santianna L,[PSYCBA] Psychology,Math 107,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,107,89.17 %,,,,,UNIV 100,0,0 %,89.3619,19.86 %,62,8.86 %,140,19.86 %,#
+#24013324,Gutierrez,Cole Oliver,[BIOCBS] Biochemistry,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,301.9149,67.09 %,,,217,31 %,473,67.09 %,#
+#23996864,Guzman,Camila,[BIOLBS] Biology,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,401.48955,89.22 %,101,14.43 %,629,89.22 %,#
+#23996865,Guzman,Natalia,[BIOLBS] Biology,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,352.34055,78.3 %,80,11.43 %,552,78.3 %,#
+#23992086,Hall,Marion Nina,[BIOLBS] Biology,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,433.40445,96.31 %,,,216,30.86 %,679,96.31 %,#
+#24051132,Hallock,Michael William,[ECONBA] Economics,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,403.4043,89.65 %,200,28.57 %,632,89.65 %,#
+#23984975,Halmos,Gabriella Lynn,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,139.149,30.92 %,457,65.29 %,218,30.92 %,#
+#24026384,Hancey,Andrew Townsend,[MEDBS] Medicine,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,381.70215,84.82 %,203,29 %,598,84.82 %,#
+#23882506,Hannah,Shawn David,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,UNIV 100,434.04255,96.45 %,,,134,19.14 %,680,96.45 %,#
+#23978645,Harder,Alianna M,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,195.95745,43.55 %,166,23.71 %,307,43.55 %,#
+#24041725,Hardin,Eglantine Rita Maria,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,342.7659,76.17 %,,,103,14.71 %,537,76.17 %,#
+#24007518,Hardy,Grant Hardy William,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,252.7659,56.17 %,154,22 %,396,56.17 %,#
+#23976113,Harrell,Emerson Timothy,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,347.8725,77.3 %,162,23.14 %,545,77.3 %,#
+#24039551,Harris,Hudson Kasey,[REBS] Real Estate,Math 107,Math 100_Final Exam 1st Attempt not complete,300,100 %,107,89.17 %,,,,,UNIV 100,0,0 %,0,0 %,106,15.14 %,0,0 %,#
+#24023264,Heicke,Nick Anthony,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,364.46805,80.99 %,,,261,37.29 %,571,80.99 %,#
+#24050706,Heim,Chet McCarry,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,284.6808,63.26 %,286,40.86 %,446,63.26 %,#
+#24018509,Hernandez,Jasmine R,[BIOLBS] Biology,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,329.36175,73.19 %,,,148,21.14 %,516,73.19 %,#
+#23987102,Hernandez,Melanie Jenell,[MEDBS] Medicine,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,196.59555,43.69 %,64,9.14 %,308,43.69 %,#
+#24044659,Herrera,Lezly Paola,[NURSBSN] Nursing,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,400.2129,88.94 %,281,40.14 %,627,88.94 %,#
+#24003100,Hoekstra,Gavan Jonas,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,273.82995,60.85 %,,,214,30.57 %,429,60.85 %,#
+#24031311,Holder,Rylie Catherine,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,37.33 %,112,93.33 %,CATS,,,,,375.31935,83.4 %,,,220,31.43 %,588,83.4 %,#
+#24000989,Holdren,Chase,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,358.72335,79.72 %,194,27.71 %,562,79.72 %,#
+#23935821,Holmes,Za'Shawn Belden,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,37.33 %,112,93.33 %,,,,,,416.17035,92.48 %,,,143,20.43 %,652,92.48 %,#
+#23991378,House,Avery Kathleen,[PSYSBS] Psychological Science,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,287.2341,63.83 %,191,27.29 %,450,63.83 %,#
+#23989904,Howard,Sophia Grace,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,DRC,,,328.7232,73.05 %,,,139,19.86 %,515,73.05 %,#
+#23987104,Hughes,Shane Trenton,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,422.55315,93.9 %,212,30.29 %,662,93.9 %,#
+#24024218,Huizar,Sherlyn A,[MEDBS] Medicine,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,444.8934,98.87 %,49,7 %,697,98.87 %,#
+#24025674,Hunter,Ember J,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,268.72335,59.72 %,,,25,3.57 %,421,59.72 %,#
+#24005408,Ingram,Lilly Marissa,[BIOLBS] Biology,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,317.87235,70.64 %,,,131,18.71 %,498,70.64 %,#
+#23981444,Isaac,Katrina Sarah,[PHSCBS] Pharmaceutical Sciences,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,356.17005,79.15 %,,,228,32.57 %,558,79.15 %,#
+#24025678,Iverson,Drew Eileen,[MEDBS] Medicine,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,165.3192,36.74 %,114,16.29 %,259,36.74 %,#
+#24007114,Ivey,Hunter James,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,302.553,67.23 %,146,20.86 %,474,67.23 %,#
+#24014305,Jackson,Malaiya,[PSYCBA] Psychology,Math 107,Math 107,107,35.67 %,107,89.17 %,,,,,UNIV 100,0,0 %,273.82995,60.85 %,104,14.86 %,429,60.85 %,#
+#24007117,Jameson,Justin Lee,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,378.51075,84.11 %,,,161,23 %,593,84.11 %,#
+#24021319,Jeffery,Annie Elizabeth,[NTRSBS] Natural Resources,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,135.9576,30.21 %,,,109,15.57 %,213,30.21 %,#
+#23948508,Jemsek,Jake Benjamin,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,100,33.33 %,112,93.33 %,,,,,,0,0 %,268.08525,59.57 %,142,20.29 %,420,59.57 %,#
+#23984853,Jenis,Alex,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,295.5321,65.67 %,253,36.14 %,463,65.67 %,#
+#24020493,Jepsen,TJ Isaiah,[PSYSBS] Psychological Science,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,,0,0 %,0,0 %,128,18.29 %,0,0 %,#
+#23997624,Jimenez,Joanna,[MEDBS] Medicine,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,390.00015,86.67 %,181,25.86 %,611,86.67 %,#
+#24029285,Johns,Amysia Le'nae,[MEDBS] Medicine,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,159.5745,35.46 %,,,50,7.14 %,250,35.46 %,#
+#23990018,Johnson,Dineah Christine,[SBEBSSBE] Sustainable Built Environments,See Advisor,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,379.7874,84.4 %,238,34 %,595,84.4 %,#
+#24037860,Johnson,Maya Morning Dove,[VSCBS] Veterinary Science,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,405.9576,90.21 %,,,215,30.71 %,636,90.21 %,#
+#23992744,Johnson,Riley Lynn,[NHPBS] Nutrition & Human Performance,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,448.08525,99.57 %,,,259,37 %,702,99.57 %,#
+#24052982,Johnson,Wesley Monroe,[PHSCBS] Pharmaceutical Sciences,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,448.08525,99.57 %,,,326,46.57 %,702,99.57 %,#
+#24045549,Jonell,Breckyn Tate,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,385.5321,85.67 %,,,237,33.86 %,604,85.67 %,#
+#23998898,Juarez,Diego Andres,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,229.7871,51.06 %,135,19.29 %,360,51.06 %,#
+#24020704,Kelsey,Landon Xavier,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,CATS,,,,,0,0 %,386.1702,85.82 %,161,23 %,605,85.82 %,#
+#23974960,Koehler,Reese M,[BIOLBS] Biology,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,349.78725,77.73 %,170,24.29 %,548,77.73 %,#
+#24011496,Konkol,Colin Anthony,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,354.8934,78.87 %,269,38.43 %,556,78.87 %,#
+#24050205,Kotelman,Kiersten Rachele,[PHSCBS] Pharmaceutical Sciences,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,437.8725,97.3 %,185,26.43 %,686,97.3 %,#
+#24038355,Krengel,Ella Judith,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,347.23395,77.16 %,268,38.29 %,544,77.16 %,#
+#23983262,Krienert,Taylor S,"[SLHSBS] Speech, Language & Hearing Sci",Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,301.2768,66.95 %,,,199,28.43 %,472,66.95 %,#
+#24014083,Krnic,Marlena,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,317.23425,70.5 %,229,32.71 %,497,70.5 %,#
+#24026431,Kulumba,Sheena Gift,[PSYCBA] Psychology,Math 107,Math 107,107,35.67 %,107,89.17 %,,,,,UNIV 100,0,0 %,331.91505,73.76 %,147,21 %,520,73.76 %,#
+#24021327,La,Morgan,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,271.27665,60.28 %,,,142,20.29 %,425,60.28 %,#
+#24000657,Lagaya,Kaden Luke,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,351.0639,78.01 %,235,33.57 %,550,78.01 %,#
+#23985409,Landau,Rachel Madison,[NURSBSN] Nursing,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,329.36175,73.19 %,,,97,13.86 %,516,73.19 %,#
+#24051412,Lane-Kerr,Jade,[PSYCBA] Psychology,Math 107,Math 100_Final Exam 1st Attempt not complete,300,100 %,107,89.17 %,,,,,UNIV 100,0,0 %,0,0 %,152,21.71 %,0,0 %,#
+#24015555,Lansdale,Nohea,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,275.7447,61.28 %,,,104,14.86 %,432,61.28 %,#
+#23961843,Laughter,Nashauni Bahozho,[VSCBS] Veterinary Science,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,409.7871,91.06 %,,,370,52.86 %,642,91.06 %,#
+#23997444,LeBeau,Brianna Lindsey,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,149.99985,33.33 %,85,12.14 %,235,33.33 %,#
+#24003140,LeBel,Amanda Marie,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,304.4682,67.66 %,135,19.29 %,477,67.66 %,#
+#24024497,Lee,Kieran Ryan,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,UNIV 100,0,0 %,0,0 %,102,14.57 %,0,0 %,#
+#24011518,Lee-Stegall,Sydney Audrina,[COSCBA] Computer Science,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,340.85115,75.74 %,91,13 %,534,75.74 %,#
+#24044466,LeFaivre,Sophia Grace,[BMGTBSBA] Business Management,Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,,311.48955,69.22 %,,,238,34 %,488,69.22 %,#
+#24032181,Leidecker,Jolyn Marie,[MEDBS] Medicine,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,UNIV 100,351.0639,78.01 %,,,164,23.43 %,550,78.01 %,#
+#23992272,Leon,Maya,[BIOLBS] Biology,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,361.27665,80.28 %,88,12.57 %,566,80.28 %,#
+#24050638,Leon,Sandra Grecia,[VSCBS] Veterinary Science,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,319.149,70.92 %,453,64.71 %,500,70.92 %,#
+#24019928,Leybas,Soleil D,[PHLBS] Public Health,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,391.2768,86.95 %,109,15.57 %,613,86.95 %,#
+#23992576,Ligos,Joely Elizabeth,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,285.31935,63.4 %,169,24.14 %,447,63.4 %,#
+#23986119,Linder,Lauren Kaye,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,371.4894,82.55 %,,,228,32.57 %,582,82.55 %,#
+#24029001,Lipich,Gregory,[COSCBS] Computer Science,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,,0,0 %,0,0 %,432,61.71 %,0,0 %,#
+#23995792,Liu,Kuan-Yen,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,337.0212,74.89 %,,,164,23.43 %,528,74.89 %,#
+#23985209,Lizarraga,Michelle Guadalupe,[MEDBS] Medicine,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,,0,0 %,0,0 %,116,16.57 %,0,0 %,#
+#24026444,Lobato,Liliana Rose,[PSYSBS] Psychological Science,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,UNIV 100,0,0 %,0,0 %,119,17 %,0,0 %,#
+#24001680,Lonergan,James Daniel,[BMGTBSBA] Business Management,Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,,347.23395,77.16 %,,,260,37.14 %,544,77.16 %,#
+#24047198,Longueira,Dylan Carlos,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,394.4682,87.66 %,341,48.71 %,618,87.66 %,#
+#24004797,Lopez,Alan D,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,384.89355,85.53 %,,,150,21.43 %,603,85.53 %,#
+#23993436,Lopez,Cristian Alan,[COSCBA] Computer Science,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,354.2553,78.72 %,92,13.14 %,555,78.72 %,#
+#24004798,Lopez,Diego,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,179.3619,39.86 %,,,114,16.29 %,281,39.86 %,#
+#24057054,Lopez,Esperanza M,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,248.93595,55.32 %,,,90,12.86 %,390,55.32 %,#
+#23986639,Lopez,Luis Michael,[PSYCBA] Psychology,Math 107,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,107,89.17 %,,,,,UNIV 100,0,0 %,244.4679,54.33 %,99,14.14 %,383,54.33 %,#
+#24037745,Lotzof,Max Wolfgang,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,322.3404,71.63 %,0,0 %,202,28.86 %,505,71.63 %,#
+#24009728,Lucas,Kezi Kahoakalanihoohenoikealaula,[PHSCBS] Pharmaceutical Sciences,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,CATS,,,,,0,0 %,350.42535,77.87 %,252,36 %,549,77.87 %,#
+#24024023,Luna,Natalia Marie,[PHLBS] Public Health,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,361.27665,80.28 %,222,31.71 %,566,80.28 %,#
+#23987397,Machado,Meleena R,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,409.7871,91.06 %,181,25.86 %,642,91.06 %,#
+#23987005,Machado Rios,Gahel Antonio,[REBS] Real Estate,Math 107,Math 107,107,35.67 %,107,89.17 %,,,,,UNIV 100,0,0 %,312.76575,69.5 %,27,3.86 %,490,69.5 %,#
+#23984666,MacLaughlin,Conner Kenneth,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,375.31935,83.4 %,257,36.71 %,588,83.4 %,#
+#23991965,Maddock,Kenna Brittany Belle,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,234.25515,52.06 %,117,16.71 %,367,52.06 %,#
+#24047755,Mahaso,Simba F,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,361.27665,80.28 %,0,0 %,305,43.57 %,566,80.28 %,#
+#24055808,Major,Jake Wilson,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,302.553,67.23 %,,,194,27.71 %,474,67.23 %,#
+#24015282,Marobella,Maya Rose,[FITSBA] Fashion Industry Sci & Tech,Math 107,Math 100_Final Exam 1st Attempt not complete,300,100 %,107,89.17 %,,,,,UNIV 100,0,0 %,0,0 %,112,16 %,0,0 %,#
+#24001397,Marquez-Pacheco,Luisa Fernanda,[MEDBS] Medicine,Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,UNIV 100,347.8725,77.3 %,,,157,22.43 %,545,77.3 %,#
+#23962620,Martinez,Allegra Giaelle,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,280.8513,62.41 %,144,20.57 %,440,62.41 %,#
+#24005217,Martinez,Amanda Rose,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,250.2126,55.6 %,55,7.86 %,392,55.6 %,#
+#24004801,Martinez,Jesus Abraham,[REBS] Real Estate,Math 107,Math 100_Recommend meeting with Advisor,100,33.33 %,107,89.17 %,,,,,UNIV 100,0,0 %,243.1917,54.04 %,99,14.14 %,381,54.04 %,#
+#24005742,Matthews,Mandy Grace,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,280.21275,62.27 %,293,41.86 %,439,62.27 %,#
+#23982568,Mayer,Ellie Adele,[BMGTBSBA] Business Management,Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,,319.149,70.92 %,,,227,32.43 %,500,70.92 %,#
+#24006660,McCorvey -Weil,Malaya Divine,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,345.3192,76.74 %,207,29.57 %,541,76.74 %,#
+#24055242,McGhee,Scott Thomas,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,384.89355,85.53 %,180,25.71 %,603,85.53 %,#
+#24025758,McHatton,Jackson Alexander,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,UNIV 100,0,0 %,0,0 %,95,13.57 %,0,0 %,#
+#23992283,McKone-Sweet,Marcos Antonio,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,178.08525,39.57 %,100,14.29 %,279,39.57 %,#
+#24057822,McLain,Martin Montae,[ASTRBS] Astronomy,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,,0,0 %,0,0 %,335,47.86 %,0,0 %,#
+#23993274,Mcvey,Mia A,[MICRBS] Microbiology,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,295.5321,65.67 %,76,10.86 %,463,65.67 %,#
+#23991973,Medina,Charlotte Grace,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,324.8937,72.2 %,121,17.29 %,509,72.2 %,#
+#24014597,Medina,Mireya Star,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,310.2129,68.94 %,88,12.57 %,486,68.94 %,#
+#23990957,Mendoza,Amaiah Christine,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,UNIV 100,0,0 %,0,0 %,25,3.57 %,0,0 %,#
+#24038129,Mendoza,Fernando,[NMSEGND] No Major Selected Engineering,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,,0,0 %,0,0 %,74,10.57 %,0,0 %,#
+#23994962,Mercado,Nicole,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,362.5533,80.57 %,198,28.29 %,568,80.57 %,#
+#24033065,Mhungu,Zane M,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,283.40415,62.98 %,0,0 %,203,29 %,444,62.98 %,#
+#24026481,Mikita,Claire Avery,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,441.702,98.16 %,,,337,48.14 %,692,98.16 %,#
+#24035532,Miller,Max James,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,300.00015,66.67 %,110,15.71 %,470,66.67 %,#
+#24005745,Miller,Nicholas Aaron,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,215.1063,47.8 %,151,21.57 %,337,47.8 %,#
+#24037525,Miller,Teagan I,[ELEMBAED] Elementary Education,Math 106,Math 100_Final Exam 1st Attempt not complete,300,100 %,106,88.33 %,,,,,UNIV 100,0,0 %,0,0 %,123,17.57 %,0,0 %,#
+#23985304,Mills,Rubi Lola,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,239.99985,53.33 %,58,8.29 %,376,53.33 %,#
+#24001701,Minta,Nana Afia Akoto,[MEDBS] Medicine,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,317.87235,70.64 %,168,24 %,498,70.64 %,#
+#24019160,Moles,Teagen Nicole,[BATBS] Biosystems Analytics & Tech,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,368.298,81.84 %,130,18.57 %,577,81.84 %,#
+#24044679,Molina,Melena S,[ISCBS] Information Science,Math 107,Math 107,107,35.67 %,107,89.17 %,,,,,,374.0427,83.12 %,,,151,21.57 %,586,83.12 %,#
+#24037528,Monette,Alexandre Joshua,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,324.25515,72.06 %,319,45.57 %,508,72.06 %,#
+#23981464,Montelongo,Soffia Milan,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,0,0 %,330,47.14 %,627,88.94 %,#
+#24014369,Montenegro,Angelyz Marcela,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,0,0 %,224,32 %,654,92.77 %,#
+#24007723,Montierth,Bailey J,[NURSBSN] Nursing,Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,,340.2126,75.6 %,,,286,40.86 %,533,75.6 %,#
+#24006804,Moore,Ben David,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,371.4894,82.55 %,129,18.43 %,582,82.55 %,#
+#24002289,Moran,Jacob Daniel,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,296.8083,65.96 %,204,29.14 %,465,65.96 %,#
+#23998399,Moreno,Jordin Lee,[ARCHBARCH] Architecture,Math 108,Math 108,108,36 %,108,90 %,,,,,,0,0 %,365.1066,81.13 %,238,34 %,572,81.13 %,#
+#24005223,Moreno,Sophia F,"[SLHSBS] Speech, Language & Hearing Sci",Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,,0,0 %,0,0 %,253,36.14 %,0,0 %,#
+#23983049,Morgan,Nolan Edward,[ARCHBARCH] Architecture,Math 108,Math 108,108,36 %,108,90 %,,,,,,395.1063,87.8 %,,,152,21.71 %,619,87.8 %,#
+#24028801,Morgan,Rylee Stephanie,[PHSCBS] Pharmaceutical Sciences,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,432.7659,96.17 %,,,134,19.14 %,678,96.17 %,#
+#23989556,Moseng,Macie Jo,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,0,0 %,345,49.29 %,640,90.78 %,#
+#23993282,Mosso,Ximena,[BIOLBS] Biology,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,346.59585,77.02 %,140,20 %,543,77.02 %,#
+#23967445,Moyo,Asher Tapiwa,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,393.19155,87.38 %,313,44.71 %,616,87.38 %,#
+#24011617,Mueller,Jack Terrence,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,0,0 %,290,41.43 %,636,90.21 %,#
+#23993867,Muran,Maya Jane,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,204.25545,45.39 %,143,20.43 %,320,45.39 %,#
+#24040941,Murphy,Colin Michael,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,401.48955,89.22 %,390,55.71 %,629,89.22 %,#
+#24017643,Murrieta,Ashlyn Idalia,[ELEMBAED] Elementary Education,Math 106,Math 100_Final Exam 1st Attempt not complete,300,100 %,106,88.33 %,,,,,,0,0 %,0,0 %,167,23.86 %,0,0 %,#
+#24010637,Nails,Morghyn Lane,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,430.2126,95.6 %,,,205,29.29 %,674,95.6 %,#
+#24025783,Narvaez,Isaiah Aries,[BMGTBSBA] Business Management,Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,,0,0 %,331.91505,73.76 %,151,21.57 %,520,73.76 %,#
+#24053587,Neak,Chakrayut,[ECONBA] Economics,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,315.31905,70.07 %,101,14.43 %,494,70.07 %,#
+#24056427,Nguyen,Clinton,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,321.06375,71.35 %,178,25.43 %,503,71.35 %,#
+#23911166,Nichols,Elliot Lukkes,[PSYCBA] Psychology,Math 107,Math 107,107,35.67 %,107,89.17 %,,,,,UNIV 100,0,0 %,416.80845,92.62 %,149,21.29 %,653,92.62 %,#
+#24001173,Nicks,Taylor Rose,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,0,0 %,308,44 %,683,96.88 %,#
+#24044010,Niles,Hannah Kenia,[BIOLBS] Biology,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,345.9573,76.88 %,,,230,32.86 %,542,76.88 %,#
+#24055764,Norwood,Cassidy,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,271.91475,60.43 %,,,153,21.86 %,426,60.43 %,#
+#23986784,Obono Ndong,Elfride,[MEDBS] Medicine,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,156.3831,34.75 %,71,10.14 %,245,34.75 %,#
+#23998243,Ochocki,Matt Louis,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,196.59555,43.69 %,,,150,21.43 %,308,43.69 %,#
+#24036882,O'Kane,Chloe Rosenbaum,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,381.70215,84.82 %,300,42.86 %,598,84.82 %,#
+#23999210,O'Malley,Liam Paul,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,186.3828,41.42 %,190,27.14 %,292,41.42 %,#
+#24009030,O'Meara,Taylor Renee,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,0,0 %,110,15.71 %,666,94.47 %,#
+#24027734,O'Neil-Funk,Ryann,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,306.38295,68.09 %,156,22.29 %,480,68.09 %,#
+#23932815,Ormsby,Lora N,[PSYCBA] Psychology,Math 107,Math 100_Recommend meeting with Advisor,100,33.33 %,107,89.17 %,,,DRC,,,187.65945,41.7 %,,,138,19.71 %,294,41.7 %,#
+#24002795,Orona,Fernando,[ARCHBARCH] Architecture,Math 108,Math 108,108,36 %,108,90 %,,,,,,413.61705,91.91 %,,,214,30.57 %,648,91.91 %,#
+#23990497,Orozco,Arleth Mayte,[VSCBS] Veterinary Science,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,305.1063,67.8 %,,,55,7.86 %,478,67.8 %,#
+#24046335,Orozco,Mia Bella,[PHLBS] Public Health,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,232.9785,51.77 %,,,118,16.86 %,365,51.77 %,#
+#23904212,Ortiz,Luis Alexis,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,262.34055,58.3 %,,,152,21.71 %,411,58.3 %,#
+#24009809,Ortiz-Lopez,Joseph Noe,[BIOLBS] Biology,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,423.8298,94.18 %,,,202,28.86 %,664,94.18 %,#
+#23987419,Osterling,Shayna Elise,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,192.76605,42.84 %,88,12.57 %,302,42.84 %,#
+#23992153,Pacheco,Angel Gabriel,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,,0,0 %,0,0 %,140,20 %,0,0 %,#
+#24016881,Pacheco,Bryce Ramon,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,277.02135,61.56 %,,,88,12.57 %,434,61.56 %,#
+#24012690,Pangilinan,Colin Lance,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,,0,0 %,0,0 %,157,22.43 %,0,0 %,#
+#23997485,Pappalardo,Marlon,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,255.3192,56.74 %,0,0 %,231,33 %,400,56.74 %,#
+#23981984,Patel,Ava Laxmi,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,402.12765,89.36 %,114,16.29 %,630,89.36 %,#
+#24020266,Patel,Jill K,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,350.42535,77.87 %,148,21.14 %,549,77.87 %,#
+#24047287,Patton,Porter,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,CATS,,,,,0,0 %,369.57465,82.13 %,293,41.86 %,579,82.13 %,#
+#24016349,Paula,Jaylin Marianne,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,180.6381,40.14 %,,,93,13.29 %,283,40.14 %,#
+#24010672,Pepper,Avery Lauren,[BMGTBSBA] Business Management,Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,309.57435,68.79 %,158,22.57 %,485,68.79 %,#
+#23993885,Peralta,Milan Rodriguez,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,254.68065,56.6 %,,,156,22.29 %,399,56.6 %,#
+#24021016,Peralta Badilla,Eduardo Jose,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,331.91505,73.76 %,90,12.86 %,520,73.76 %,#
+#23998404,Perez,Isela,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Final Exam 1st Attempt not complete,100,33.33 %,112,93.33 %,,,,,UNIV 100,168.5106,37.45 %,,,65,9.29 %,264,37.45 %,#
+#23942584,Perez-Brewer,Macen,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,376.59555,83.69 %,277,39.57 %,590,83.69 %,#
+#24013539,Perry,Eavan Seanna,[ELEMBAED] Elementary Education,Math 106,Math 106,106,35.33 %,106,88.33 %,,,,,,0,0 %,285.95745,63.55 %,105,15 %,448,63.55 %,#
+#24046694,Perry,Ky Leahia,[MUSBA] Music,See Advisor,Math 107_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,256.59585,57.02 %,94,13.43 %,402,57.02 %,#
+#24024031,Phillips,Reese Renea,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,188.298,41.84 %,97,13.86 %,295,41.84 %,#
+#24013547,Piazza,Aila Brynn,[NTRSBS] Natural Resources,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,314.0424,69.79 %,185,26.43 %,492,69.79 %,#
+#24047985,Pierce,Ella Rose,[MEDBS] Medicine,Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,,0,0 %,281.4894,62.55 %,124,17.71 %,441,62.55 %,#
+#24049267,Planetta,Payton Faith,[MEDBS] Medicine,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,280.8513,62.41 %,265,37.86 %,440,62.41 %,#
+#23990516,Poropat,Caiden,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,440.42535,97.87 %,,,178,25.43 %,690,97.87 %,#
+#23983287,Pratoomratana,Gabriel J,[PHSCBS] Pharmaceutical Sciences,Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,,331.2765,73.62 %,,,255,36.43 %,519,73.62 %,#
+#23992305,Preator,Amy Noelle,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,240.6384,53.48 %,77,11 %,377,53.48 %,#
+#23996786,Puentes,Anabella Maria,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,381.70215,84.82 %,,,270,38.57 %,598,84.82 %,#
+#24016355,Quijada,Kandace Andrea,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,435.9573,96.88 %,,,275,39.29 %,683,96.88 %,#
+#24017895,Rafalowski,Gracie Laine,[PSYSBS] Psychological Science,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,430.2126,95.6 %,,,124,17.71 %,674,95.6 %,#
+#24016142,Ramirez,Ashlee Yeraldine,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,337.0212,74.89 %,,,103,14.71 %,528,74.89 %,#
+#23981885,Ramirez,Fatima D,[CHEMBS] Chemistry,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,434.04255,96.45 %,,,304,43.43 %,680,96.45 %,#
+#23988419,Ramirez,Jesus Rafael,[REBS] Real Estate,Math 107,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,107,89.17 %,,,,,UNIV 100,0,0 %,212.553,47.23 %,75,10.71 %,333,47.23 %,#
+#24027621,Ramirez,Marques James,[MEDBS] Medicine,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,349.14915,77.59 %,112,16 %,547,77.59 %,#
+#23999656,Ramos,Andres,[BIOLBS] Biology,Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,,0,0 %,342.1278,76.03 %,221,31.57 %,536,76.03 %,#
+#23997866,Randolph,Kamiel D,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 107_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,305.74485,67.94 %,,,46,6.57 %,479,67.94 %,#
+#23992632,Rennenkampf,Jade Annabelle,[FITSBA] Fashion Industry Sci & Tech,Math 107,Math 107,107,35.67 %,107,89.17 %,,,,,UNIV 100,255.3192,56.74 %,0,0 %,157,22.43 %,400,56.74 %,#
+#23922135,Reyes,Gabrielle Carolina,[ECONBA] Economics,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,,0,0 %,0,0 %,236,33.71 %,0,0 %,#
+#24054840,Rhoades,Hayden Elena,[BIOCBS] Biochemistry,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,UNIV 100,414.25515,92.06 %,,,199,28.43 %,649,92.06 %,#
+#24047216,Rhoades,Stephen Willaim,[GDDBS] Game Design & Development,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,255.3192,56.74 %,,,91,13 %,400,56.74 %,#
+#24055200,Richmond,E'Niyah Kailyn,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,206.1702,45.82 %,67,9.57 %,323,45.82 %,#
+#24018829,Riff,Dylan Anthony,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,172.97865,38.44 %,80,11.43 %,271,38.44 %,#
+#23985975,Ripley,Nevaeh M,[NURSBSN] Nursing,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,UNIV 100,0,0 %,0,0 %,63,9 %,0,0 %,#
+#24015600,Roberts,Kolby Dane,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,227.87235,50.64 %,100,14.29 %,357,50.64 %,#
+#24053250,Robertson,Rachel Heather,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,369.57465,82.13 %,279,39.86 %,579,82.13 %,#
+#24007460,Robinson,Ian Ashton,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,257.23395,57.16 %,,,154,22 %,403,57.16 %,#
+#24048124,Rocha,Ethan,[MEDBS] Medicine,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,341.48925,75.89 %,85,12.14 %,535,75.89 %,#
+#23989336,Rochanakit,Grace,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,322.3404,71.63 %,411,58.71 %,505,71.63 %,#
+#23991475,Rodriguez,Brayan Alberto,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,247.65975,55.04 %,246,35.14 %,388,55.04 %,#
+#24053253,Romero,Angelo,[ENVSBSES] Environmental Science,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,273.82995,60.85 %,,,152,21.71 %,429,60.85 %,#
+#23984260,Rosthenhausler,Daisy Renee,[PSYCBA] Psychology,Math 107,Math 112,107,35.67 %,107,89.17 %,,,,,UNIV 100,300.63825,66.81 %,,,94,13.43 %,471,66.81 %,#
+#24056886,Rubenstein,Lior Pavel Shawn,[BMGTBSBA] Business Management,Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,,0,0 %,312.76575,69.5 %,121,17.29 %,490,69.5 %,#
+#24014848,Rubio,Morelia Carolina,[MEDBS] Medicine,Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,221.48955,49.22 %,47,6.71 %,347,49.22 %,#
+#23981654,Rubio,Stella Margarita,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,384.25545,85.39 %,,,183,26.14 %,602,85.39 %,#
+#24018839,Ruffing,Abigail Marquette,[PSYCBA] Psychology,Math 107,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,107,89.17 %,,,,,UNIV 100,0,0 %,148.0851,32.91 %,78,11.14 %,232,32.91 %,#
+#23979631,Ruiz,Tyler Michael,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,300,100 %,112,93.33 %,,,,,UNIV 100,0,0 %,0,0 %,62,8.86 %,0,0 %,#
+#23987019,Ruiz Torres,Jorge A,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,357.4467,79.43 %,,,104,14.86 %,560,79.43 %,#
+#24019211,Rustempasic,Amina Amani,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,360.6381,80.14 %,218,31.14 %,565,80.14 %,#
+#24008099,Ruzek,Becker Alexander,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,370.21275,82.27 %,263,37.57 %,580,82.27 %,#
+#23975838,Saathoff,Kira Ivy,[NURSBSN] Nursing,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,287.8722,63.97 %,,,171,24.43 %,451,63.97 %,#
+#24003225,Sadlowski,Scarlett M,[VSCBS] Veterinary Science,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,207.44685,46.1 %,91,13 %,325,46.1 %,#
+#24053762,Salas,Michelle,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,348.5106,77.45 %,86,12.29 %,546,77.45 %,#
+#24021679,Sambursky,Alex Ivy,[LARBLA] Landscape Architecture,Math 108,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,108,90 %,,,,,,255.3192,56.74 %,,,93,13.29 %,400,56.74 %,#
+#23997118,Sanal,Azra Nergis,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,416.80845,92.62 %,334,47.71 %,653,92.62 %,#
+#23996325,Sanchez,Esabella L,[BIOCBS] Biochemistry,Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,UNIV 100,285.31935,63.4 %,,,117,16.71 %,447,63.4 %,#
+#24004252,Sandifer,Sydney Leigh,[VSCBS] Veterinary Science,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,303.82965,67.52 %,,,202,28.86 %,673,95.46 %,#
+#23986143,Sandoval,Natalia,[MEDBS] Medicine,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,370.85085,82.41 %,,,148,21.14 %,581,82.41 %,#
+#24021387,Sathyamurthy,Vikram Saurabh,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,327.447,72.77 %,,,279,39.86 %,513,72.77 %,#
+#23995229,Schiamberg,Eloise Perkins,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,37.33 %,112,93.33 %,,,DRC,,,393.82965,87.52 %,,,177,25.29 %,617,87.52 %,#
+#24014144,Schmidt,Maggie Lynn,[NTRSBS] Natural Resources,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,354.8934,78.87 %,199,28.43 %,556,78.87 %,#
+#24031084,Scholz,Caden Leigh,[PHLBS] Public Health,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,367.02135,81.56 %,120,17.14 %,575,81.56 %,#
+#23976713,Scroggins,Kalia A,[ASCBS] Animal Sciences,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,374.6808,83.26 %,0,0 %,208,29.71 %,587,83.26 %,#
+#23991007,Shack,Sam Lee,[BIOLBS] Biology,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,0,0 %,198,28.29 %,659,93.48 %,#
+#23965136,Shea,Oliver Murphy,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,210.00015,46.67 %,171,24.43 %,329,46.67 %,#
+#24022596,Sheehe,Jack Bradley,[GDDBS] Game Design & Development,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,388.08495,86.24 %,165,23.57 %,608,86.24 %,#
+#24025877,Shields,Ethan Tyler,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,368.298,81.84 %,0,0 %,286,40.86 %,577,81.84 %,#
+#23988032,Shindler,Brayden Stanley,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,102.76605,22.84 %,53,7.57 %,161,22.84 %,#
+#24016032,Sice,Sara Kaylie,[NMSEGND] No Major Selected Engineering,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,235.5318,52.34 %,151,21.57 %,369,52.34 %,#
+#24002798,Sidney,Sebastian L,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,381.0636,84.68 %,364,52 %,597,84.68 %,#
+#24014146,Sigworth,Eloise Elizabeth,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,252.7659,56.17 %,,,134,19.14 %,396,56.17 %,#
+#23994991,Silva,Danika G,[BMGTBSBA] Business Management,Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,257.8725,57.3 %,113,16.14 %,404,57.3 %,#
+#24022601,Simpson,Nehemiah Richard,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,171.0639,38.01 %,116,16.57 %,268,38.01 %,#
+#24024409,Singh,Ria Rachael,[PSYCBA] Psychology,Math 107,Math 100_Final Exam 1st Attempt not complete,300,100 %,107,89.17 %,,,,,UNIV 100,0,0 %,0,0 %,65,9.29 %,0,0 %,#
+#23984293,Sixkiller,Gabby Mya,[PHSCBS] Pharmaceutical Sciences,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,333.8298,74.18 %,,,144,20.57 %,523,74.18 %,#
+#24014649,Smith,Isabelle Rose,[NURSBSN] Nursing,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,395.74485,87.94 %,166,23.71 %,620,87.94 %,#
+#24006827,Smith,Parker Louis,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,388.08495,86.24 %,176,25.14 %,608,86.24 %,#
+#23997663,Smith,Sofia Noelle,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,0,0 %,334,47.71 %,634,89.93 %,#
+#24024039,Sotelo,Mariana,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,208.7235,46.38 %,121,17.29 %,327,46.38 %,#
+#23997665,Stein,Alex Claire,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,277.65945,61.7 %,69,9.86 %,435,61.7 %,#
+#24025886,Steinbroner,Anna Rose,[FITSBA] Fashion Industry Sci & Tech,Math 107,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,107,89.17 %,,,,,UNIV 100,0,0 %,201.06405,44.68 %,96,13.71 %,315,44.68 %,#
+#23991023,Stewart,Nykita Allyn,[NURSBSN] Nursing,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,349.78725,77.73 %,,,256,36.57 %,548,77.73 %,#
+#24013656,Stich,Parker Henry,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,UNIV 100,0,0 %,0,0 %,107,15.29 %,0,0 %,#
+#24004596,Swain,Olivia Afton,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,407.87235,90.64 %,,,200,28.57 %,639,90.64 %,#
+#23976265,Sweet,Ethan C,[ASCBS] Animal Sciences,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,200.4255,44.54 %,90,12.86 %,314,44.54 %,#
+#23991506,Swinford,James Christopher,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,300.63825,66.81 %,220,31.43 %,471,66.81 %,#
+#23983479,Tache,Isaiah E,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,243.1917,54.04 %,,,111,15.86 %,381,54.04 %,#
+#24037566,Talavera,Ian Dayan,[MEDBS] Medicine,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,378.51075,84.11 %,,,178,25.43 %,593,84.11 %,#
+#24052260,Tapia,June Francisco Alvarez,[COSCBS] Computer Science,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,132.12765,29.36 %,,,65,9.29 %,207,29.36 %,#
+#24028708,Taskin,Duru,[BIOLBS] Biology,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,UNIV 100,0,0 %,0,0 %,113,16.14 %,0,0 %,#
+#24004738,Taylor,Caleb James,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,305.1063,67.8 %,134,19.14 %,478,67.8 %,#
+#23988328,Taylor,Ma'Lon GoephryLee,[SBEBSSBE] Sustainable Built Environments,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,136.5957,30.35 %,72,10.29 %,214,30.35 %,#
+#23994867,Terry,Noah Wolfskill,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,209.3616,46.52 %,156,22.29 %,328,46.52 %,#
+#23990566,Thirkettle,Ilyssa Serena,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,417.447,92.77 %,152,21.71 %,654,92.77 %,#
+#24058917,Thomas,Jay Matthew,[BIOLBS] Biology,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,340.2126,75.6 %,241,34.43 %,533,75.6 %,#
+#23982257,Thompson,Nikolas Dillion,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,375.95745,83.55 %,,,129,18.43 %,589,83.55 %,#
+#24056071,Tinker,Amare Christopher - Louis,[NMSEGND] No Major Selected Engineering,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,,0,0 %,0,0 %,221,31.57 %,0,0 %,#
+#23988038,Toyos,Eduardo Alexis,[COSCBS] Computer Science,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,337.65975,75.04 %,174,24.86 %,529,75.04 %,#
+#23993692,Trausch,Taylor Madison,[VSCBS] Veterinary Science,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,171.702,38.16 %,69,9.86 %,269,38.16 %,#
+#24055697,Turner,Zipporah Aliana,[NCSBS] Neuroscience & Cognitive Sci,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,194.0427,43.12 %,135,19.29 %,304,43.12 %,#
+#23994487,Urrea,Phoebe Anne,[ELEMBAED] Elementary Education,Math 106,Math 106,106,35.33 %,106,88.33 %,,,,,UNIV 100,0,0 %,286.59555,63.69 %,162,23.14 %,449,63.69 %,#
+#23978181,Valdez,Jacqueline Alyssah,[ELEMBAED] Elementary Education,Math 106,Math 100_Recommend meeting with Advisor,100,33.33 %,106,88.33 %,,,,,UNIV 100,228.51045,50.78 %,,,75,10.71 %,358,50.78 %,#
+#23989467,Valdez,Jazmine Consuelo,[NCSBS] Neuroscience & Cognitive Sci,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,432.1278,96.03 %,232,33.14 %,677,96.03 %,#
+#23849370,Valencia,Antonio Ben,[CHEMBS] Chemistry,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,391.2768,86.95 %,296,42.29 %,613,86.95 %,#
+#23894014,Valenzuela,Paul Octavio,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,345.9573,76.88 %,67,9.57 %,542,76.88 %,#
+#23991518,Valle Lamadrid,Alyssa Vanesa,"[SLHSBS] Speech, Language & Hearing Sci",Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,248.29785,55.18 %,61,8.71 %,389,55.18 %,#
+#23997909,Vanderhei,Cade Patrick,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,UNIV 100,0,0 %,0,0 %,176,25.14 %,0,0 %,#
+#24006158,Vankerk,Theo Matthijs,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,386.8083,85.96 %,309,44.14 %,606,85.96 %,#
+#23982598,Vargas,Sabella Angeline,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,370.21275,82.27 %,,,331,47.29 %,580,82.27 %,#
+#24022749,Vazquez,Keyla Sophia,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,37.33 %,112,93.33 %,,,,,,375.95745,83.55 %,,,232,33.14 %,589,83.55 %,#
+#23949186,Verdi,Natalia June,"[SLHSBS] Speech, Language & Hearing Sci",Math 112,Math 112,112,37.33 %,112,93.33 %,,,DRC,,,0,0 %,449.3619,99.86 %,149,21.29 %,704,99.86 %,#
+#24045471,Vergara,Christopher,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Final Exam 1st Attempt not complete,112,37.33 %,112,93.33 %,,,,,,400.851,89.08 %,0,0 %,129,18.43 %,628,89.08 %,#
+#23965319,Villarreal,Jorge Carlos,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,,0,0 %,0,0 %,179,25.57 %,0,0 %,#
+#24036710,Viramontes,Mariana Guadalupe,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,265.53195,59.01 %,,,98,14 %,416,59.01 %,#
+#24019267,Vizurraga,Eve Liliana,[WHPPBA] Wellness & Health Promo Prac,Math 107,Math 107,107,35.67 %,107,89.17 %,,,,,,0,0 %,356.8086,79.29 %,172,24.57 %,559,79.29 %,#
+#24018339,Wagner,Auggie Kase,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,UNIV 100,0,0 %,0,0 %,37,5.29 %,0,0 %,#
+#23979792,Wahlund,Kendall R,"[SLHSBS] Speech, Language & Hearing Sci",Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,386.1702,85.82 %,133,19 %,605,85.82 %,#
+#24001766,Ward,Dillon Antonio,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,342.7659,76.17 %,174,24.86 %,537,76.17 %,#
+#23983767,Washington,Domunique Sasha,[PHLBS] Public Health,Math 112,Math 100_Recommend meeting with Advisor,300,100 %,112,93.33 %,,,,,,0,0 %,0,0 %,91,13 %,0,0 %,#
+#24001548,Weber,Chase Conway,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,248.29785,55.18 %,165,23.57 %,389,55.18 %,#
+#24020520,Webster,Taylor Elizabeth,[PHLBS] Public Health,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,0,0 %,286,40.86 %,635,90.07 %,#
+#24021697,Weeks,Greta Hayden,[ECOLBS] Ecology & Evolutionary Biology,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,UNIV 100,372.1275,82.7 %,,,70,10 %,583,82.7 %,#
+#24053685,Westfall,Brodie Wayne,[COSCBS] Computer Science,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,371.4894,82.55 %,269,38.43 %,582,82.55 %,#
+#23988046,Widjaja,Roman M,[MEDBS] Medicine,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,363.82995,80.85 %,248,35.43 %,570,80.85 %,#
+#23980400,Widmer,Colton John,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,0,0 %,419.99985,93.33 %,218,31.14 %,658,93.33 %,#
+#24000785,Wilkins,Brenden Zee,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,,390.63825,86.81 %,0,0 %,257,36.71 %,612,86.81 %,#
+#24050096,Willett,Connor James,[LARBLA] Landscape Architecture,Math 108,Math 108,108,36 %,108,90 %,,,,,,0,0 %,391.9149,87.09 %,269,38.43 %,614,87.09 %,#
+#23993351,Williams,Berkeley Kendall,[ARCHBARCH] Architecture,Math 108,Math 100_Recommend meeting with Advisor,100,33.33 %,108,90 %,,,,,,280.8513,62.41 %,,,124,17.71 %,440,62.41 %,#
+#24022232,Wolfe,Amelia Shea,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,,0,0 %,255.9573,56.88 %,103,14.71 %,401,56.88 %,#
+#23981371,Wong,Brian Hyesung,[BMGTBSBA] Business Management,Math 112,Math 112,112,37.33 %,112,93.33 %,,,,,UNIV 100,0,0 %,356.17005,79.15 %,198,28.29 %,558,79.15 %,#
+#24017180,Wong,Matt Gregory,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,215.74485,47.94 %,214,30.57 %,338,47.94 %,#
+#24015837,Wright,Julie Anne,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not complete,300,100 %,112,93.33 %,,,,,,0,0 %,0,0 %,178,25.43 %,0,0 %,#
+#23985187,Wright,Olivia Mae,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,0,0 %,345.9573,76.88 %,307,43.86 %,542,76.88 %,#
+#23999556,Yager,Lilly H,[BIOLBS] Biology,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,317.23425,70.5 %,,,140,20 %,497,70.5 %,#
+#23996669,Yi,David Daehyung,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,182.5533,40.57 %,,,99,14.14 %,286,40.57 %,#
+#24053637,Youssef,Adam Osama,[ECONBA] Economics,Math 112,Math 112,100,33.33 %,112,93.33 %,,,,,,286.59555,63.69 %,,,193,27.57 %,449,63.69 %,#
+#23999667,Yrigoyen,Adam Christopher,[PHLBS] Public Health,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,33.33 %,112,93.33 %,,,,,,296.1702,65.82 %,,,120,17.14 %,464,65.82 %,#
+#23993049,Yunis,Sadiqa,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,,,UNIV 100,271.27665,60.28 %,,,65,9.29 %,425,60.28 %,#
+#23993723,Zuckerman,Luke Aiden,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 107_Recommend meeting with Advisor,100,33.33 %,112,93.33 %,,,DRC,,,0,0 %,312.76575,69.5 %,322,46 %,490,69.5 %,#

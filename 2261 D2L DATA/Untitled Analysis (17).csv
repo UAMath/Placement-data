@@ -1,0 +1,420 @@
+﻿High School Code,Student ID,White Flag,Hispanic or Latinx Flag,Native Hawaiian or Other Pacific Islander Flag,Asian Flag,American Indian or Alaska Native Flag,Black or African American Flag,Gender Code,Tribal Affiliation,ACT Reading,ACT English,ACT Math,High School Admission GPA,High School State Code,High School County,High School City,High School City,High School Description
+18010525,24021396,N,N,N,N,N,Y,F,-,,,,3.15,AZ,Maricopa,Buckeye,Buckeye,Buckeye Union High School
+18010532,23990313,Y,N,N,N,N,N,F,-,,,,3.26,AZ,Maricopa,Cave Creek,Cave Creek,Cactus Shadows High School
+18010534,23804342,Y,N,N,N,N,N,F,-,32,35,27,3.96,AZ,Maricopa,Chandler,Chandler,Chandler High School
+18010535,24005093,Y,N,N,N,N,N,F,-,,,,2.89,AZ,Maricopa,Chandler,Chandler,Seton Catholic High School
+18010535,24033065,N,N,N,N,N,Y,M,-,,,,2.5,AZ,Maricopa,Chandler,Chandler,Seton Catholic High School
+18010550,23983033,Y,N,N,N,N,Y,F,-,,,,2.67,AZ,Maricopa,Chandler,Chandler,Hamilton High School
+18010594,23826484,Y,N,N,N,N,N,F,-,32,27,26,3.92,AZ,Maricopa,Glendale,Glendale,Mountain Ridge High School
+18010597,24036571,Y,N,N,N,N,N,M,-,,,,3.43,AZ,Maricopa,Gilbert,Gilbert,Mesquite High School
+18010613,24032212,Y,N,N,N,N,N,F,-,,,,2.53,AZ,Mohave,Lake Havasu City,Lake Havasu City,Lake Havasu High School
+18010622,23778260,N,N,N,N,Y,N,F,Two Or More Tribal Affiliations,,,,,AZ,Pima,Tucson,Tucson,Marana High School
+18010622,23801459,N,N,N,N,N,Y,F,-,14,13,14,2.54,AZ,Pima,Tucson,Tucson,Marana High School
+18010622,24051292,Y,N,N,N,N,N,M,-,,,,3.35,AZ,Pima,Tucson,Tucson,Marana High School
+18010622,24055202,N,Y,N,N,N,N,M,-,,,,3.34,AZ,Pima,Tucson,Tucson,Marana High School
+18010624,23985722,Y,N,N,N,N,N,M,-,,,,3.22,AZ,Pinal,Maricopa,Maricopa,Maricopa High School
+18010631,24048895,Y,N,N,N,N,Y,F,-,,,,3.72,AZ,Maricopa,Mesa,Mesa,Dobson High School
+18010636,24066177,Y,Y,N,N,N,N,M,-,,,,,AZ,Maricopa,Mesa,Mesa,Red Mountain High School
+18010638,23995544,N,Y,N,N,N,N,F,-,,,,3.33,AZ,Maricopa,Mesa,Mesa,Westwood High School
+18010649,23544134,Y,Y,N,N,N,N,M,-,,,,,AZ,Santa Cruz,Nogales,Nogales,Nogales High School
+18010649,23595263,Y,Y,N,N,N,N,M,-,21,20,23,3.11,AZ,Santa Cruz,Nogales,Nogales,Nogales High School
+18010649,23895355,Y,Y,N,N,N,N,F,-,,,,3.69,AZ,Santa Cruz,Nogales,Nogales,Nogales High School
+18010649,23967419,Y,Y,N,N,N,N,M,-,,,,,AZ,Santa Cruz,Nogales,Nogales,Nogales High School
+18010649,23979497,N,Y,N,N,N,N,M,-,,,,3.23,AZ,Santa Cruz,Nogales,Nogales,Nogales High School
+18010649,23986139,N,Y,N,N,N,N,F,-,,,,3.25,AZ,Santa Cruz,Nogales,Nogales,Nogales High School
+18010649,23993410,N,Y,N,N,N,N,F,-,,,,3.1,AZ,Santa Cruz,Nogales,Nogales,Nogales High School
+18010668,24046253,Y,Y,N,N,N,N,F,-,,,,3.21,AZ,Maricopa,Peoria,Peoria,Centennial High School
+18010670,23975333,Y,N,N,N,N,N,F,-,30,24,22,2.84,AZ,Maricopa,El Mirage,El Mirage,Dysart High School
+18010677,23986097,Y,N,N,N,N,N,M,-,,,,3.03,AZ,Maricopa,Phoenix,Phoenix,Brophy College Preparatory
+18010687,23882790,Y,N,N,N,N,N,F,-,,,,2.73,AZ,Maricopa,Phoenix,Phoenix,Carl Hayden High School
+18010688,24007291,N,N,N,N,N,Y,F,-,,,,2.73,AZ,Maricopa,Phoenix,Phoenix,Central High School
+18010691,23988328,N,N,N,N,N,Y,M,-,,,,2.79,AZ,Maricopa,Phoenix,Phoenix,Moon Valley High School
+18010697,23987465,N,N,N,N,N,Y,F,-,,,,2.57,AZ,Maricopa,Phoenix,Phoenix,Xavier College Prep
+18010697,23996088,Y,Y,N,N,N,N,F,-,,,,2.62,AZ,Maricopa,Phoenix,Phoenix,Xavier College Prep
+18010697,23999845,Y,N,N,N,N,N,F,-,,,,2.42,AZ,Maricopa,Phoenix,Phoenix,Xavier College Prep
+18010697,24020278,Y,N,N,N,N,N,F,-,,,,2.75,AZ,Maricopa,Phoenix,Phoenix,Xavier College Prep
+18010697,24049672,N,N,N,N,N,Y,F,-,,,,2.57,AZ,Maricopa,Phoenix,Phoenix,Xavier College Prep
+18010703,23960220,Y,Y,N,N,Y,N,M,Hopi,27,23,19,2.53,AZ,Maricopa,Phoenix,Phoenix,Arcadia High School
+18010703,24042143,N,Y,N,N,N,N,M,-,,,,2.65,AZ,Maricopa,Phoenix,Phoenix,Arcadia High School
+18010707,24073281,N,Y,N,N,N,N,M,-,,,,2.71,AZ,Maricopa,Phoenix,Phoenix,Mountain Pointe High School
+18010716,24001548,Y,N,N,N,N,N,M,-,,,,3.07,AZ,Maricopa,Phoenix,Phoenix,Valley Lutheran High School
+18010722,23893900,Y,Y,N,Y,N,N,F,-,,,,2.75,AZ,Maricopa,Phoenix,Phoenix,Desert Vista High School
+18010722,24040546,N,N,N,Y,N,N,M,-,,,,2.4,AZ,Maricopa,Phoenix,Phoenix,Desert Vista High School
+18010740,24015341,N,Y,N,N,N,N,M,-,22,11,13,3.2,AZ,Santa Cruz,Rio Rico,Rio Rico,Rio Rico High School
+18010740,24047295,Y,Y,N,N,N,N,F,-,,,,3.29,AZ,Santa Cruz,Rio Rico,Rio Rico,Rio Rico High School
+18010745,23975815,Y,N,N,N,N,N,M,-,,,,3.88,AZ,Pima,Sahuarita,Sahuarita,Sahuarita High School
+18010745,23994998,N,Y,N,N,N,Y,F,-,,,,2.64,AZ,Pima,Sahuarita,Sahuarita,Sahuarita High School
+18010745,24035556,Y,Y,N,N,N,N,F,-,,,,2.96,AZ,Pima,Sahuarita,Sahuarita,Sahuarita High School
+18010757,23758551,N,N,N,N,Y,N,M,Navajo,18,14,14,3.96,AZ,Apache,Saint Michaels,Saint Michaels,Saint Michael Indian School
+18010757,23973608,N,N,N,N,Y,N,F,Navajo Nation (New Mexico),,,,,AZ,Apache,Saint Michaels,Saint Michaels,Saint Michael Indian School
+18010780,24048087,Y,N,N,N,N,N,M,-,,,,2.73,AZ,Maricopa,Scottsdale,Scottsdale,Chaparral High School
+18010780,24051661,Y,N,N,N,N,N,M,-,,,,2.75,AZ,Maricopa,Scottsdale,Scottsdale,Chaparral High School
+18010783,23994347,N,Y,N,N,N,Y,F,-,,,,,AZ,Maricopa,Scottsdale,Scottsdale,Saguaro High School
+18010796,23977519,Y,N,N,N,N,N,F,-,,,,2.61,AZ,Cochise,Sierra Vista,Sierra Vista,Buena High School
+18010796,24008310,N,N,N,N,N,Y,M,-,16,18,13,2.92,AZ,Cochise,Sierra Vista,Sierra Vista,Buena High School
+18010796,24068326,Y,N,N,N,N,N,M,-,,,,2.85,AZ,Cochise,Sierra Vista,Sierra Vista,Buena High School
+18010803,23982387,Y,N,N,N,N,N,F,-,22,21,21,3.1,AZ,Maricopa,Phoenix,Phoenix,Sunnyslope High School
+18010807,23997718,N,Y,N,N,N,N,F,-,,,,2.59,AZ,Maricopa,Tempe,Tempe,Marcos De Niza High School
+18010810,24029402,Y,Y,N,N,N,N,F,-,,,,3.25,AZ,Maricopa,Tempe,Tempe,Tempe High School
+18010812,24052677,N,N,N,N,N,Y,F,-,,,,2.7,AZ,Maricopa,Chandler,Chandler,Valley Christian High School
+18010824,24049511,N,N,N,N,Y,N,F,Navajo,,,,,AZ,Coconino,Tuba City,Tuba City,Tuba City High School
+18010826,23980347,Y,N,N,N,N,N,F,-,,,,3.03,AZ,Pima,Tucson,Tucson,Amphitheater High School
+18010826,23985104,Y,Y,N,N,N,N,F,-,,,,3.39,AZ,Pima,Tucson,Tucson,Amphitheater High School
+18010826,23991767,Y,N,N,N,N,N,F,-,,,,2.96,AZ,Pima,Tucson,Tucson,Amphitheater High School
+18010836,24003614,Y,Y,N,N,N,N,F,-,,,,3.15,AZ,Pima,Oro Valley,Oro Valley,Canyon Del Oro High School
+18010836,24014524,Y,Y,N,N,N,N,M,-,23,23,19,2.5,AZ,Pima,Oro Valley,Oro Valley,Canyon Del Oro High School
+18010836,24053659,N,Y,N,N,N,N,F,-,,,,3.07,AZ,Pima,Oro Valley,Oro Valley,Canyon Del Oro High School
+18010838,23897386,N,N,N,N,N,Y,F,-,,,,2.57,AZ,Pima,Tucson,Tucson,Catalina Magnet High School
+18010838,23993246,N,N,N,N,N,Y,F,-,,,,2.93,AZ,Pima,Tucson,Tucson,Catalina Magnet High School
+18010839,23741716,Y,N,N,N,N,N,F,-,,,,3.16,AZ,Pima,Tucson,Tucson,Catalina Foothills High School
+18010839,23831500,Y,N,N,Y,N,N,M,-,,,,3.14,AZ,Pima,Tucson,Tucson,Catalina Foothills High School
+18010839,23876103,Y,N,N,N,N,N,F,-,,,,3.33,AZ,Pima,Tucson,Tucson,Catalina Foothills High School
+18010839,23888499,N,N,N,N,N,Y,M,-,,,,3.07,AZ,Pima,Tucson,Tucson,Catalina Foothills High School
+18010839,23982391,Y,Y,N,N,N,N,F,-,,,,,AZ,Pima,Tucson,Tucson,Catalina Foothills High School
+18010839,23985593,N,Y,N,N,N,N,F,-,,,,3.5,AZ,Pima,Tucson,Tucson,Catalina Foothills High School
+18010839,23992839,Y,Y,N,N,N,N,F,-,,,,2.4,AZ,Pima,Tucson,Tucson,Catalina Foothills High School
+18010839,24016318,Y,N,N,N,N,N,F,-,,,,2.58,AZ,Pima,Tucson,Tucson,Catalina Foothills High School
+18010839,24020429,Y,Y,N,N,N,N,F,-,,,,2.85,AZ,Pima,Tucson,Tucson,Catalina Foothills High School
+18010839,24045245,N,N,N,Y,N,N,M,-,,,,3,AZ,Pima,Tucson,Tucson,Catalina Foothills High School
+18010839,24053097,Y,N,N,N,N,N,M,-,,,,2.36,AZ,Pima,Tucson,Tucson,Catalina Foothills High School
+18010842,23881451,N,Y,N,N,N,N,M,-,,,,,AZ,Pima,Tucson,Tucson,Desert View High School
+18010842,23985668,Y,Y,N,N,N,N,M,-,30,21,18,3.5,AZ,Pima,Tucson,Tucson,Desert View High School
+18010842,23986364,N,Y,N,N,N,N,F,-,11,9,10,2.89,AZ,Pima,Tucson,Tucson,Desert View High School
+18010842,24013468,N,N,N,N,N,Y,F,-,19,10,15,3.68,AZ,Pima,Tucson,Tucson,Desert View High School
+18010844,24004798,N,Y,N,N,N,N,M,-,,,,2.82,AZ,Pima,Tucson,Tucson,Desert Christian High School
+18010844,24040792,N,Y,N,N,N,N,F,-,,,,3.25,AZ,Pima,Tucson,Tucson,Desert Christian High School
+18010846,23864196,Y,N,N,N,N,N,F,-,,,,2.92,AZ,Pima,Tucson,Tucson,Flowing Wells High School
+18010846,23897776,Y,Y,N,N,N,N,F,-,,,,2.75,AZ,Pima,Tucson,Tucson,Flowing Wells High School
+18010846,23987357,Y,Y,N,N,N,N,F,-,,,,2.96,AZ,Pima,Tucson,Tucson,Flowing Wells High School
+18010846,23993629,N,Y,N,N,N,N,F,-,,,,3.2,AZ,Pima,Tucson,Tucson,Flowing Wells High School
+18010846,23993692,Y,N,N,N,N,N,F,-,,,,2.66,AZ,Pima,Tucson,Tucson,Flowing Wells High School
+18010846,23996209,Y,N,N,N,N,N,F,-,21,16,16,2.84,AZ,Pima,Tucson,Tucson,Flowing Wells High School
+18010846,23996234,N,Y,N,N,N,N,M,-,16,13,18,2.54,AZ,Pima,Tucson,Tucson,Flowing Wells High School
+18010846,24005870,Y,Y,N,N,N,N,F,-,,,,2.6,AZ,Pima,Tucson,Tucson,Flowing Wells High School
+18010846,24018953,Y,N,N,N,N,N,F,-,,,,3.22,AZ,Pima,Tucson,Tucson,Flowing Wells High School
+18010854,23724346,Y,N,N,N,N,N,F,-,,,,3.16,AZ,Pima,Tucson,Tucson,Palo Verde Magnet High School
+18010856,23992833,N,Y,N,N,N,Y,M,-,,,,2.2,AZ,Pima,Tucson,Tucson,Mountain View High School
+18010856,23997082,N,N,N,Y,N,N,F,-,,,,3.69,AZ,Pima,Tucson,Tucson,Mountain View High School
+18010856,24072236,Y,N,N,N,N,N,M,-,,,,,AZ,Pima,Tucson,Tucson,Mountain View High School
+18010859,23998898,N,Y,N,N,N,N,M,-,,,,3.07,AZ,Pima,Tucson,Tucson,Pueblo High School
+18010860,23997647,N,N,N,Y,N,N,F,-,,,,2.94,AZ,Pima,Tucson,Tucson,Rincon High School
+18010861,24056313,Y,N,N,N,N,N,M,-,16,12,14,2.42,AZ,Pima,Tucson,Tucson,Sabino High School
+18010861,24073909,N,N,N,N,N,N,M,-,,,,,AZ,Pima,Tucson,Tucson,Sabino High School
+18010862,22096397,Y,N,N,N,N,N,M,-,,,,,AZ,Pima,Tucson,Tucson,Sahuaro High School
+18010862,23893394,N,Y,N,N,N,Y,M,-,,,,2.7,AZ,Pima,Tucson,Tucson,Sahuaro High School
+18010862,23981883,Y,Y,N,N,N,N,M,-,,,,3.13,AZ,Pima,Tucson,Tucson,Sahuaro High School
+18010862,24049791,N,N,N,N,N,Y,F,-,,,,3.7,AZ,Pima,Tucson,Tucson,Sahuaro High School
+18010867,23666429,N,N,N,N,N,Y,M,-,,,,3,AZ,Pima,Tucson,Tucson,Salpointe Catholic High School
+18010867,23861504,Y,Y,N,N,N,N,F,-,,,,2.46,AZ,Pima,Tucson,Tucson,Salpointe Catholic High School
+18010867,23983635,N,Y,N,N,N,N,F,-,,,,2.92,AZ,Pima,Tucson,Tucson,Salpointe Catholic High School
+18010867,23986536,Y,Y,N,N,N,N,F,-,,,,3,AZ,Pima,Tucson,Tucson,Salpointe Catholic High School
+18010870,23967688,N,Y,N,N,N,Y,F,-,,,,3.46,AZ,Pima,Tucson,Tucson,Santa Rita High School
+18010870,24022126,N,N,N,Y,N,N,F,-,,,,2.62,AZ,Pima,Tucson,Tucson,Santa Rita High School
+18010873,23812861,Y,N,N,N,N,N,M,-,,,,2.43,AZ,Pima,Oro Valley,Oro Valley,Ironwood Ridge High School
+18010873,23946580,Y,Y,N,N,N,N,M,-,,,,2.87,AZ,Pima,Oro Valley,Oro Valley,Ironwood Ridge High School
+18010873,24010215,N,N,N,Y,N,N,M,-,,,,2.65,AZ,Pima,Oro Valley,Oro Valley,Ironwood Ridge High School
+18010876,23835776,N,Y,N,N,Y,N,F,Pascua Yaqui,,,,2.66,AZ,Pima,Tucson,Tucson,Sunnyside High School
+18010876,23981987,Y,Y,N,N,N,N,F,-,14,11,16,3.37,AZ,Pima,Tucson,Tucson,Sunnyside High School
+18010876,23982732,Y,Y,N,N,N,N,M,-,20,15,18,3.5,AZ,Pima,Tucson,Tucson,Sunnyside High School
+18010876,23985170,Y,Y,N,N,N,N,M,-,,,,2.46,AZ,Pima,Tucson,Tucson,Sunnyside High School
+18010876,23986784,N,N,N,N,N,Y,F,-,,,,3.08,AZ,Pima,Tucson,Tucson,Sunnyside High School
+18010876,23986993,N,Y,N,N,Y,N,F,Tribal Affiliation Not Reported,16,13,16,3.48,AZ,Pima,Tucson,Tucson,Sunnyside High School
+18010876,23987023,N,Y,N,N,Y,Y,M,Tribal Affiliation Not Reported,23,25,16,2.6,AZ,Pima,Tucson,Tucson,Sunnyside High School
+18010876,23987102,Y,Y,N,N,N,N,F,-,,,,2.84,AZ,Pima,Tucson,Tucson,Sunnyside High School
+18010876,23987117,Y,Y,N,N,N,N,F,-,,,,3.2,AZ,Pima,Tucson,Tucson,Sunnyside High School
+18010876,23987145,Y,Y,N,N,N,N,M,-,16,15,15,3.57,AZ,Pima,Tucson,Tucson,Sunnyside High School
+18010876,23987443,N,Y,N,N,N,N,F,-,12,11,15,2.63,AZ,Pima,Tucson,Tucson,Sunnyside High School
+18010876,23991028,N,Y,N,N,N,N,M,-,17,22,16,2.78,AZ,Pima,Tucson,Tucson,Sunnyside High School
+18010876,23991819,N,Y,N,N,N,N,F,-,,,,2.69,AZ,Pima,Tucson,Tucson,Sunnyside High School
+18010876,23992067,N,Y,N,N,N,N,F,-,21,17,14,2.5,AZ,Pima,Tucson,Tucson,Sunnyside High School
+18010878,23504800,Y,Y,N,N,N,N,M,-,26,25,24,2.68,AZ,Pima,Tucson,Tucson,Tucson High Magnet School
+18010878,23782599,N,Y,N,N,N,N,F,-,,,,2.96,AZ,Pima,Tucson,Tucson,Tucson High Magnet School
+18010878,23886975,N,N,Y,N,N,N,F,-,,,,2.6,AZ,Pima,Tucson,Tucson,Tucson High Magnet School
+18010878,23985209,Y,Y,N,N,N,N,F,-,,,,3.26,AZ,Pima,Tucson,Tucson,Tucson High Magnet School
+18010878,23996501,Y,Y,N,N,N,N,F,-,,,,3.61,AZ,Pima,Tucson,Tucson,Tucson High Magnet School
+18010878,24001888,Y,Y,N,N,N,N,F,-,,,,3.14,AZ,Pima,Tucson,Tucson,Tucson High Magnet School
+18010878,24021016,Y,Y,N,N,N,N,M,-,,,,3.28,AZ,Pima,Tucson,Tucson,Tucson High Magnet School
+18010878,24026520,N,Y,N,N,N,N,M,-,,,,3.22,AZ,Pima,Tucson,Tucson,Tucson High Magnet School
+18010878,24048175,Y,Y,N,N,N,N,M,-,,,,3.1,AZ,Pima,Tucson,Tucson,Tucson High Magnet School
+18010878,24052831,N,Y,N,N,N,N,F,-,14,11,16,3.28,AZ,Pima,Tucson,Tucson,Tucson High Magnet School
+18010883,23980233,N,Y,N,N,N,N,F,-,,,,3.39,AZ,Pima,Tucson,Tucson,Vail Academy and High School
+18010883,24005217,N,Y,N,Y,N,N,F,-,11,14,14,3.03,AZ,Pima,Tucson,Tucson,Vail Academy and High School
+18010886,23868132,Y,N,N,Y,N,Y,F,-,,,,2.52,AZ,Pima,Vail,Vail,Cienega High School
+18010886,23988256,Y,N,N,N,N,N,M,-,,,,3.85,AZ,Pima,Vail,Vail,Cienega High School
+18010886,24037706,N,Y,N,N,N,N,M,-,,,,3.46,AZ,Pima,Vail,Vail,Cienega High School
+18011600,24048361,Y,N,N,N,N,N,M,-,,,,,CA,Los Angeles,Beverly Hills,Beverly Hills,Beverly Hills High School
+18011654,24007114,Y,N,N,N,N,N,M,-,,,,3.25,CA,Los Angeles,Calabasas,Calabasas,Viewpoint School
+18011686,23965319,Y,Y,N,N,N,N,M,-,,,,3.31,CA,San Diego,Encinitas,Encinitas,Torrey Pines High School
+18011686,23994571,Y,N,N,N,N,N,F,-,,,,3.23,CA,San Diego,Encinitas,Encinitas,Torrey Pines High School
+18011692,24017765,Y,N,N,N,N,N,M,-,,,,2.61,CA,San Diego,Carlsbad,Carlsbad,Carlsbad High School
+18011765,24025215,N,Y,N,N,N,N,F,-,,,,2.76,CA,San Diego,Chula Vista,Chula Vista,Eastlake High School
+18011776,24028766,N,Y,N,N,N,N,M,-,,,,2.87,CA,Los Angeles,Claremont,Claremont,Claremont High School
+18011830,24044217,Y,N,N,N,N,N,M,-,,,,2.68,CA,Contra Costa,Concord,Concord,De La Salle High School
+18011913,24034477,N,Y,N,N,N,N,F,-,,,,3.35,CA,Los Angeles,Downey,Downey,Warren High School
+18011963,23908488,N,Y,N,N,N,N,F,-,,,,2.8,CA,Los Angeles,El Segundo,El Segundo,El Segundo High School
+18011968,24074145,Y,N,N,N,N,N,F,-,,,,3.36,CA,Riverside,Wildomar,Wildomar,Elsinore High School
+18011977,24025758,Y,N,N,N,N,N,M,-,,,,2.53,CA,Los Angeles,Encino,Encino,Crespi Carmelite High School
+18011989,24001065,Y,N,N,N,N,N,M,-,35,24,21,3.8,CA,San Diego,San Marcos,San Marcos,San Marcos High School
+18012104,24005115,Y,N,N,N,N,N,F,-,,,,3.5,CA,Santa Clara,Gilroy,Gilroy,Gilroy High School
+18012238,24036710,N,Y,N,N,N,N,F,-,,,,3.25,CA,San Diego,Chula Vista,Chula Vista,Mater Dei Catholic High School
+18012281,23934702,Y,Y,N,N,N,N,M,-,,,,2.92,CA,Los Angeles,La Canada,La Canada,Saint Francis High School
+18012289,24004604,Y,N,N,N,N,N,M,-,,,,3,CA,Orange,Laguna Beach,Laguna Beach,Laguna Beach High School
+18012310,23886919,Y,Y,N,N,N,N,F,-,,,,3.46,CA,Los Angeles,Lakewood,Lakewood,Lakewood High School
+18012323,23997462,Y,N,N,N,N,N,M,-,,,,3.46,CA,Marin,Larkspur,Larkspur,Redwood High School
+18012323,24016233,Y,N,N,N,N,N,F,-,,,,2.68,CA,Marin,Larkspur,Larkspur,Redwood High School
+18012410,23965627,Y,Y,N,Y,N,N,M,-,,,,3.51,CA,Los Angeles,Long Beach,Long Beach,Robert A Millikan High School
+18012470,24004738,Y,N,N,N,N,N,M,-,,,,3.38,CA,Riverside,Temecula,Temecula,Linfield Christian School
+18012523,24013492,Y,Y,N,N,N,N,M,-,,,,3.23,CA,Los Angeles,Los Angeles,Los Angeles,Loyola High School
+18012542,23992305,Y,N,N,N,N,N,F,-,,,,3.16,CA,Los Angeles,Los Angeles,Los Angeles,Notre Dame Academy
+18012598,24046880,Y,N,N,Y,N,N,M,-,,,,2.89,CA,Santa Clara,Los Gatos,Los Gatos,Los Gatos High School
+18012620,24057797,Y,N,N,N,N,N,M,-,,,,2.7,CA,Los Angeles,Manhattan Beach,Manhattan Beach,Mira Costa High School
+18012683,24032699,N,Y,N,N,N,N,F,-,,,,2.86,CA,Stanislaus,Modesto,Modesto,Central Catholic High School
+18012750,23991363,Y,Y,N,N,N,N,M,-,,,,2.78,CA,Santa Clara,Mountain View,Mountain View,Saint Francis High School
+18012750,24017180,Y,N,N,Y,N,N,M,-,,,,2.8,CA,Santa Clara,Mountain View,Mountain View,Saint Francis High School
+18012757,23949170,Y,Y,N,N,N,N,M,-,,,,2.8,CA,Napa,Napa,Napa,Vintage High School
+18012781,24055697,N,Y,N,N,N,Y,F,-,,,,2.87,CA,Ventura,Newbury Park,Newbury Park,Newbury Park High School
+18012821,24049205,Y,N,N,N,N,N,F,-,,,,3.5,CA,Marin,Novato,Novato,Nova Education Center
+18013159,24015600,Y,N,N,N,N,Y,M,-,,,,3.32,CA,Los Angeles,Reseda,Reseda,Cleveland High School
+18013209,24019543,N,N,N,N,Y,N,F,Navajo,18,16,18,2.86,CA,Riverside,Riverside,Riverside,Sherman Indian High School
+18013249,24050706,Y,N,Y,N,N,N,M,-,,,,,CA,Sacramento,Sacramento,Sacramento,Rio Americano High School
+18013314,24022505,Y,N,N,N,N,N,F,-,,,,3.46,CA,Orange,San Clemente,San Clemente,San Clemente High School
+18013314,24046248,Y,N,N,N,N,N,F,-,,,,2.56,CA,Orange,San Clemente,San Clemente,San Clemente High School
+18013379,24031341,N,N,N,N,N,Y,F,-,,,,2.84,CA,Los Angeles,Mission Hills,Mission Hills,Bishop Alemany High School
+18013458,23952584,Y,Y,N,N,Y,Y,M,Tribal Affiliation Not Reported,,,,2.76,CA,San Francisco,San Francisco,San Francisco,Archbishop Riordan High School
+18013461,24025854,Y,N,N,N,N,N,F,-,,,,3.14,CA,San Francisco,San Francisco,San Francisco,Saint Ignatius College Prep
+18013513,24021327,N,N,N,Y,N,N,F,-,,,,3.35,CA,Santa Clara,San Jose,San Jose,Pioneer High School
+18013553,24020493,Y,N,N,Y,N,N,M,-,,,,2.65,CA,San Luis Obispo,San Luis Obispo,San Luis Obispo,San Luis Obispo High School
+18013569,24051027,Y,N,N,N,N,N,M,-,,,,,CA,San Mateo,San Mateo,San Mateo,Hillsdale High School
+18013602,24040674,Y,N,N,Y,N,N,M,-,,,,3,CA,Contra Costa,San Ramon,San Ramon,California High School
+18013603,24020315,N,N,N,Y,N,N,F,-,,,,2.96,CA,Marin,San Rafael,San Rafael,Terra Linda High School
+18013661,24015627,N,N,Y,Y,N,N,M,-,,,,3.07,CA,Santa Barbara,Santa Maria,Santa Maria,Saint Joseph High School
+18013689,24046335,Y,Y,N,N,N,N,F,-,,,,3.39,CA,Los Angeles,Canyon Country,Canyon Country,Canyon High School
+18013703,23960401,N,Y,N,N,Y,N,F,Tribal Affiliation Not Reported,,,,2.6,CA,Los Angeles,North Hills,North Hills,Heritage Christian School
+18013761,23902785,Y,N,N,N,N,N,M,-,,,,2.8,CA,San Joaquin,Stockton,Stockton,Saint Marys High School
+18013835,24026127,Y,Y,N,N,N,N,M,-,,,,2.61,CA,Riverside,Temecula,Temecula,Chaparral High School
+18013880,24023198,N,Y,N,Y,N,N,F,-,,,,3.42,CA,San Bernardino,Upland,Upland,Upland High School
+18013954,24029278,Y,N,N,N,N,Y,M,-,,,,2.92,CA,Contra Costa,Walnut Creek,Walnut Creek,Las Lomas High School
+18014003,24018133,Y,Y,N,N,N,Y,F,-,,,,3.22,CA,Yolo,West Sacramento,West Sacramento,River City High School
+18014062,24041594,Y,Y,N,N,N,N,F,-,,,,3.03,CA,San Mateo,Woodside,Woodside,Woodside High School
+18014104,23925415,Y,N,N,N,N,N,M,-,,,,2.82,CO,-,Aspen,Aspen,Aspen High School
+18014143,24015606,Y,N,N,N,N,N,F,-,,,,3.85,CO,-,Breckenridge,Breckenridge,Summit High School
+18014143,24042247,Y,N,N,N,N,N,M,-,,,,3.03,CO,-,Breckenridge,Breckenridge,Summit High School
+18014152,24001219,Y,N,N,N,N,N,F,-,,,,3.11,CO,-,Westminster,Westminster,Standley Lake High School
+18014187,23916043,Y,Y,N,N,N,N,M,-,,,,,CO,-,Colorado Springs,Colorado Springs,Mesa Ridge High School
+18014260,24003156,Y,N,N,N,N,N,M,-,,,,3.12,CO,-,Denver,Denver,Denver Academy
+18014324,24046559,Y,N,N,N,N,N,M,-,,,,2.85,CO,-,Englewood,Englewood,Kent Denver School
+18014329,24004289,Y,N,N,N,N,N,F,-,,,,2.57,CO,-,Erie,Erie,Erie High School
+18014362,24047775,Y,N,N,N,N,N,M,-,,,,,CO,-,Glenwood Springs,Glenwood Springs,Glenwood Springs High School
+18014404,23957827,Y,N,N,N,N,N,F,-,,,,3.71,CO,-,Highlands Ranch,Highlands Ranch,Thunderridge High School
+18014405,24016365,Y,N,N,N,N,N,M,-,,,,3.21,CO,-,Highlands Ranch,Highlands Ranch,Mountain Vista High School
+18014434,24047186,Y,N,N,N,N,N,M,-,,,,3.7,CO,-,Lakewood,Lakewood,Green Mountain High School
+18014459,24051327,Y,N,N,N,N,N,M,-,,,,3.32,CO,-,Longmont,Longmont,Niwot High School
+18014679,23945305,Y,N,N,N,N,N,M,-,,,,2.57,CT,-,Granby,Granby,Granby Memorial High School
+18014715,23983990,Y,N,N,N,N,N,M,-,,,,3.07,CT,-,Kent,Kent,Kent School
+18015069,24014146,Y,N,N,Y,N,N,F,-,,,,3.14,DC,-,Chevy Chase,Chevy Chase,Saint Johns College High Sch
+18016193,24018565,Y,N,N,N,N,N,M,-,,,,2.92,FL,-,Tampa,Tampa,H B Plant High School
+18016417,24017769,Y,N,N,N,N,N,F,-,22,23,20,3.32,GA,-,Atlanta,Atlanta,Riverwood High School
+18017214,24015555,Y,N,Y,Y,N,N,F,-,,,,3.07,HI,-,Kamuela,Kamuela,Hawaii Preparatory Academy
+18017735,24008228,Y,Y,N,N,N,N,F,-,,,,2.67,IL,-,Chicago,Chicago,Lake View High School
+18017990,24007460,N,N,N,N,N,Y,M,-,,,,2.84,IL,-,Evanston,Evanston,Evanston Township High School
+18018303,24015282,Y,N,N,N,N,N,F,-,,,,2.48,IL,-,Oak Park,Oak Park,Oak Park-River Forest Hs
+18018614,24009410,Y,N,N,N,N,N,M,-,,,,2.52,IL,-,Winnetka,Winnetka,New Trier Township High School
+18019391,24047941,Y,N,N,N,N,N,M,-,,,,3.07,IA,-,West Des Moines,West Des Moines,Dowling High School
+18019500,24039514,Y,N,N,Y,N,N,F,-,,,,2.9,IA,-,Iowa City,Iowa City,City High School
+18021352,23752243,Y,N,N,N,N,N,M,-,,,,2.68,LA,-,Jefferson,Jefferson,Riverdale High School
+18022199,24013547,Y,N,N,N,N,N,F,-,,,,3.5,MD,-,Silver Spring,Silver Spring,Montgomery Blair High School
+18022442,24044010,Y,Y,N,N,N,N,F,-,,,,3.73,MA,-,Fall River,Fall River,Diman Regl Vo-Tech Hs
+18022526,23992582,Y,N,N,N,N,N,F,-,,,,2.89,MA,-,Lawrence,Lawrence,Central Catholic High School
+18022574,23819777,Y,N,N,N,N,N,F,-,,,,3.35,MA,-,Marshfield,Marshfield,Marshfield High School
+18022749,24014299,Y,N,N,Y,N,N,M,-,,,,2.71,MA,-,Sudbury,Sudbury,Lincoln-Sudbury Regl High Sch
+18023441,24012559,Y,Y,N,N,N,N,M,-,,,,3.11,MI,-,Jackson,Jackson,Northwest High School
+18023993,24065345,Y,N,N,N,N,N,F,-,,,,3.44,MN,-,Anoka,Anoka,Anoka High School
+18024077,24057521,Y,Y,N,N,N,N,M,-,,,,2.55,MN,-,Collegeville,Collegeville,Saint Johns Preparatory School
+18024419,24043292,Y,N,N,N,N,N,F,-,,,,2.69,MN,-,Savage,Savage,Prior Lake High School
+18024447,24032180,Y,N,N,N,N,N,F,-,,,,2.9,MN,-,Rosemount,Rosemount,Rosemount High School
+18024468,23998243,Y,N,N,N,N,N,M,-,,,,2.67,MN,-,Saint Louis Park,Saint Louis Park,Benilde-St Margaret'S School
+18024474,24001523,Y,N,N,N,N,N,M,-,,,,3.18,MN,-,Maplewood,Maplewood,Hill-Murray School
+18024474,24006911,Y,N,N,N,N,N,M,-,,,,2.66,MN,-,Maplewood,Maplewood,Hill-Murray School
+18024523,24029981,Y,N,N,N,N,N,F,-,,,,2.63,MN,-,Shakopee,Shakopee,Shakopee Senior High School
+18024995,23742797,Y,N,N,N,N,N,F,-,22,20,18,,MS,-,Ocean Springs,Ocean Springs,Ocean Springs High School
+18026617,24027690,Y,N,N,N,N,N,M,-,,,,3.03,NV,-,Incline Village,Incline Village,Incline High School
+18026620,23998698,Y,N,N,N,N,N,M,-,17,18,20,3,NV,-,Las Vegas,Las Vegas,Bishop Gorman High School
+18026632,23943268,Y,N,N,N,N,N,F,-,,,,3.15,NV,-,Las Vegas,Las Vegas,Faith Lutheran Jr Sr Hs
+18026736,23884903,Y,N,N,N,N,N,M,-,,,,,NH,-,Concord,Concord,Concord High School
+18026815,24007518,Y,N,N,N,N,N,M,-,,,,3.38,NH,-,Northwood,Northwood,Coe Brown Northwood Academy
+18026824,24021815,N,N,N,N,N,Y,F,-,,,,3.08,NH,-,Plaistow,Plaistow,Timberlane Reg High School
+18026956,24022232,Y,N,N,N,N,N,F,-,,,,3.28,NJ,-,Cranford,Cranford,Cranford High School
+18027154,23984853,Y,N,N,N,N,N,M,-,,,,2.57,NJ,-,Livingston,Livingston,Livingston High School
+18027171,23941021,Y,Y,N,N,N,N,M,-,,,,,NJ,-,Maplewood,Maplewood,Columbia High School
+18027211,24010093,Y,N,N,N,N,N,F,-,,,,2.64,NJ,-,Moorestown,Moorestown,Moorestown High School
+18027304,24048130,Y,N,N,N,N,N,M,-,,,,2.87,NJ,-,Matawan,Matawan,Old Bridge High School
+18027344,24074985,Y,N,N,N,N,N,M,-,,,,,NJ,-,Pemberton,Pemberton,Pemberton Township High School
+18027398,24045250,Y,N,N,N,N,N,M,-,,,,2.92,NJ,-,Richland,Richland,Saint Augustine Preparatory Sc
+18027474,23974882,Y,Y,N,N,N,N,M,-,,,,2.57,NJ,-,Tenafly,Tenafly,Tenafly High School
+18027537,24006931,Y,Y,N,N,N,N,M,-,,,,2.69,NJ,-,Westfield,Westfield,Westfield High School
+18027597,22108329,Y,N,N,N,N,N,M,-,,,,,NM,-,Albuquerque,Albuquerque,La Cueva High School
+18027597,23946449,Y,Y,N,N,N,N,F,-,,,,,NM,-,Albuquerque,Albuquerque,La Cueva High School
+18027597,24016614,Y,Y,N,N,N,N,F,-,,,,2.5,NM,-,Albuquerque,Albuquerque,La Cueva High School
+18027653,24046235,Y,Y,N,N,N,N,M,-,,,,,NM,-,Dulce,Dulce,Dulce High School
+18027662,24041716,Y,Y,N,N,N,N,M,-,,,,3.07,NM,-,Fairview,Fairview,Espanola Valley High School
+18027682,23953370,N,Y,N,N,Y,N,F,Navajo Nation (New Mexico),,,,,NM,-,Gallup,Gallup,Gallup High School
+18027777,23960763,Y,Y,N,N,N,N,M,-,,,,3.82,NM,-,Santa Fe,Santa Fe,Santa Fe High School
+18027777,24015714,Y,N,N,N,N,N,M,-,,,,2.76,NM,-,Santa Fe,Santa Fe,Santa Fe High School
+18027785,24026049,N,N,N,N,Y,N,F,Tribal Affiliation Not Reported,,,,3,NM,-,Shiprock,Shiprock,Shiprock High School
+18027815,23703222,N,N,N,N,Y,N,M,"Zuni Tribe of the Zuni Reservation, New Mexico",,,,2.75,NM,-,Zuni,Zuni,Zuni High School
+18027815,24016032,N,N,N,N,Y,N,F,Tribal Affiliation Not Reported,,,,3.15,NM,-,Zuni,Zuni,Zuni High School
+18028504,23507421,Y,N,N,N,N,N,F,-,,,,,NY,-,Hampton Bays,Hampton Bays,Hampton Bays Secondary School
+18028934,24050683,N,Y,N,N,N,N,M,-,,,,,NY,-,New York,New York,Manhattan Ctr For Sci And Math
+18029178,23925589,N,Y,N,N,N,N,F,-,,,,2.92,NY,-,Port Washington,Port Washington,Paul D Schreiber Senior High
+18029339,23934973,N,Y,N,N,N,N,F,-,,,,3.28,NY,-,Shrub Oak,Shrub Oak,Lakeland Senior High School
+18029933,24022218,N,N,N,Y,N,N,F,-,23,22,16,4,NC,-,Hampstead,Hampstead,Topsail High School
+18030944,24035238,N,N,N,N,N,Y,F,-,,,,2.64,OH,-,Cleveland,Cleveland,Mayfield High School
+18031442,23880844,Y,N,N,N,N,N,F,-,,,,,OH,-,Morrow,Morrow,Little Miami High School
+18031618,24069621,N,N,N,N,N,Y,F,-,,,,2.82,OH,-,Sandusky,Sandusky,Sandusky High School
+18031758,24074833,Y,N,N,N,N,N,F,-,,,,,OH,-,Wadsworth,Wadsworth,Wadsworth Senior High School
+18032328,24062944,Y,N,N,N,N,N,F,-,,,,3.53,OK,-,Piedmont,Piedmont,Piedmont High School
+18032794,24001876,Y,N,N,N,N,N,M,-,,,,3.28,OR,-,Portland,Portland,Central Catholic High School
+18032801,23965937,Y,N,N,N,N,N,F,-,,,,,OR,-,Portland,Portland,Franklin High School
+18032829,24027015,Y,N,N,N,N,N,M,-,,,,,OR,-,Lake Oswego,Lake Oswego,Westside Christian High School
+18032830,24013235,Y,N,N,N,N,N,F,-,,,,3.26,OR,-,Portland,Portland,Ida B Wells-Barnett High School
+18032882,23976113,N,N,N,N,N,N,M,-,,,,2.94,OR,-,Sherwood,Sherwood,Sherwood High School
+18032882,24019159,Y,N,N,N,N,N,M,-,,,,3,OR,-,Sherwood,Sherwood,Sherwood High School
+18033119,24003908,N,N,N,N,N,N,F,-,,,,3.23,PA,-,Collegeville,Collegeville,Perkiomen Valley High School
+18033869,24013656,Y,N,N,N,N,N,M,-,,,,3.39,PA,-,Pittsburgh,Pittsburgh,Central Catholic High School
+18033970,24031328,Y,N,N,N,N,N,F,-,,,,3.15,PA,-,Quakertown,Quakertown,Quakertown Community Senior Hs
+18035538,24072684,Y,N,N,N,N,N,M,-,,,,,TN,-,Mount Juliet,Mount Juliet,Mount Juliet High School
+18035773,24073669,N,N,N,N,N,Y,M,-,,,,3.46,TX,Collin,Allen,Allen,Allen High School
+18036227,23919615,N,N,N,N,N,Y,F,-,,,,3.5,TX,Dallas,Dallas,Dallas,First Baptist Academy
+18036416,24024039,Y,Y,N,N,N,N,F,-,,,,3.53,TX,El Paso,El Paso,El Paso,El Paso High School
+18036439,24006325,Y,Y,N,N,N,N,F,-,,,,2.91,TX,El Paso,El Paso,El Paso,Socorro High School
+18036687,22108747,Y,N,N,N,N,N,F,-,,,,,TX,Harrison,Hallsville,Hallsville,Hallsville High School
+18037337,24024940,N,N,N,N,Y,N,F,Navajo Nation (New Mexico),,,,2.75,TX,Ector,Odessa,Odessa,Permian High School
+18038095,24003437,Y,N,N,N,N,N,M,-,,,,3.55,UT,-,Park City,Park City,Park City High School
+18038126,24038717,Y,N,N,Y,N,N,M,-,,,,3,UT,-,St George,St George,Snow Canyon High School
+18038474,24061714,N,N,N,N,N,Y,M,-,,,,,VA,-,Alexandria,Alexandria,Bryant Adult Alternative Hs
+18039011,24008673,Y,N,N,Y,N,N,F,-,,,,3.07,WA,-,Bellevue,Bellevue,Newport High School
+18039012,24006922,Y,N,N,N,N,N,M,-,,,,3.82,WA,-,Bellevue,Bellevue,Sammamish High School
+18039112,24051946,N,Y,N,N,N,Y,F,-,,,,3.42,WA,-,Everett,Everett,Archbishop Thomas J Murphy Hs
+18039139,23923094,Y,N,N,N,N,N,M,-,,,,2.78,WA,-,Sammamish,Sammamish,Skyline High School
+18039223,24007786,Y,N,N,N,N,N,F,-,,,,2.44,WA,-,Mercer Island,Mercer Island,Mercer Island High School
+18039266,24022547,Y,N,N,N,N,N,F,-,,,,3.64,WA,-,Odessa,Odessa,Odessa High School
+18039339,23918367,Y,N,N,N,N,N,M,-,,,,3.38,WA,-,Seattle,Seattle,Blanchet High School
+18039359,24024818,N,N,N,N,N,Y,M,-,,,,2.53,WA,-,Seattle,Seattle,Ingraham High School
+18039364,24014019,Y,N,N,N,N,Y,F,-,,,,2.78,WA,-,Seattle,Seattle,Lincoln High School
+18039364,24015908,Y,N,N,N,N,N,F,-,,,,2.75,WA,-,Seattle,Seattle,Lincoln High School
+18039405,24007019,Y,N,N,N,N,N,F,-,,,,,WA,-,Snohomish,Snohomish,Snohomish Senior High School
+18039408,24066966,N,N,Y,N,N,N,F,-,,,,2.46,WA,-,South Hill,South Hill,Emerald Ridge High School
+18039496,24101363,N,N,N,N,N,Y,M,-,,,,,WA,-,Vancouver,Vancouver,Evergreen High School
+18040056,24007422,Y,N,N,N,N,N,M,-,,,,3.42,WI,-,La Crosse,La Crosse,Central High School
+18041144,23864793,Y,N,N,N,N,N,F,-,,,,,DC,-,Washington,Washington,GED Test Scores
+18041144,24053657,Y,N,N,N,N,N,M,-,,,,,DC,-,Washington,Washington,GED Test Scores
+18041144,24070117,N,Y,N,N,N,N,F,-,,,,,DC,-,Washington,Washington,GED Test Scores
+18041145,24025681,Y,N,N,N,N,N,M,-,17,16,15,3.69,IA,-,Iowa City,Iowa City,Home School
+18042778,23997909,Y,N,N,N,N,N,M,-,,,,2.72,AZ,Maricopa,Goodyear,Goodyear,Estrella Foothills High School
+18042820,23966537,N,N,N,N,N,N,M,-,,,,,-,-,-,-,High School in China
+18042820,24058667,N,N,N,N,N,N,M,-,,,,4,-,-,-,-,High School in China
+18043753,24044489,Y,N,N,N,N,N,F,-,,,,3.53,AZ,Maricopa,Mesa,Mesa,Desert Ridge High School
+18044081,23981305,Y,N,N,N,N,N,M,-,,,,2.67,AZ,Maricopa,Scottsdale,Scottsdale,Notre Dame Prep High School
+18044081,23997607,Y,N,N,N,N,N,F,-,,,,3,AZ,Maricopa,Scottsdale,Scottsdale,Notre Dame Prep High School
+18044580,23995442,Y,N,N,N,N,N,F,-,,,,2.96,AZ,Maricopa,Phoenix,Phoenix,Sandra Day O'Connor High School
+18044580,24013892,Y,N,N,N,N,N,F,-,,,,2.61,AZ,Maricopa,Phoenix,Phoenix,Sandra Day O'Connor High School
+18044580,24054419,Y,N,N,N,N,N,F,-,,,,,AZ,Maricopa,Phoenix,Phoenix,Sandra Day O'Connor High School
+18044770,23964004,Y,N,N,Y,N,N,F,-,,,,3.51,-,-,-,-,High School in Kazakhstan
+18045083,23967069,Y,N,N,N,N,N,M,-,,,,2.93,-,-,-,-,High School in UAE
+18045129,23802422,Y,Y,N,N,N,N,F,-,31,27,27,3.96,AZ,Maricopa,Chandler,Chandler,Basha High School
+18045129,24058530,N,N,N,N,Y,N,F,Northern Cheyenne Tribe of Montana,,,,,AZ,Maricopa,Chandler,Chandler,Basha High School
+18045160,24010847,Y,N,N,N,N,N,M,-,,,,2.63,-,-,-,-,High School in Colombia
+18045372,23954494,N,N,N,N,N,N,F,-,,,,,-,-,-,-,High School in Saudi Arabia
+18045372,24055567,N,N,N,N,N,N,M,-,,,,4,-,-,-,-,High School in Saudi Arabia
+18045427,23934228,Y,N,N,N,N,N,M,-,,,,3.34,AZ,Pima,Tucson,Tucson,Southern Arizona Comm Academy
+18046075,24055063,N,N,N,N,N,Y,F,-,,,,,AZ,Maricopa,Goodyear,Goodyear,Desert Edge High School
+18046436,24020298,Y,N,N,Y,N,N,F,-,,,,2.75,CO,-,Aurora,Aurora,Cherokee Trail High School
+18046816,23927025,Y,Y,N,N,N,N,F,-,,,,3.46,AZ,Pima,Tucson,Tucson,Saint Augustine Catholic High School
+18047159,23999649,Y,N,N,N,N,N,M,-,,,,2.9,AZ,Maricopa,Anthem,Anthem,Boulder Creek High School
+18047159,24062120,Y,N,N,Y,N,N,M,-,,,,3.17,AZ,Maricopa,Anthem,Anthem,Boulder Creek High School
+18047159,24062545,Y,N,N,N,N,N,M,-,,,,,AZ,Maricopa,Anthem,Anthem,Boulder Creek High School
+18047174,23984068,Y,N,N,N,N,N,M,-,,,,3.17,CO,-,Highlands Ranch,Highlands Ranch,Rock Canyon High School
+18047380,24052876,Y,N,N,Y,N,N,M,-,,,,2.21,AZ,Maricopa,Phoenix,Phoenix,Veritas Preparatory Academy
+18047381,24053340,N,N,N,N,Y,N,F,Pascua Yaqui,,,,3,AZ,Pima,Tucson,Tucson,Hiaki High School
+18047397,23839738,Y,N,N,N,N,N,M,-,,,,3.14,CA,Riverside,Temecula,Temecula,Great Oak High School
+18047988,23903626,N,Y,N,N,N,N,M,-,,,,3,AZ,Pima,Tucson,Tucson,Alta Vista Public Charter Hs
+18049031,23974995,N,Y,N,N,N,N,F,-,,,,2.85,AZ,Pima,Tucson,Tucson,Empire High School
+18049032,22102964,Y,Y,N,N,N,N,F,-,,,,2.96,AZ,Pima,Tucson,Tucson,San Miguel High School
+18049032,24004801,N,Y,N,N,N,N,M,-,,,,2.96,AZ,Pima,Tucson,Tucson,San Miguel High School
+18049032,24015583,Y,Y,N,N,N,N,F,-,,,,3.35,AZ,Pima,Tucson,Tucson,San Miguel High School
+18049032,24015816,Y,Y,N,N,N,N,M,-,,,,2.67,AZ,Pima,Tucson,Tucson,San Miguel High School
+18049032,24015832,N,Y,N,N,N,N,M,-,,,,2.82,AZ,Pima,Tucson,Tucson,San Miguel High School
+18049032,24016466,N,Y,N,N,N,N,F,-,,,,2.5,AZ,Pima,Tucson,Tucson,San Miguel High School
+18049032,24026472,Y,Y,N,N,N,N,M,-,,,,2.57,AZ,Pima,Tucson,Tucson,San Miguel High School
+18049033,23794275,N,N,N,N,Y,Y,F,Tohono O'Odham,,,,2.04,AZ,Pima,Tucson,Tucson,City High School
+18049033,24036923,Y,N,N,N,N,N,F,-,,,,3.96,AZ,Pima,Tucson,Tucson,City High School
+18049216,24073581,Y,N,N,N,N,N,F,-,,,,3.06,MN,-,Minnetonka,Minnetonka,Excel High School
+18049772,23976039,N,Y,N,N,N,N,F,-,,,,3.5,AZ,Maricopa,Buckeye,Buckeye,Verrado High School
+18049772,23988379,N,Y,N,Y,N,N,F,-,31,28,21,3.5,AZ,Maricopa,Buckeye,Buckeye,Verrado High School
+18049772,24049233,N,N,N,Y,N,N,F,-,,,,3.11,AZ,Maricopa,Buckeye,Buckeye,Verrado High School
+18050014,24014004,Y,Y,N,N,N,N,M,-,,,,2.64,CA,Los Angeles,Chatsworth,Chatsworth,Sierra Canyon School
+18050072,23805674,Y,N,N,N,N,N,F,-,,,,4,WA,-,Camas,Camas,Union High School
+18050072,24035038,Y,N,N,N,N,N,M,-,,,,2.5,WA,-,Camas,Camas,Union High School
+18050099,24057862,N,N,N,N,N,Y,M,-,,,,2.53,AZ,Maricopa,Gilbert,Gilbert,Williams Field High School
+18050103,24015331,N,N,N,N,Y,N,F,Navajo,19,15,15,2.64,AZ,Maricopa,Buckeye,Buckeye,Youngker High School
+18050334,24070120,Y,N,N,N,N,N,M,-,,,,3.32,AZ,Maricopa,Mesa,Mesa,Arizona Connections Academy
+18050335,24040839,Y,N,N,N,N,N,F,-,23,16,16,3,AZ,Maricopa,Gilbert,Gilbert,Campo Verde High School
+18050407,24001238,Y,N,N,N,N,N,M,-,,,,3.3,CA,Fresno,Fresno,Fresno,Clovis North High School
+18050734,24055887,Y,N,N,N,Y,N,F,Tribal Affiliation Not Reported,,,,3.15,CA,Ventura,Simi Valley,Simi Valley,California Virtual Acad-Kings
+18050809,24052808,N,N,N,N,Y,N,M,Tribal Affiliation Not Reported,,,,2.7,CO,-,Colorado Springs,Colorado Springs,Discovery Canyon Campus High School
+18050812,24026433,N,N,N,N,Y,N,M,Navajo Nation (New Mexico),,,,2.5,CO,-,Colorado Springs,Colorado Springs,Vista Ridge High School
+18051637,24050126,N,N,N,N,N,Y,F,-,,,,3.97,GA,-,Suwanee,Suwanee,Friendship Christian School
+23066493,23967316,Y,N,N,N,N,N,F,-,,,,,AZ,Pima,Tucson,Tucson,Aztec Middle College Desert Vista
+23130282,24045350,N,Y,N,N,N,Y,M,-,,,,2.57,AZ,Pinal,San Tan Valley,San Tan Valley,Combs High School
+23131490,24015005,N,N,N,N,N,Y,M,-,,,,2.53,AZ,Maricopa,Phoenix,Phoenix,Sierra Linda High School
+23140883,23999341,N,Y,N,N,N,N,M,-,,,,2.92,AZ,Maricopa,Surprise,Surprise,Shadow Ridge High School
+23193337,23947605,Y,N,N,N,N,N,F,-,,,,4,PA,-,Lewistown,Lewistown,Mifflin County High School
+23215946,24040042,Y,N,N,N,N,N,F,-,,,,3.75,CA,Los Angeles,Los Angeles,Los Angeles,Fusion Academy Los Angeles
+23222487,23954131,N,N,N,N,N,N,M,-,,,,3.92,-,-,Saihat,Saihat,Ibn Al-Qaiem Secondary School
+23226423,23957068,Y,Y,N,N,N,N,F,-,,,,,AZ,Pima,Sahuarita,Sahuarita,Walden Grove High School
+23226423,24067098,Y,Y,N,N,N,N,M,-,,,,3.12,AZ,Pima,Sahuarita,Sahuarita,Walden Grove High School
+23233330,24030736,N,N,N,N,N,Y,M,-,,,,2.84,FL,-,Bradenton,Bradenton,IMG Academy
+23250018,24026758,N,Y,N,N,Y,N,F,"Pueblo of San Felipe, New Mexico",,,,2.96,AZ,Yavapai,Prescott Valley,Prescott Valley,AAEC- Prescott Valley
+23261562,24070591,N,N,N,N,N,N,M,-,,,,,11,-,Beijing,Beijing,Beijing Xiangyu High School
+23261983,23968610,N,N,N,N,N,N,F,-,,,,3.35,SON,-,Hermosillo,Hermosillo,Colegio Regis La Salle
+23265745,24005155,Y,N,N,N,N,N,F,-,,,,3.27,-,-,Safwa,Safwa,The 1st secondary scl in Safwa
+23269468,24047878,Y,N,N,N,N,N,M,-,,,,2.85,ON,-,Toronto,Toronto,Tanenbaum Community Hebrew Academy of Toronto
+23269614,24047169,N,Y,N,N,N,N,M,-,,,,2.52,AZ,Pima,Tucson,Tucson,Pima Rose Academy
+23361602,24011533,Y,N,N,N,N,N,F,-,,,,3.71,IL,-,Chicago,Chicago,Wolcott School
+23379633,23941803,N,N,N,N,N,N,M,-,,,,3.43,-,-,Jeddah,Jeddah,Jeddah Knowledge International School
+23383448,24002289,N,Y,N,N,N,N,M,-,,,,3.25,AZ,Maricopa,Queen Creek,Queen Creek,Benjamin Franklin High School
+23390484,23750189,N,N,N,N,Y,N,M,Tohono O'Odham,,,,3.28,NM,-,Santa Fe,Santa Fe,New Mexico Connections Academy
+23412535,24018609,Y,N,N,N,N,N,F,-,,,,2.76,NY,-,New York,New York,Avenues - The World School
+23452182,23974741,N,Y,N,N,N,N,F,-,,,,3.82,AZ,Maricopa,Phoenix,Phoenix,Western School of Science and Technology - CFA
+23478317,24001885,Y,N,N,N,N,Y,M,-,,,,3.35,AZ,Pinal,Casa Grande,Casa Grande,ASU Preparatory Academy- Casa Grande
+23530394,24047571,N,N,N,N,N,Y,M,-,,,,2.85,FL,-,Windermere,Windermere,Windermere High School
+23562899,23955580,Y,Y,N,N,N,N,F,-,,,,,AZ,Maricopa,Tempe,Tempe,ASU Prep Digital
+23562899,24031259,N,Y,N,N,N,N,F,-,,,,,AZ,Maricopa,Tempe,Tempe,ASU Prep Digital
+23562899,24057054,N,Y,N,N,Y,N,F,Gila River Indian Community,,,,3.4,AZ,Maricopa,Tempe,Tempe,ASU Prep Digital
+23567666,23976896,N,N,N,N,N,N,M,-,,,,3.59,-,-,Sabah Al Salem,Sabah Al Salem,Al Hayat Universal Bilingual School
+23570836,23844100,N,N,N,N,N,N,M,-,,,,3.33,37,-,Jinan,Jinan,The Xiuwen International Academy at Jinan
+23571845,24007482,N,N,N,N,N,N,M,-,,,,3.13,-,-,Hawalli,Hawalli,Universal Civilizations Academy School
+23573909,23763532,Y,Y,N,N,N,N,F,-,,,,3.32,AZ,Pima,Tucson,Tucson,Vail Innovation Center
+23575876,24052092,N,N,N,N,N,N,F,-,,,,4,-,-,Akosombo,Akosombo,Akosombo International School
+23715534,23893615,Y,N,N,N,N,N,M,-,,,,3.6,AZ,Maricopa,Waddell,Waddell,Canyon View High School
+23718506,24074434,N,Y,N,N,N,N,F,-,,,,3.25,AZ,Maricopa,Mesa,Mesa,Eastmark High School
+23721587,24036025,N,Y,N,N,N,N,M,-,,,,3.57,AZ,Pima,Tucson,Tucson,Mica Mountain High School
+23721587,24042273,N,N,N,N,Y,N,F,The Muscogee (Creek) Nation,,,,3.88,AZ,Pima,Tucson,Tucson,Mica Mountain High School
+23764883,24017807,Y,N,N,N,N,N,M,-,,,,4,CA,-,San Diego,San Diego,High Tech High Mesa
+23786541,23784429,Y,N,N,N,N,N,M,-,,,,3.6,NH,-,Manchester,Manchester,Founders Academy Public Charter School
+23810850,23998296,Y,N,N,N,N,N,F,-,,,,3.17,MT,-,Bozeman,Bozeman,Gallatin High School
+23810850,24002011,Y,N,N,N,N,N,F,-,,,,3.85,MT,-,Bozeman,Bozeman,Gallatin High School
+23856969,23990962,Y,N,N,N,Y,N,F,"Pokagon Band of Potawatomi Indians, MI and IN",,,,3,VA,-,Reston,Reston,The Keystone School
+23870858,23990825,Y,N,N,N,N,N,F,-,,,,3.38,AZ,Pima,Tucson,Tucson,Tucson Unified Virtual Academy
+23870858,24066583,Y,N,N,N,N,N,M,-,,,,3.8,AZ,Pima,Tucson,Tucson,Tucson Unified Virtual Academy
+23870858,24072808,N,N,N,N,N,Y,F,-,,,,2.88,AZ,Pima,Tucson,Tucson,Tucson Unified Virtual Academy
+23891627,24032762,N,N,N,N,N,N,M,-,,,,3.91,ON,-,Toronto,Toronto,Bishop Strachan School
+23908310,24072509,N,N,N,N,N,N,F,-,,,,2.44,SURREY,-,Epsom,Epsom,Epsom College
+23957155,24057667,Y,N,N,Y,N,N,F,-,,,,2.45,NSW,-,Kirribilli,Kirribilli,Loreto Kirribilli
+23971436,24018498,Y,Y,N,N,N,N,M,-,,,,2.79,AZ,Yuma,Yuma,Yuma,Student Choice High School - Yuma
+23974491,24045894,Y,Y,N,N,N,N,F,-,,,,2.55,-,-,Mexico City,Mexico City,"American School Foundation, Mexico City"
+23999482,24033495,Y,Y,N,N,N,N,F,-,,,,2.87,AZ,Pima,Tucson,Tucson,Desert Sage High School
+24052764,24072889,N,N,N,N,N,N,M,-,,,,2.84,SON,-,Hermosillo,Hermosillo,Colegio Alerce
+24065698,24053587,N,N,N,N,N,N,M,-,,,,3.04,-,-,Phnom Penh,Phnom Penh,AUPP High School Foxcroft Academy
+24066884,23973985,N,N,N,N,N,N,M,-,,,,2.88,SON,-,Navojoa,Navojoa,Colegio Del Pacifico De La Universidad De Navojoa
+24071414,24075282,Y,Y,N,N,N,N,F,-,,,,3.38,GO,-,GOIANIA,GOIANIA,Colegio Shallon - Goiania II

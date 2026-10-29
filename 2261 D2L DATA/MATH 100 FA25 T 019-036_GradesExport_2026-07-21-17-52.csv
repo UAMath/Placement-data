@@ -1,0 +1,436 @@
+OrgDefinedId,Last Name,First Name,My Major is: Text Grade <Text>,What is the next math class needed for my major? Text Grade <Text>,What is my current math class placement for next semseter (SI_3) Text Grade <Text>,D_U next math class formula (SI_2) Formula Grade <Formula MaxPoints:300>,Next Math Class needed (SI_1) Points Grade <Numeric MaxPoints:120 Category:Student Information:>,CATS Text Grade <Text>,SALT Text Grade <Text>,DRC Text Grade <Text>,GRO student Text Grade <Text>,Enrolled in UNIV 100 Text Grade <Text>,Next Math Class (2nd Attempt Modules) Points Grade <Numeric MaxPoints:120 Category:Student Information:>,Final Exam Week 1 Points Grade <Numeric MaxPoints:450 Category:Final Exam (Hidden)>,Final Exam Week 2 Points Grade <Numeric MaxPoints:450 Category:Final Exam (Hidden)>,IKC Topics Points Grade <Numeric MaxPoints:700 Category:ALEKS Topic Goals Weekly Counts (Hidden)>,Final Exam Topics Points Grade <Numeric MaxPoints:705 Category:ALEKS Topic Goals Weekly Counts (Hidden)>,End-of-Line Indicator
+#23976518,Abad,Chanel Tatiana,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,329.99985,,155,517,#
+#23956012,Abraham,Robel,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,388.08495,434,608,#
+#24010930,Abrams,Alyssa Lee,[BIOLBS] Biology,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,293.6169,,152,460,#
+#24038646,Acevedo,Erick D,[MEDBS] Medicine,Math 112,Math 112,112,112,,,,,,,384.89355,,339,603,#
+#23997312,Acevedo,Syenna I,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,239.36175,,65,375,#
+#23950168,Achadinha,Kelly,[RCSCBS] Retailing & Consumer Science,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,0,275.10615,116,431,#
+#23958997,Adame,Sabrina Helana,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,335.10645,,280,525,#
+#23865743,Adams,Sydney Nicole,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,0,467,655,#
+#24028766,Aguilar,Dominic Dacio,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,107,0,271.27665,77,425,#
+#24049329,Akpa,Louis Burayag,[MEDBS] Medicine,Math 112,Math 112,112,112,CATS,,,,,,0,393.19155,274,616,#
+#23959422,Alanazi,Mohammed Saleh,[BIOINBS] Bioinformatics,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,258.5106,0,173,405,#
+#23993486,Alcazar,Alyssa Angelica,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,373.40415,107,585,#
+#23957015,Alfaraj,Hassan Hassan A,[GEOSBS] Geosciences,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,169.78725,143,266,#
+#24002429,Almadhi,Narmeen,[NURSBSN] Nursing,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,459,0,#
+#23975805,Almahmeed,Ali M J K B A,[ARCHBARCH] Architecture,Math 108,Math 108,108,108,,,,,,,0,360.6381,64,565,#
+#23972898,Alnajdi,Abdulaziz A M A,[ARCHBARCH] Architecture,Math 108,Math 100_Recommend meeting with Advisor,100,108,,,,,,107,186.3828,,82,292,#
+#23955049,Anosike,Lucy Chidera,[MEDBS] Medicine,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,100,220.2129,0,700,345,#
+#24048547,Aragon,Ariely A,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,0,286.59555,82,449,#
+#23998698,Arcella,Wade Matthew,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,259.78725,181,407,#
+#23986093,Armenta,Liv,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,0,258.5106,87,405,#
+#23989195,Arrowood,Austin Daniel,[NMSEGND] No Major Selected Engineering,Math 112,Math 112,112,112,,,,,,,384.89355,,220,603,#
+#23998699,Arvizu,Camila Guadalupe,[ASCBS] Animal Sciences,Math 112,Math 112,112,112,,,,,,,0,372.1275,117,583,#
+#23993493,Ayna,Allison Maureen,[BIOLBS] Biology,Math 112,Math 112,112,112,,,,,,,0,397.6596,152,623,#
+#23987910,Baca,Yulissa,[BMGTBSBA] Business Management,Math 112,Math 112,100,112,,,,,,112,261.0639,,172,409,#
+#24041946,Badilla,Tanner,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,170,0,#
+#24045894,Baker,Edith Salome,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,100,202.34025,,60,317,#
+#24057953,Barhoumeh,Jake Saleem,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,100,0,227.87235,141,357,#
+#23985528,Barquero,Giana Isabella,[BIOLBS] Biology,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,338.93595,,86,531,#
+#24003614,Barrabi,Isabela G,[ASCBS] Animal Sciences,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,0,255.9573,154,401,#
+#23986691,Bartlett,Kaelyn Jade,[BIOLBS] Biology,Math 112,Math 112,112,112,,,,,,,0,369.57465,240,579,#
+#23984799,Baselice,Emily M,[PHLBS] Public Health,Math 112,Math 112,112,112,,,,,,112,362.5533,,82,568,#
+#23879086,Bauer,Maya Debra,[PRNUND] Pre-Nursing,Math 112,Math 112,112,112,,,,,,,376.59555,,280,590,#
+#23998945,Bell,Tanner Jeffrey,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,107,278.298,0,158,436,#
+#24011206,Belleville,Sophia Marie,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,0,315.9576,87,495,#
+#24051657,Bennett,Finley Grace,[ASCBS] Animal Sciences,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,69,0,#
+#23992201,Bentley,Haven Sophia,[PHLBS] Public Health,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,261.0639,124,409,#
+#24013140,Biggs,Vivi G,[VSCBS] Veterinary Science,Math 112,Math 112,112,112,,,,,,,0,432.1278,299,677,#
+#23807399,Billy,Sara Murrilyn,[VSCBS] Veterinary Science,Math 112,Math 112,112,112,,,,,,,0,423.8298,132,664,#
+#23937606,Blair,Ben Matthew,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,348.5106,,271,546,#
+#23948922,Bodmer,Adrian,[SBEBSSBE] Sustainable Built Environments,See Advisor,Math 112,100,112,,,,,,112,0,279.57465,172,438,#
+#24050181,Boyer,Wade Thomas,[CYBRBAPS] Cyber Operations,Math 107,Math 107,107,107,,,,,,,0,365.1066,116,572,#
+#23995062,Braeseker,Santana Emiliano,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,319.149,131,500,#
+#24018133,Brandon,Olivia Rose,[ARCHBARCH] Architecture,Math 108,Math 100_Final Exam 2nd Attempt Recommended,100,108,,,,,UNIV 100,,207.44685,,63,325,#
+#23990366,Brandon,Sarah Lillian,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,367.02135,154,575,#
+#23991572,Brown,Emma Marie,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,414.25515,,244,649,#
+#24051489,Brown,Kason Kyle,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,112,CATS,,,,,,0,340.2126,132,533,#
+#24001254,Brown,Madi Sophia,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,471,0,#
+#24047582,Burgueno,Ignacio,[MEDBS] Medicine,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,0,347.8725,120,545,#
+#23986698,Bustamante,Rochell,"[SLHSBS] Speech, Language & Hearing Sci",Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,308.93625,130,484,#
+#23918367,Butler,John Paul Edward,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,0,262.34055,198,411,#
+#23983911,Byrd,Julian Mikkal,[NTRSBS] Natural Resources,Math 112,Math 112,112,112,,,DRC,,,,374.6808,,229,587,#
+#24005870,Byrket,Malinda Natalie,[NMSUASND] No Major Selected Info Science,See Advisor,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,139,0,#
+#24014223,Campbell,Gabriel,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,304.4682,159,477,#
+#24002470,Card,Trevor Jack,[LARBLA] Landscape Architecture,Math 108,Math 100_Final Exam 1st Attempt not completed,300,108,,,,,,,0,,167,0,#
+#23988739,Cardenas,Dulce Maria,[PHLBS] Public Health,Math 112,Math 112,112,112,,,,,,,403.4043,,351,632,#
+#23985247,Carlisle,Bailey Catherine,[MICRBS] Microbiology,Math 112,Math 112,100,112,,,,,UNIV 100,112,0,210.00015,99,329,#
+#24000411,Carlson,Megan Elizabeth,[BIOLBS] Biology,Math 112,Math 112,112,112,,,,,,,400.851,,142,628,#
+#24029249,Carrillo,Paola,[NURSBSN] Nursing,Math 112,Math 112,100,112,,,,,,112,0,253.40445,87,397,#
+#24012226,Castellanos,Sara,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,321.7023,,151,504,#
+#24000923,Cattan,Jackson,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,107,292.9788,,267,459,#
+#23991704,Caviar,Jules Paige,[VSCBS] Veterinary Science,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,242,0,#
+#24046550,Ceniceros Wolfe,Kamrynn I,[ARCHBARCH] Architecture,Math 108,Math 108,108,108,,,,,,,381.0636,,178,597,#
+#24043288,Chancey,Ana Victoria,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,156,0,#
+#24052791,Chartrand,Xen Christine,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,100,112,,,,,,112,0,346.59585,126,543,#
+#23929254,Christian,Kennah Simone,[PSYSBS] Psychological Science,Math 112,Math 112,112,112,,,,,,,0,392.553,200,615,#
+#24019031,Christopherson,Claire Lydia,[MEDBS] Medicine,Math 112,Math 112,112,112,,,,,,,406.5957,,150,637,#
+#23976221,Christy,Hallee Lynne,[NURSBSN] Nursing,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,316.5957,,54,496,#
+#23963635,Cleaves,DJ Artis,[PHSCBS] Pharmaceutical Sciences,Math 112,Math 112,112,112,,,,,,,0,385.5321,144,604,#
+#23993521,Clegg,Jamison Allen,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,112,,,DRC,,,,434.04255,,230,680,#
+#23997360,Collins-Ellis,Lexus Charlotte-Marie-Kay,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,294.89355,,101,462,#
+#23998728,Cornell,Chase Alexander,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,278.298,178,436,#
+#24011280,Corrales Valdez,Metzly,[NURSBSN] Nursing,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,0,172.97865,95,271,#
+#24044420,Corsello,Mona Jean,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,100,194.6808,,57,305,#
+#23990197,Cox,Avery Jane,[BIOLBS] Biology,Math 112,Math 112,112,112,,,,,,,367.65945,,189,576,#
+#23988192,Crane,Karis Leigh,[NTRSBS] Natural Resources,Math 112,Math 112,112,112,,,,,,,0,444.8934,146,697,#
+#23963370,Cruz Perez,Michelle,[NCSBS] Neuroscience & Cognitive Sci,Math 112,Math 112,112,112,,,,,,,0,367.02135,163,575,#
+#23982330,Cruz-Gonzalez,Gaby,[MEDBS] Medicine,Math 112,Math 112,112,112,,,,,,,0,354.8934,95,556,#
+#23983944,Cruz-Trujillo,Alexis Yareli,[NURSBSN] Nursing,Math 112,Math 112,112,112,,,,,,,398.2977,,112,624,#
+#23991747,Cunningham Graber,Rowan Elliott,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,UNIV 100,112,0,0,103,634,#
+#23978444,Damon,Grayce Faith,[BIOLBS] Biology,Math 112,Math 112,112,112,,,,,,,375.95745,,294,589,#
+#24043292,Danger,Meghan Elizabeth,[BIOLBS] Biology,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,0,328.7232,319,515,#
+#24012269,Darby,Davis Warren,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,82,0,#
+#24015005,Davis,Josiah Elijah,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,100,0,167.23395,43,262,#
+#24028277,Davis,Reuben,[BIOLBS] Biology,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,107,306.38295,,118,480,#
+#24011293,Davison,Ace Marie,[VSCBS] Veterinary Science,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,295,0,#
+#24051866,Del Valle,Luis,[MEDBS] Medicine,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,UNIV 100,,0,0,41,0,#
+#24056310,Desantiago,Joe P,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,351.702,140,551,#
+#23975565,Devyatov,Nicka Daniella,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 112,112,112,,,,,,,0,0,168,655,#
+#24051381,Dicker,Cecily Raj,[NHPBS] Nutrition & Human Performance,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,100,0,189.57465,227,297,#
+#24061912,Dicochea Hernandez,Paulo Sergio,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,112,,,,,,,377.2341,,138,591,#
+#23994400,Dodge,Khalil Kerman,[ARCHBARCH] Architecture,Math 108,Math 100_Recommend meeting with Advisor,100,108,,,,,UNIV 100,107,0,323.61705,74,507,#
+#22103043,Dominguez,Ciara,[ASCBS] Animal Sciences,Math 112,Math 112,112,112,,,,,,,439.14915,,176,688,#
+#23827132,Donahue,Jack Noah,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,315.31905,486,494,#
+#23993121,Duarte,Jose Manuel,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,112,,,,,,,398.93625,,170,625,#
+#24048895,Dunkle,Nevaeh C,[ENVSBSES] Environmental Science,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,0,238.0851,56,373,#
+#24048776,Durazo,Alynna Maritssa,[APBTBS] Applied Biotechnology,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,UNIV 100,,0,0,28,0,#
+#24017189,Elkins,CJ,[COSCBS] Computer Science,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,193.40415,,84,303,#
+#24049205,Erickson,Robyn Elisabeth,[VSCBS] Veterinary Science,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,310.2129,152,486,#
+#24031968,Eshkanani,Zainab Mohammad,[MEDBS] Medicine,Math 112,Math 112,112,112,,,,,,,0,365.1066,150,572,#
+#23982826,Ess,Josephine Marie,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,112,,,,,,,377.2341,,181,591,#
+#23995865,Estrada,Sael A,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,112,,,,,,,382.34025,,147,599,#
+#24042358,Farias,Matthew Edward,[PSYSBS] Psychological Science,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,315.31905,200,494,#
+#23962445,Feeney,Caileen Jo,[MEDBS] Medicine,Math 112,Math 112,112,112,,,,,,,0,0,404,704,#
+#24051318,Ferrante,Lola Baylee,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,303.19155,,109,475,#
+#23990204,Feurer,Sutton Reese,[REBS] Real Estate,Math 107,Math 107,107,107,,,,,,,299.3616,,58,469,#
+#23979936,Fink,Chloe Catherine,[BIOLBS] Biology,Math 112,Math 112,112,112,,,,,,,379.14885,,177,594,#
+#24013288,Flint,Addison Elizabeth,[NURSBSN] Nursing,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,107,340.2126,,129,533,#
+#24000001,Flores,Sophia M,[MEDBS] Medicine,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,100,172.97865,,42,271,#
+#23858693,Flores,Xamari,[APBTBS] Applied Biotechnology,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,100,215.74485,,100,338,#
+#24040580,Foronda,Natalie,[NURSBSN] Nursing,Math 112,Math 112,112,112,,,,,,,0,0,206,637,#
+#23981344,Foster,Lauren Leary,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,0,240,595,#
+#24005372,Foster,MJ Raphael,[ASTRBS] Astronomy,Math 112,Math 112,112,112,,,,,,,0,377.8722,252,592,#
+#24053442,Fragoso,Ana Victoria,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,UNIV 100,,356.17005,,77,558,#
+#24039014,Frank,Sadie,[NURSBSN] Nursing,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,116,0,#
+#23937449,Freas,Sophia Brennan,[MEDBS] Medicine,Math 112,Math 112,112,112,,,,,,,447.4467,,231,701,#
+#24000185,Freitas,Caydence Marielynne,[BIOLBS] Biology,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,83,0,#
+#23645055,Fremel,Annikka,[SBEBSSBE] Sustainable Built Environments,See Advisor,Math 112,112,112,,,,,,,0,0,297,633,#
+#24051500,Frias,Dylan Eduardo,[ARCHBARCH] Architecture,Math 108,Math 108,108,108,,,,,,,0,377.2341,451,591,#
+#24033356,Fuentes,Valeria,[VSCBS] Veterinary Science,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,350.42535,,129,549,#
+#23990718,Fuller,Marianna Lee,[BIOLBS] Biology,Math 112,Math 112,112,112,,,,,,,406.5957,,199,637,#
+#23940150,Fulton,Sienna Ameire,[MEDBS] Medicine,Math 112,Math 112,112,112,,,,,,,0,433.40445,110,679,#
+#24032883,Gage,Makayla R,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,0,168,632,#
+#24025613,Gaither,Paul Michael,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,264.8934,247,415,#
+#24032762,Gajer,Lauren Kate,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,275.7447,0,60,432,#
+#23996234,Galligan,Gabriel Alexander,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,159,0,#
+#23964353,Galmessa,Siphen Alemayehu,[PHLBS] Public Health,Math 112,Math 112,100,112,,,,,,112,0,237.447,116,372,#
+#24004121,Ganem,Julia Katheryn,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,358.72335,178,562,#
+#24026803,Garcia,Gavin Matthew,[ARCHBARCH] Architecture,Math 108,Math 108,100,108,,,,,,108,338.29785,,287,530,#
+#24010982,Garcia,Isabella S,[AGTEBS] Agricultural Tech Mgmt & Educ,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,UNIV 100,,0,0,21,0,#
+#24021230,Garcia,Julian Alexander,[NTRSBS] Natural Resources,Math 112,Math 100_Recommend meeting with Advisor,100,112,,SALT,DRC,,UNIV 100,107,208.7235,274.46805,68,430,#
+#23974882,Garcia,Leo David,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,0,324.25515,185,508,#
+#23974749,Garcia,Lily Anne,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 107_Recommend meeting with Advisor,100,112,,,,,,107,0,285.31935,142,447,#
+#24044345,Garcia,Tony Richie,[BMGTBSBA] Business Management,Math 112,Math 112,100,112,,,,,UNIV 100,112,235.5318,,64,369,#
+#24036652,Gastelum,Adrian J,[VSCBS] Veterinary Science,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,107,0,347.8725,133,545,#
+#24041268,Ghozayel Imad Tsoukaladaki,Hadi,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,372.1275,190,583,#
+#24030728,Gilmartin,Gwyneth Ellie,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,112,,SALT,,,UNIV 100,,0,446.8086,,700,#
+#24056313,Gioffredi,Romi Joseph,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,UNIV 100,,0,0,67,0,#
+#24049353,Golden,Elias Hale,[MEDBS] Medicine,Math 112,Math 112,112,112,,,,,,,0,449.3619,128,704,#
+#23995883,Gonzalez,Ailed,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,393.19155,,237,616,#
+#24026094,Gonzalez,Alexa Renee,[VSCBS] Veterinary Science,Math 112,Math 112,112,112,,,,,,,0,0,208,630,#
+#24021514,Gonzalez,Kristen Elizabeth,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,100,231.7023,,112,363,#
+#23991592,Gracia,Alexys,[ARCHBARCH] Architecture,Math 108,Math 100_Final Exam 1st Attempt not completed,300,108,,,,,,,0,0,142,0,#
+#23952584,Grayson,Reginald,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,261.702,,117,410,#
+#23993016,Grijalva,Evan Nicholas,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,0,291.06405,108,456,#
+#24011383,Grijalva,Gadiel Andre,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,100,112,,,,,UNIV 100,112,0,83.6172,69,131,#
+#23992732,Guerrero,Jenni,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,424.4679,,185,665,#
+#23898978,Guignon,Kyle Hogan,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,112,,,,,,,356.8086,,212,559,#
+#23982732,Gutierrez,Adrian J,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,311.48955,297,488,#
+#24041045,Gwin,Chris Isaiah,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,112,,,,,,,368.298,,162,577,#
+#23982346,Hagerty,Anna,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,100,0,252.1278,93,395,#
+#23998959,Hall,Simon Crichton,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,409.7871,201,642,#
+#24021967,Hall,Zoe Simone,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,347.8725,,258,545,#
+#24054828,Hall-Brouillet,Isa Grace,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,384.25545,171,602,#
+#24030736,Harley,Daniel Prophet,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,233.61705,104,366,#
+#24021631,Haro,Stephany,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 112,112,112,,,,,,,412.97895,,222,647,#
+#23992857,Hartley,Tatum Rayne,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,378.51075,,151,593,#
+#23977711,Havelick,Abe William,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,112,,,,,,,0,373.40415,317,585,#
+#23995132,Havelock,Tabitha Ellianna,[VSCBS] Veterinary Science,Math 112,Math 112,112,112,,,,,,,0,358.08525,188,561,#
+#23984049,Hawkes,Mia Faye,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,0,253.40445,111,397,#
+#24021895,Healy,Merlot Teresa,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,337.65975,166,529,#
+#24041436,Hegg,Alex Y,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,0,303.82965,132,476,#
+#23997017,Helfrich,Max,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,411.7023,329,645,#
+#24021520,Henderson,Dominique Kariel,[VSCBS] Veterinary Science,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,211.9149,154,332,#
+#24024929,Hendrix,Gracie Lane Marie,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,324.25515,,175,508,#
+#23415305,Hernandez,David Junior,[NTRSBS] Natural Resources,Math 112,Math 112,112,112,,,,,,,371.4894,,145,582,#
+#23989754,Hernandez,Nailea,[MEDBS] Medicine,Math 112,Math 112,112,112,,,,,,,0,423.8298,236,664,#
+#24030497,Herrera,Demarco Fabian,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,0,238.0851,150,373,#
+#23984978,Hines-Elenes,Macayla Dianna,[BIOLBS] Biology,Math 112,Math 112,112,112,,,,,,,376.59555,,56,590,#
+#24026400,Hollonquest,Dyani Elizabeth,[MPTBS] Med Pharmacology & Toxicology,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,334.4679,111,524,#
+#23987780,Hoskinson,Kaitlynn Michelle,[NTRSBS] Natural Resources,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,107,0,318.51045,91,499,#
+#24051792,Howden-Rich,Noah Daniel,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,181,0,#
+#24024216,Howell,Brogan Thomas,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,381.0636,238,597,#
+#24001368,Hu,Colin Jake,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,368.298,125,577,#
+#24002578,Hubbs,Payton Louise,[ARCHBARCH] Architecture,Math 108,Math 108,108,108,,,,,,,0,358.08525,240,561,#
+#24052253,Huerta,Makayla Marie,[ENVSBSES] Environmental Science,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,197.8722,,61,310,#
+#24018215,Hupprich,Milo James,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,SALT,,,,,292.34025,,153,458,#
+#24028296,Ingold,Kai Ferrell,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,0,277.65945,209,435,#
+#23943272,Irish,Olivia,[AGTEBS] Agricultural Tech Mgmt & Educ,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,0,312.76575,233,490,#
+#24024940,Jackson,Zildjian Amya,[MEDBS] Medicine,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,137.87235,99,216,#
+#23995905,Jaramillo,Victoria,[MEDBS] Medicine,Math 112,Math 112,112,112,,,,,,,398.2977,,116,624,#
+#24036851,Jesse,Arjay,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,112,,,,,,,411.06375,,118,644,#
+#24043040,Jimenez Salinas,Itzel,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,100,0,185.7447,18,291,#
+#24003466,Johnson,Ashlee Marie,[NURSBSN] Nursing,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,272.5533,,79,427,#
+#24057341,Jones,Rowan Rachelle,[ARCHBARCH] Architecture,Math 108,Math 100_Final Exam 2nd Attempt Recommended,100,108,,,,,UNIV 100,,0,199.14885,60,312,#
+#23976061,Jongert,Olivia Madison,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,367.02135,143,575,#
+#23990019,Jorqueras,Diego,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 112,112,112,,,,,,,0,388.08495,125,608,#
+#24014563,Jose,Elizabeth Meleane Rosemary,[PSYSBS] Psychological Science,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,255.3192,,106,400,#
+#23980512,Juan,Tasha Rowan,[PHSCBS] Pharmaceutical Sciences,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,268.08525,,87,420,#
+#23976579,Kamshad,Alretaj E M N,[ARCHBARCH] Architecture,Math 108,Math 108,108,108,,,,,,,0,365.7447,42,573,#
+#23984984,Kane,Lainey Renee,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,112,354.2553,0,156,555,#
+#23976434,Kane,Tommy Gregory,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,412.97895,250,647,#
+#24001665,Kangas,Coral Mae,[NURSBSN] Nursing,Math 112,Math 112,112,112,,,,,,,0,357.4467,231,560,#
+#24046571,Kelly,Devon Michelle,[PHLBS] Public Health,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,318.51045,322,499,#
+#24001876,Kennedy,William Chandler,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,107,0,318.51045,122,499,#
+#24044871,Key,Veronica M,[VSCBS] Veterinary Science,Math 112,Math 112,100,112,,,,,UNIV 100,112,0,350.42535,87,549,#
+#23985906,Kiberd,Collin David,[CJSBS] Criminal Justice Studies,SBS 200,Math 112,112,112,,,,,,,375.95745,,172,589,#
+#23990925,Kigoni,Joy N,[MEDBS] Medicine,Math 112,Math 112,112,112,,,,,,,0,427.65975,156,670,#
+#24053149,Kinlecheenie,Adessa Urylie,[VSCBS] Veterinary Science,Math 112,Math 112,112,112,,,,,,,0,0,226,653,#
+#24014078,Kirkorn,Adam Fredrick,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,249.5745,155,391,#
+#24034736,Koehn,Maleah Ariana,[NTRSBS] Natural Resources,Math 112,Math 112,112,112,,,,,,,0,0,226,639,#
+#23999947,Kondraskaite,Patricija,[WHPPBA] Wellness & Health Promo Prac,Math 107,Math 107,107,107,CATS,,,,,,356.17005,,78,558,#
+#24044665,Kosakowski,Riley,[BMGTBSBA] Business Management,Math 112,Math 112,100,112,,,,,,112,0,334.4679,322,524,#
+#24001379,Kotowitz,Macey Peyton,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,162,0,#
+#24012516,Kuhar,Celine Buse,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,107,343.40445,,93,538,#
+#23986758,Laguna,Alicia B,[BMGTBSBA] Business Management,Math 112,Math 112,100,112,,,,,,112,325.5318,,163,510,#
+#24015554,Landin,Arletty,[MEDBS] Medicine,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,100,190.85085,,69,299,#
+#24001387,Lappin,Mackenzie Alice,[BMGTBSBA] Business Management,Math 112,Math 112,100,112,,,,,UNIV 100,112,319.149,,119,500,#
+#23988244,Lawley,Carter Randah,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,261.702,158,410,#
+#24016132,Le,Sony Manh,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,112,,,,,UNIV 100,,415.5318,,309,651,#
+#23584445,Lebi,Oyin,[BMGTBSBA] Business Management,Math 112,Math 112,100,112,,,,,,112,0,345.3192,84,541,#
+#24019127,Lehto,Samadi Spring,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,112,,,,,,,0,0,271,656,#
+#24039604,Leimroth,Mia Else,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 107_Recommend meeting with Advisor,100,112,,,,,UNIV 100,107,0,274.46805,93,430,#
+#24011522,Leslie,Amelia Rose,[VSCBS] Veterinary Science,Math 112,Math 112,112,112,,,,,,,0,0,231,638,#
+#24016754,Lessard,Jake Ryan,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,262.97865,270,412,#
+#23991406,Lim,Nickolas Michael,[ASCBS] Animal Sciences,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,DRC,,UNIV 100,,0,74.04255,18,116,#
+#24011533,Lindahl,Josie Filippa,[VSCBS] Veterinary Science,Math 112,Math 100_Recommend meeting with Advisor,100,112,,SALT,DRC,,UNIV 100,107,0,300.00015,64,470,#
+#24038717,Linden,John Robert,[VSCBS] Veterinary Science,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,299.3616,228,469,#
+#24054179,Lister,Jack,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,423.1917,,305,663,#
+#23997448,Lloyd,Aimee Bella,[NURSBSN] Nursing,Math 112,Math 112,112,112,,,,,,,0,0,234,626,#
+#23990461,Lock,Emma I,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,112,,SALT,DRC,,,,398.2977,,288,624,#
+#24036866,Logan,Dawson Allen,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,365.7447,151,573,#
+#23978130,Loghry,Tanner R,[NMSALSND] No Major Selected Ag Life Sci,See Advisor,Math 112,112,112,,,,,,,0,360,187,564,#
+#23984992,Lopez,Aylen Cecilia,[VSCBS] Veterinary Science,Math 112,Math 112,112,112,,,,,,,439.78725,,280,689,#
+#23989138,Lopez,Kas J,[VSCBS] Veterinary Science,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,305.74485,,125,479,#
+#24001253,Lopez,Tomas Jorge,[LARBLA] Landscape Architecture,Math 108,Math 108,100,108,,,,,,108,0,349.14915,91,547,#
+#23989297,Luna,Dana Paola,[MEDBS] Medicine,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,UNIV 100,,0,0,47,0,#
+#23988256,Lynn,Ridge S,[NMSALSND] No Major Selected Ag Life Sci,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,0,262.97865,111,412,#
+#23996422,Lyons,Cathryn Rose,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,276.3828,,69,433,#
+#24057031,Mabil,Mabilmawut Kon,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,112,CATS,,,,,,0,409.149,363,641,#
+#24051088,Madlock,Madison Heather,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 112,112,112,,,,,,,0,398.2977,65,624,#
+#24040638,Mallery,Daniel Drake,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,382.9788,113,600,#
+#23982670,Mallino,Sophia Rose,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,0,301,677,#
+#24023286,Manucharian,Garri A,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,0,391,691,#
+#24003157,Marcer,Julian Enzo,[VSCBS] Veterinary Science,Math 112,Math 112,112,112,,,,,,,0,0,397,655,#
+#24048714,Mares,Michael Anthony,[BIOLBS] Biology,Math 112,Math 112,112,112,,,,,,,0,0,248,642,#
+#24058436,Marshall,Abbygail Esstaria,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,423.8298,,268,664,#
+#24015025,Martin,Maddie,[NURSBSN] Nursing,Math 112,Math 112,112,112,,,,,,,356.8086,,106,559,#
+#24026127,Martinez,Andrew Josue,[BIOLBS] Biology,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,310.851,,103,487,#
+#24036667,Martinez,Manny Mario,[APHMBA] Applied Humanities,See Advisor,Math 112,112,112,,,,,,,0,356.8086,95,559,#
+#24005218,Martinez,Sarah Shuying,[ARCHBARCH] Architecture,Math 108,Math 100_Final Exam 2nd Attempt Recommended,100,108,,,,,,,0,317.23425,113,497,#
+#24056969,Martinez-Pompa,Blake Edward,[COSCBS] Computer Science,Math 112,Math 112,112,112,,,,,,,0,366.3828,192,574,#
+#24008986,Maynard,Riley Jean,[BMGTBSBA] Business Management,Math 112,Math 112,100,112,,,,,UNIV 100,112,262.97865,,109,412,#
+#23999106,McCarthy,Maeve Anne,[PSYSBS] Psychological Science,Math 112,Math 112,112,112,,,,,,,359.3619,,270,563,#
+#23914311,McGrath,Eva Claire,[DAPBA] Design Arts & Practice,See Advisor,Math 112,112,112,,,,,,,0,391.2768,260,613,#
+#24005067,McHenry,Ava Caroline,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,SALT,DRC,,,,0,404.0424,243,633,#
+#23940180,Meadowcroft,Phoenix,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,332.55315,0,139,521,#
+#24018774,Medina,Gladys Damaris,[BIOLBS] Biology,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,0,321.7023,64,504,#
+#24061743,Medrano,Michael Joseph,[NHPBS] Nutrition & Human Performance,Math 112,Math 112,112,112,,,,,,,393.19155,,146,616,#
+#24041456,Meek,Joaquin M,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,317,0,#
+#23977087,Meigh,Kaitlyn Nicole,[NURSBSN] Nursing,Math 112,Math 112,112,112,,,,,,,407.87235,,212,639,#
+#24006527,Mendez,Nicholas John,[BIOCBS] Biochemistry,Math 112,Math 112,112,112,,,,,,,0,353.6172,155,554,#
+#24002793,Mendoza,Jezrael,[NMSEGND] No Major Selected Engineering,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,333.8298,,247,523,#
+#24009762,Mercer,Peyton Elizabeth,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,386.8083,,141,606,#
+#24031339,Mesquita,Fernando M,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,0,339.5745,242,532,#
+#23976371,Metke,Xander Wynn,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,310.851,135,487,#
+#23995546,Milburn,Lucas Raphael,[ABEMBS] Agribusiness Economics & Mgmt,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,264.2553,0,113,414,#
+#24016875,Miller,Abby Joy,[NURSBSN] Nursing,Math 112,Math 112,112,112,,,,,,,399.57435,,269,626,#
+#24057481,Miller,Nate,[CHEMBS] Chemistry,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,UNIV 100,,0,0,48,0,#
+#23991788,Mohebbi,Camelia,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 112,112,112,,,,,,,414.8937,,235,650,#
+#23986449,Moncrieff,Riley Mackenzie,[MEDBS] Medicine,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,289.7874,,96,454,#
+#24044007,Moniz,Justine L,[BIOLBS] Biology,Math 112,Math 112,112,112,,,,,,,0,425.10645,227,666,#
+#24043622,Monroe,Cayla,[MEDBS] Medicine,Math 112,Math 112,112,112,,,,,,,387.44685,,154,607,#
+#23929170,Montelongo,Alysandra Clark,[BIOLBS] Biology,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,296.1702,,136,464,#
+#24044243,Montenegro,Micah Keola Ikaika,[BIOLBS] Biology,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,234.25515,152,367,#
+#23978547,Moore,Aaron Michael,[BMGTBSBA] Business Management,Math 112,Math 112,100,112,,,,,,112,0,344.68065,127,540,#
+#23919985,Moquist,Enzo Millen,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,199.7874,114,313,#
+#24011613,Morales,Daney Yatzil,[PSYCBA] Psychology,Math 107,Math 107,107,107,,,,,UNIV 100,,302.553,,137,474,#
+#23912463,Moreno Tirado,Olga Victoria,[BIOLBS] Biology,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,223,0,#
+#24041893,Morin,Ava R,[VSCBS] Veterinary Science,Math 112,Math 112,112,112,,,,,,,0,375.31935,241,588,#
+#24030767,Moss,Benjamin Louis,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,386.1702,353,605,#
+#24006542,Mundy,Payton Mae,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,0,162.1278,42,254,#
+#23951990,Munguia,Beatriz,[VSCBS] Veterinary Science,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,100,0,169.78725,61,266,#
+#24053626,Munoz,Bella Gabryelle,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,112,,,,,,,0,401.48955,367,629,#
+#24005077,Murray,Makena E,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,340.85115,124,534,#
+#24006911,Myers,Thomas Robert,[NHPBS] Nutrition & Human Performance,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,185,0,#
+#23982378,Nassar,Sam Quinn,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,112,,,,,,,0,354.2553,187,555,#
+#23993870,Ndayishimeye,Aliette,[COSCBS] Computer Science,Math 112,Math 112,112,112,,,,,,,407.87235,,260,639,#
+#24005486,Ndje,Christina,[BIOLBS] Biology,Math 112,Math 112,112,112,,,,,,,0,0,275,664,#
+#23993624,Needham,Aubrey Paige,[ARCHBARCH] Architecture,Math 108,Math 108,108,108,,,,,,,368.9361,,159,578,#
+#24025011,Nero,Natalia Varina Christina,[ASCBS] Animal Sciences,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,255.3192,,127,400,#
+#23976709,Neuhausen,Reid Garrett,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,268.72335,241,421,#
+#24011135,Neuman,Kierstyn,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,352.9286,177,462,#
+#24047207,Nez,Paige Nanabah,[VSCBS] Veterinary Science,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,312.76575,,105,490,#
+#24026501,Nichols,Ella Sofie,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,226,0,#
+#24041894,Nix,Tom Elliott,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,445.53195,145,698,#
+#23985950,Niyonkuru,Yves,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,378.51075,,81,593,#
+#24046875,Noyes,Thomas J,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,351.702,374,551,#
+#24013518,O'Brien,Kailey Jalyn,[NURSBSN] Nursing,Math 112,Math 112,112,112,,,,,,,354.8934,,145,556,#
+#23986469,Oji,Chiemeka Keira,[PSYSBS] Psychological Science,Math 112,Math 112,112,112,,,,,,,380.4255,,166,596,#
+#23990972,Olmos Gonzales,Bella Rene,[NHPBS] Nutrition & Human Performance,Math 112,Math 112,112,112,,,,,,,0,396.38295,148,621,#
+#23979763,Olver,Jasmine Renee,[VSCBS] Veterinary Science,Math 112,Math 112,112,112,,,,,,,448.08525,,283,702,#
+#23982147,Oros,Alfredo K,[COSCBA] Computer Science,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,0,294.89355,187,462,#
+#24058332,Pacheco,Enixon Andres,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,420.6384,,199,659,#
+#23732729,Padilla,Debbie,[ELEMBAED] Elementary Education,Math 106,Math 100_Recommend meeting with Advisor,100,106,,,,,,100,153.1917,0,78,240,#
+#24029606,Pahler,Austin E,[NMSEGND] No Major Selected Engineering,Math 112,Math 112,112,112,,,,,,,368.9361,,218,578,#
+#24050645,Parisi,Olive Antionette,[HDFSBS] Human Dev & Family Science,Math 107,Math 107,107,107,,,,,,,353.6172,,118,554,#
+#24040666,Parra,Roman Beckett,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,107,320.42565,0,178,502,#
+#24045011,Paul,Jordin J,[ASCBS] Animal Sciences,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,UNIV 100,,0,0,127,0,#
+#24003840,Pecavar,Jackie Nicole,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,325.5318,167,510,#
+#24010671,Pena Jimenez,Angel,[LARBLA] Landscape Architecture,Math 108,Math 108,108,108,,,,,UNIV 100,,390.63825,,106,612,#
+#24026520,Pena Suarez,Adrian,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,100,249.5745,0,153,391,#
+#24005507,Pepoon,Robby James,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,SALT,,,,,319.149,,218,500,#
+#24012702,Perales,Daveigh,[NMSEGND] No Major Selected Engineering,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,340.85115,216,534,#
+#23995206,Perez Herr,Luis S,[PSYCBA] Psychology,Math 107,Math 107,107,107,,,,,UNIV 100,107,0,271.91475,124,426,#
+#24049152,Perry,Brianna,[PSYCBA] Psychology,Math 107,Math 100_Final Exam 2nd Attempt Recommended,100,107,,,,,UNIV 100,,0,157.65975,44,247,#
+#24012706,Personett,Violette Amo,[ARCHBARCH] Architecture,Math 108,Math 108,108,108,,,,,,,405.31905,,254,635,#
+#23992910,Pflug,Nick Arthur,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,312.76575,163,490,#
+#24045823,Phifer,Brayden Sidney,[NMSEGND] No Major Selected Engineering,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,150,0,#
+#23997492,Pietsch,Cassidy Lynn,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,UNIV 100,,0,361.91475,91,567,#
+#24052330,Pimentel,Grace Candida Machado,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,435.3192,242,682,#
+#23984541,Pisetsky,Rose Maya,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,112,,,,,,,361.27665,,323,566,#
+#23992304,Pitcher,Savanna,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,100,248.93595,,27,390,#
+#23994824,Porray,Caroline Jane,[ARCHBARCH] Architecture,Math 108,Math 100_Final Exam 2nd Attempt Recommended,100,108,,,,,,,0,331.2765,211,519,#
+#24014967,Porter,Abi Grace,[MEDBS] Medicine,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,0,314.68095,186,493,#
+#23987116,Powell,Jordan Isiah,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,100,118.08495,0,27,185,#
+#24040161,Price,Tykee Tyron,[COSCBS] Computer Science,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,UNIV 100,,0,0,88,0,#
+#23976253,Quesada,Malia Dominique,[NURSBSN] Nursing,Math 112,Math 112,100,112,,,,,,112,331.91505,,50,520,#
+#23990988,Radden,Charlotte Jessica,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,329.36175,186,516,#
+#24015307,Rambo,Jasmine Lynn,[NURSBSN] Nursing,Math 112,Math 112,112,112,,,,,,,403.4043,,239,632,#
+#23990306,Ramirez,Elijah,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,352.34055,,155,552,#
+#24006088,Ramos,Yalitza Dayanna,[VSCBS] Veterinary Science,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,100,137.23425,,18,215,#
+#23991468,Razo,Emily Valeria,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,265.53195,,98,416,#
+#24006922,Reed,Hudson Zimmer,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,294.89355,,175,462,#
+#23912515,Reynoza,Gerardo Arturo,[POLBA] Political Science,SBS 200,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,289.7874,61,454,#
+#23974777,Ricker,Elsa Gwyneth,[COSCBS] Computer Science,Math 112,Math 112,112,112,,SALT,DRC,,,112,354.8934,331.2765,119,556,#
+#24003214,Rinkle,Regan Estelle,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,395.74485,148,620,#
+#24017656,Rivera,Richard Rey,[NTDIBS] Nutrition and Dietetics,Math 112,Math 112,112,112,,,,,,,413.61705,,420,648,#
+#24062750,Robertson,Emma Pearl,[RCSCBS] Retailing & Consumer Science,Math 112,Math 112,112,112,,,,,,,0,397.6596,190,623,#
+#24041773,Robinson,Jabari Allen,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,257,0,#
+#23996318,Robles-Garza,Victoria,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,UNIV 100,,0,398.2977,95,624,#
+#24012759,Rocheleau,Kaden Lee,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 112,112,112,,,,,,,0,395.74485,408,620,#
+#24036533,Rodriguez,Jersey Juliana,[BIOLBS] Biology,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,UNIV 100,,0,0,41,0,#
+#24029437,Rodriguez,Noah Esteban,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,360,326,564,#
+#23998982,Rogers,Hope Gabrielle,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,300,112,,,,,,100,0,0,42,0,#
+#23844548,Rogers,Zach S,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,213,0,#
+#23996653,Romero,Sofia,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,375.95745,,184,589,#
+#24017658,Romo,Daniel Gerardo,[LARBLA] Landscape Architecture,Math 108,Math 108,108,108,,,,,,,0,409.149,158,641,#
+#23998631,Rosales,Isaac Benito,[ARCHBARCH] Architecture,Math 108,Math 108,108,108,,,,,,,374.6808,,143,587,#
+#24012769,Ross,Ashton D,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,0,272,652,#
+#23991182,Rubin,Molly Florence,[VSCBS] Veterinary Science,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,346.59585,,116,543,#
+#24034907,Rude,Gabriella Theresa,[BIOLBS] Biology,Math 112,Math 112,112,112,,,,,,,0,395.74485,172,620,#
+#23989824,Runyan,Autumn Collien,[NURSBSN] Nursing,Math 112,Math 112,112,112,,,,,,,437.23395,,146,685,#
+#24006931,Russo,Nicholas Mariano,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,SALT,DRC,,,107,0,323.61705,102,507,#
+#23926817,Ryan,Jack Kai,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,425.74455,,352,667,#
+#24028140,Ryan,Samuel Keenan,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,112,,,,,,,0,352.97865,145,553,#
+#24011729,Sadowski,Alexis Marie,[VSCBS] Veterinary Science,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,211.9149,,34,332,#
+#23986508,Salazar,Annette Sophia,[VSCBS] Veterinary Science,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,107,0,181.27665,50,284,#
+#23995226,Saldana,David,[COSCBA] Computer Science,Math 112,Math 112,112,112,,,,,UNIV 100,,0,388.08495,134,608,#
+#24043831,Sanchez,Alexa,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,433.40445,,350,679,#
+#24005109,Sandler,Reid Wylie,[EMSBS] Emergency Medical Services,Math 112,Math 112,112,112,,SALT,,,,,0,385.5321,61,604,#
+#24021860,Satterfield,Mirabel Savannah,[GEOSBS] Geosciences,Math 112,Math 112,112,112,,,,,,,0,412.3404,130,646,#
+#23974907,Sawyer,Peyton Cella,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,SALT,,,UNIV 100,,0,338.29785,155,530,#
+#24017486,Schauer,Jayden David,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,0,317.23425,279,497,#
+#23987036,Schmidt,Triniti Z,[VSCBS] Veterinary Science,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,100,0,132.76575,84,208,#
+#24042246,Schmitt,Logan Renae,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,315.9576,137,495,#
+#24005231,Schultz,Ryan,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,254.04255,124,398,#
+#24005115,Schwender,Alli,[HDFSBS] Human Dev & Family Science,Math 107,Math 107,107,107,,,,,UNIV 100,107,283.40415,,106,444,#
+#24025279,Sears,Olivia Noelle,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,100,0,200.4255,114,314,#
+#24056169,Sell,Alexander Joseph,[IDSTBA] Interdisciplinary Studies,See Advisor,Math 112,112,112,,,,,,,0,0,378,640,#
+#24042394,Severkovski,Audrey Clare,[MEDBS] Medicine,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,0,319.7871,257,501,#
+#24024588,Shohet,Hailey Daphna,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,265.53195,125,416,#
+#23998282,Shultz,Nadia S,[ECOLBS] Ecology & Evolutionary Biology,Math 112,Math 112,112,112,,,,,,,353.6172,,196,554,#
+#24052197,Sidani,Tamer,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,107,291.70215,,104,457,#
+#23995684,Sikima,Dunja,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,112,CATS,,,,,,0,411.7023,190,645,#
+#23999402,Simmons,Marcus R,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Recommend meeting with Advisor,300,112,,,,,,100,0,0,216,0,#
+#24016150,Singh,Harjit,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,0,440,643,#
+#23983305,Skelly,Alessandra Olivia,[BIOLBS] Biology,Math 112,Math 112,112,112,,,,,,,0,423.8298,300,664,#
+#24010771,Slavik,Mikenna Ruth,[ELEMBAED] Elementary Education,Math 106,Math 106,106,106,,,,,UNIV 100,,255.3192,,211,400,#
+#24021201,Smith,Emery Lozzi,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,SALT,,,,,0,374.0427,116,586,#
+#24030609,Smith,Joely Shaye,[PRNUND] Pre-Nursing,Math 112,Math 112,112,112,,,,,,,0,362.5533,106,568,#
+#24048293,Solorzano,Paula,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,271.27665,140,425,#
+#24055771,Sorrentino,Michael Adam,Architecture,Math 108,Math 108 or 112,112,112,,,,,,,381.70215,,,598,#
+#23991500,Soto,Ava Gabrielle,[ENVSBSES] Environmental Science,Math 112,Math 112,112,112,,,,,UNIV 100,,0,409.7871,196,642,#
+#23999406,Sowden,Mateo,[ARCHBARCH] Architecture,Math 108,Math 100_Final Exam 2nd Attempt Recommended,100,108,,,,,UNIV 100,,189.57465,,114,297,#
+#24011794,Stark,Kylie Angel,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,335.74455,165,526,#
+#23975211,Starr,Nick,[BIOLBS] Biology,Math 112,Math 112,112,112,,,,,,,367.02135,,310,575,#
+#24002376,Stump,Hannah Jane,[NURSBSN] Nursing,Math 112,Math 112,100,112,,SALT,DRC,,,112,0,350.42535,200,549,#
+#24025890,Suarez,Layla Noor,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,100,231.06375,,80,362,#
+#24029185,Suarez,Nataniel B,[SCIBS] Science,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,342.1278,364,536,#
+#23967419,Sublette,Alexander Christian,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,342.1278,,193,536,#
+#23897776,Summers Quintana,Mariah,[MEDBS] Medicine,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,185.7447,114,291,#
+#23994159,Sutton,Kymya Patience,[VSCBS] Veterinary Science,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,0,296.1702,273,464,#
+#23948601,Taclas,Ella Holmes,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 112,112,112,,,,,,,0,359.3619,220,563,#
+#23997667,Taylor,Kaylie Alyssa,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,278.298,,150,436,#
+#24039145,Taylor,Paris T,[ARCHBARCH] Architecture,Math 108,Math 100_Final Exam 1st Attempt not completed,300,108,,,,,,,0,0,76,0,#
+#24030543,Theiss,Marty Strope,[ECONBA] Economics,Math 112,Math 112,112,112,,,,,,,0,363.82995,207,570,#
+#23997532,Thoene,Adam Douglas,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,324.8937,165,509,#
+#23982256,Thomas,Alexis R,[MEDBS] Medicine,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,273.82995,,171,429,#
+#24007291,Thomas,Deiana Marie-Joy,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,0,262.97865,214,412,#
+#24029193,Thompson,Connor Ashton,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,0,236.80845,229,371,#
+#24014660,Thornton,Michael Richard,[VSCBS] Veterinary Science,Math 112,Math 112,112,112,,,,,UNIV 100,,0,379.14885,304,594,#
+#23955034,Thorpe,Natalie Katherine,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,324.8937,,130,509,#
+#23976565,Tolhurst,Ariana Teresa,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 112,112,112,,,,,,,0,359.3619,171,563,#
+#24041594,Torres,Brianna Lynn,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,UNIV 100,,0,0,124,0,#
+#23999913,Tosoni,Enzo Esteban,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,0,259.78725,212,407,#
+#23990569,Tristan,Emily,[BIOLBS] Biology,Math 112,Math 112,112,112,,,,,,,421.2765,,121,660,#
+#24038436,Troche,Gabby Elizabeth,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,278.9361,275,437,#
+#24019543,Tso,Lacey N,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,329.36175,,296,516,#
+#24053559,Tsosie,Tatania Aliyah,[MEDBS] Medicine,Math 112,Math 112,100,112,,,,,UNIV 100,112,0,328.7232,140,515,#
+#23989368,Tuckenhagen,Owen James,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,DRC,,,,410.42565,,193,643,#
+#23920238,Tufa,Robdu,[MEDBS] Medicine,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,330.6384,241,518,#
+#24003919,Tunnicliffe,Gwen Grace,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,432.1278,,224,677,#
+#24023042,Uribe,Dylan Andreas,[ASCBS] Animal Sciences,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,287.8722,,71,451,#
+#23985178,Valdez,Alejandro,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,237.447,,147,372,#
+#24018876,Valdez,Tilly Alexandra,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,121,0,#
+#23991190,Valenzuela,Maricruz,[BMGTBSBA] Business Management,Math 112,Math 112,100,112,,,,,UNIV 100,112,0,340.2126,101,533,#
+#24036916,Valles Leon,Santiago Javier,[MEDBS] Medicine,Math 112,Math 112,112,112,,,,,UNIV 100,,389.3616,,131,610,#
+#23894990,Vasquez,Cesar L,[ENVSBSES] Environmental Science,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,175,0,#
+#23980205,Vaughn,Isla Shea,[MCBBS] Molecular & Cellular Biology,Math 112,Math 112,112,112,,,,,,,352.34055,,153,552,#
+#23989372,Vigil,Amaya Monique,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,112,,,,,,,357.4467,,221,560,#
+#23992345,Villalobos,Camila Lizzette,[NURSBSN] Nursing,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,262.34055,,115,411,#
+#24037568,Vuono,Siena Daniell,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,,,0,289.7874,120,454,#
+#24009155,Wandler,Lachlan Conner,[NMSEGND] No Major Selected Engineering,Math 112,Math 112,112,112,,,,,,,0,351.0639,293,550,#
+#24007478,Washington,Joey Zachary,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,342.7659,,183,537,#
+#24037363,Weaver,Emma,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,107,0,280.8513,105,440,#
+#23976404,Wenneborg,Grant H,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 112,112,112,,,,,,,399.57435,,148,626,#
+#24012942,Westerberg,Sheldon Michael,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,107,0,289.14885,71,453,#
+#23996821,Wetzler,Joe Andrew,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,377.2341,,224,591,#
+#23999926,Whitney,Paige Ashton,[ASCBS] Animal Sciences,Math 112,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,239.99985,,96,376,#
+#24025942,Wicher,Ashley,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,UNIV 100,,0,0,54,0,#
+#23997549,Wiedwald,Nathan Evan,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 112,112,112,,,,,,,0,356.8086,204,559,#
+#24003944,Wikan,Isabella,[PSIOMBSHS] Physiology & Medical Sciences,Math 112,Math 112,112,112,,,,,,,358.72335,,225,562,#
+#23750189,Williams,Teja Ann,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,259.14915,,274,406,#
+#24034912,Willms,Saxton Joseph,[BMGTBSBA] Business Management,Math 112,Math 112,112,112,,,,,,,0,362.5533,173,568,#
+#24028000,Wilson,JJ,[NMSCLASND] No Major Selected A-Center,See Advisor,Math 100_Final Exam 2nd Attempt Recommended,100,112,,,,,UNIV 100,,0,269.3619,23,422,#
+#24013942,Wilson,Molly Catherine,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,,107,333.1917,,177,522,#
+#24020022,Winger,Brianna,[NURSBSN] Nursing,Math 112,Math 112,100,112,,,,,UNIV 100,112,0,300.00015,183,470,#
+#24049402,Wolbeck,Sophia Grace,[BMGTBSBA] Business Management,Math 112,Math 100_Recommend meeting with Advisor,100,112,,,,,UNIV 100,107,0,273.82995,77,429,#
+#24010847,Wolf-Klass,Ari Seth,[LARBLA] Landscape Architecture,Math 108,Math 100_Recommend meeting with Advisor,100,108,,,,,,107,319.7871,,182,501,#
+#23991648,Woodruff,Haylie Joy,[COMM] Communication,SBS 200 or Math 107,Math 107,107,107,,,,,,,0,349.78725,154,548,#
+#23977813,Yontz,Mirabelle Jean,[BIOLBS] Biology,Math 112,Math 112,112,112,,,,,,,441.702,,274,692,#
+#23987030,Youssef,Armani S,[VSCBS] Veterinary Science,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,,,0,0,35,0,#
+#24017960,Yudko,Dylan Jay,[BMGTBSBA] Business Management,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,SALT,,,,,0,0,157,0,#
+#24027520,Zapata,Amirah,[BIOLBS] Biology,Math 112,Math 100_Final Exam 1st Attempt not completed,300,112,,,,,UNIV 100,,0,0,75,0,#
+#23969689,Zepeda,Cecilia,[HDFSBS] Human Dev & Family Science,Math 107,Math 100_Final Exam 1st Attempt not completed,300,107,,,,,,,0,0,137,0,#
