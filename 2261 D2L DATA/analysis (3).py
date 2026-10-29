@@ -7,7 +7,7 @@ import pandas as pd
 
 BASE_DIR = Path(__file__).resolve().parent
 GRADE_CSV = BASE_DIR / "2261_merged.csv"
-DEMOGRAPHICS_CSV = BASE_DIR / "Untitled Analysis (18).csv"
+DEMOGRAPHICS_CSV = BASE_DIR / "Untitled Analysis (18) (1).csv"
 INPUT_CSV = BASE_DIR / "2261_merged_with_untitled.csv"
 OUTPUT_TEX = BASE_DIR / "2261_placement_analysis.tex"
 
@@ -31,6 +31,13 @@ def build_combined_csv() -> pd.DataFrame:
         raise ValueError(f"Found {duplicate_ids} duplicate Student ID rows in demographics CSV")
 
     combined = grades.merge(demographics, on="_join_id", how="left", validate="one_to_one")
+    unmatched = combined["Student ID"].isna()
+    if unmatched.any():
+        unmatched_ids = combined.loc[unmatched, "OrgDefinedId"].tolist()
+        raise ValueError(
+            f"{len(unmatched_ids)} grade rows did not match a demographics Student ID: "
+            f"{unmatched_ids[:10]}"
+        )
     combined = combined.drop(columns=["_join_id"])
     combined.to_csv(INPUT_CSV, index=False)
     return combined
@@ -105,13 +112,13 @@ def latex_table(df: pd.DataFrame, align: str, caption: str) -> str:
         r"\small",
         rf"\caption{{{tex_escape(caption)}}}",
         rf"\begin{{tabular}}{{{align}}}",
-        r"\toprule",
+        r"\hline",
         " & ".join(tex_escape(column) for column in df.columns) + r" \\",
-        r"\midrule",
+        r"\hline",
     ]
     for row in df.astype(str).itertuples(index=False):
         lines.append(" & ".join(tex_escape(value) for value in row) + r" \\")
-    lines.extend([r"\bottomrule", r"\end{tabular}", r"\end{table}"])
+    lines.extend([r"\hline", r"\end{tabular}", r"\end{table}"])
     return "\n".join(lines)
 
 
@@ -265,7 +272,6 @@ def main() -> None:
         [
             r"\documentclass[11pt]{article}",
             r"\usepackage[margin=0.75in]{geometry}",
-            r"\usepackage{booktabs}",
             r"\usepackage{array}",
             r"\setlength{\parindent}{0pt}",
             r"\setlength{\parskip}{6pt}",

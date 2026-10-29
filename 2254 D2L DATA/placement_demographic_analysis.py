@@ -7,9 +7,22 @@ import pandas as pd
 
 BASE_DIR = Path(__file__).resolve().parent
 SOURCE_MAIN_CSV = BASE_DIR / "2254_merged.csv"
-SOURCE_DEMOGRAPHICS_CSV = BASE_DIR / "Untitled Analysis (16).csv"
+SOURCE_DEMOGRAPHICS_CSV = BASE_DIR / "2254_full_course_with_demographics.csv"
 INPUT_CSV = BASE_DIR / "2254_merged_with_untitled.csv"
 OUTPUT_TEX = BASE_DIR / "placement_demographic_analysis.tex"
+
+DEMOGRAPHIC_COLUMNS = [
+    "Student ID",
+    "First Generation Flag",
+    "Gender Code",
+    "High School State Code",
+    "White Flag",
+    "Hispanic or Latinx Flag",
+    "Native Hawaiian or Other Pacific Islander Flag",
+    "Asian Flag",
+    "American Indian or Alaska Native Flag",
+    "Black or African American Flag",
+]
 
 TOPICS_COL = (
     "Final Exam Topics Points Grade <Numeric MaxPoints:705 "
@@ -19,15 +32,22 @@ IKC_COL = (
     "IKC Topics Points Grade <Numeric MaxPoints:700 "
     "Category:ALEKS Topic Goals Weekly Counts (Hidden)>"
 )
-WEEK1_COL = "Final Exam Week 1 Points Grade <Numeric MaxPoints:450 Category:Final Exam (Hidden)>"
-WEEK2_COL = "Final Exam Week 2 Points Grade <Numeric MaxPoints:450 Category:Final Exam (Hidden)>"
 
 PLACEMENT_ORDER = ["Math 108/112", "Math 106/107", "Math 100"]
 
 
 def build_combined_csv() -> pd.DataFrame:
     main = pd.read_csv(SOURCE_MAIN_CSV, dtype=str)
-    demographics = pd.read_csv(SOURCE_DEMOGRAPHICS_CSV, dtype=str)
+    demographics_source = pd.read_csv(SOURCE_DEMOGRAPHICS_CSV, dtype=str)
+    missing_columns = [
+        column for column in DEMOGRAPHIC_COLUMNS if column not in demographics_source.columns
+    ]
+    if missing_columns:
+        raise ValueError(
+            f"{SOURCE_DEMOGRAPHICS_CSV.name} is missing required columns: "
+            f"{', '.join(missing_columns)}"
+        )
+    demographics = demographics_source[DEMOGRAPHIC_COLUMNS].copy()
 
     main["_join_id"] = main["OrgDefinedId"].str.strip().str.lstrip("#")
     demographics["_join_id"] = demographics["Student ID"].str.strip()
@@ -36,17 +56,14 @@ def build_combined_csv() -> pd.DataFrame:
     if duplicate_ids:
         raise ValueError(f"Found {duplicate_ids} duplicate Student ID rows in demographics CSV")
 
-    demographic_columns = [column for column in demographics.columns if column != "_join_id"]
-    rename_map = {}
-    for column in demographic_columns:
-        if column in main.columns:
-            rename_map[column] = f"Demographic {column}"
-    demographics = demographics.rename(columns=rename_map)
-
     combined = main.merge(demographics, on="_join_id", how="left", validate="one_to_one")
-    unmatched = combined["Student ID"].isna().sum()
-    if unmatched:
-        raise ValueError(f"{unmatched} rows in {SOURCE_MAIN_CSV.name} did not match a Student ID")
+    unmatched = combined["Student ID"].isna()
+    if unmatched.any():
+        unmatched_ids = combined.loc[unmatched, "OrgDefinedId"].tolist()
+        raise ValueError(
+            f"{len(unmatched_ids)} rows in {SOURCE_MAIN_CSV.name} did not match a "
+            f"Student ID: {unmatched_ids[:10]}"
+        )
 
     combined = combined.drop(columns=["_join_id"])
     combined.to_csv(INPUT_CSV, index=False)
@@ -54,7 +71,7 @@ def build_combined_csv() -> pd.DataFrame:
 
 
 def placement_from_topics(value: float) -> str:
-    """Return placement bucket using the image's Final Exam Topics breakdown."""
+    """Return the placement level associated with a final exam topic score."""
     if pd.isna(value):
         return "Missing"
     if value >= 550:
@@ -229,13 +246,13 @@ def latex_table(df: pd.DataFrame, align: str, caption: str) -> str:
         r"\small",
         rf"\caption{{{tex_escape(caption)}}}",
         rf"\begin{{tabular}}{{{align}}}",
-        r"\toprule",
+        r"\hline",
         " & ".join(tex_escape(column) for column in df.columns) + r" \\",
-        r"\midrule",
+        r"\hline",
     ]
     for row in df.astype(str).itertuples(index=False):
         lines.append(" & ".join(tex_escape(value) for value in row) + r" \\")
-    lines.extend([r"\bottomrule", r"\end{tabular}", r"\end{table}"])
+    lines.extend([r"\hline", r"\end{tabular}", r"\end{table}"])
     return "\n".join(lines)
 
 
@@ -257,7 +274,6 @@ def build_tex_report(
         [
             r"\documentclass[11pt]{article}",
             r"\usepackage[margin=0.75in]{geometry}",
-            r"\usepackage{booktabs}",
             r"\usepackage{array}",
             r"\setlength{\parindent}{0pt}",
             r"\setlength{\parskip}{6pt}",
@@ -310,8 +326,6 @@ def main() -> None:
     df = build_combined_csv()
     df[TOPICS_COL] = pd.to_numeric(df[TOPICS_COL], errors="coerce")
     df[IKC_COL] = pd.to_numeric(df[IKC_COL], errors="coerce")
-    df[WEEK1_COL] = pd.to_numeric(df[WEEK1_COL], errors="coerce")
-    df[WEEK2_COL] = pd.to_numeric(df[WEEK2_COL], errors="coerce")
 
     df["Placement"] = df[TOPICS_COL].apply(placement_from_topics)
     df["Detailed Bucket"] = df[TOPICS_COL].apply(detailed_bucket_from_topics)

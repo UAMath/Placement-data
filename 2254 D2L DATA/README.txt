@@ -3,58 +3,61 @@
 
 Purpose
 -------
-This folder contains D2L MATH 100 grade exports and code intended to combine
-the section exports with student demographic data, summarize math placement,
-and produce a report.
+This folder contains Fall 2025 MATH 100 grade exports and scripts to merge
+the four section exports, join student demographics, and create a placement
+analysis report.
 
-Intended workflow
------------------
-1. Export the relevant D2L grade data as CSV files. The merge step looks for
-   files whose names match "*GradesExport*.csv".
-2. Run the merge script. It combines the grade exports, keeps the union of
-   their columns, and normalizes a few inconsistent column headings. Its
-   intended output is 2254_merged.csv.
-3. Run the demographic analysis script. It reads 2254_merged.csv and
-   Untitled Analysis (16).csv, matching OrgDefinedId to Student ID. It stops
-   if demographic IDs are duplicated or if any grade-export student cannot
-   be matched, then writes 2254_merged_with_untitled.csv and
-   placement_demographic_analysis.tex.
-4. The analysis groups final-exam topic scores into placement bands:
-   - 550 or more: Math 108/112
-   - 400-549: Math 106/107
-   - below 400: Math 100
-   It also summarizes results by Arizona high school status, first-generation
-   status, gender, and race/ethnicity flags. Race/ethnicity groups with fewer
-   than five students are omitted from that report table.
-5. To create a printable report, compile the generated .tex file with
-   pdfLaTeX. The analysis script itself writes the .tex file; it does not
-   compile the PDF.
+Run the workflow
+----------------
+Run these commands from this folder:
 
-Current folder state - check before running
--------------------------------------------
-Several files presently have names or extensions that do not match their
-contents, so the workflow above is not ready to run as-is:
+    python "merge_2254.py"
+    python "placement_demographic_analysis.py"
+    pdflatex -interaction=nonstopmode -halt-on-error "placement_demographic_analysis.tex"
 
-- "2254_merged_with_untitled (1).csv" contains the Python merge script, not
-  merged data. The script expects to be saved/run as Python code.
-- "MATH 100 FA25 R 055-072_GradesExport_2026-07-21-17-52 (1).csv" contains
-  the Python demographic-analysis script, not a grade export. Because its
-  name matches "*GradesExport*.csv", the merge script would try to read it
-  as data.
-- "analysis (2).py" contains CSV grade data, not Python code.
-- "Untitled Analysis (16) (1).csv" contains PDF data, not the demographics
-  CSV expected by the analysis script. The expected input name is
-  "Untitled Analysis (16).csv".
-- Some files named like report outputs also appear to contain other file
-  types. Check a file's contents before treating it as a valid report or
-  input.
+The Python analysis requires pandas. The merge script reads the four files
+matching "*_GradesExport*.csv", combines their columns, and writes
+"2254_merged.csv". It normalizes inconsistent D2L column names and stops if
+an ID is invalid or duplicated across section files.
 
-Before running the workflow, identify the correct source files, give each
-file an extension matching its actual format, and make sure the required
-inputs use the exact names expected by the scripts. Do not treat the
-student-level files as de-identified; store and share them only in approved
-locations.
+The analysis script joins "2254_merged.csv" to the demographic fields in
+"2254_full_course_with_demographics.csv", matching OrgDefinedId to Student
+ID. It stops if demographic IDs are duplicated, required demographic
+columns are missing, or any grade row has no matching student. It writes
+"2254_merged_with_untitled.csv" and
+"placement_demographic_analysis.tex". The final command compiles that source
+into "placement_demographic_analysis.pdf".
 
-The scripts are run manually; replacing an export does not automatically
-refresh the merged data or report. Re-run the merge and analysis steps after
-updating source data.
+Placement bands are based on Final Exam Topics:
+
+- 550 or more: Math 108/112
+- 400-549: Math 106/107
+- below 400: Math 100
+
+The report also summarizes results by Arizona high school status,
+first-generation status, the combination of those categories, gender, and
+race/ethnicity flags. Race/ethnicity groups with fewer than five students
+are omitted from the report table.
+
+About the source files
+----------------------
+Some files in the folder had been saved with extensions that did not match
+their contents. They have been given names matching their actual formats.
+The two files named "MATH 100 FA25 recovered section ..._GradesExport.csv"
+are valid section grade exports that had previously been named like LaTeX
+build artifacts. Along with the T and W exports, these four section files
+cover 1,796 distinct students.
+
+"2254_full_course_with_demographics.csv" is the full-course export containing
+demographic fields for those students. It is used as the demographic lookup,
+not as another section export, because that would duplicate grade records.
+"2254_full_course_grade_export.csv" is a separate full-course grade export
+retained for reference and is not included in the section merge for the same
+reason.
+
+The old report PDF is retained as "placement_demographic_analysis_previous.pdf".
+
+These files contain student-level educational and demographic information;
+store and share them only in approved locations. Updating an export does not
+automatically refresh the outputs; rerun the commands above after changing
+source data.

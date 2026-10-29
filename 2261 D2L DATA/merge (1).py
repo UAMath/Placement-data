@@ -22,6 +22,7 @@ def normalize_headers(headers):
 all_headers = []
 seen_headers = set()
 rows = []
+excluded_placeholder_rows = 0
 
 for csv_file in csv_files:
     with csv_file.open(newline="", encoding="utf-8-sig") as fh:
@@ -32,7 +33,17 @@ for csv_file in csv_files:
                 seen_headers.add(column)
                 all_headers.append(column)
         for row in reader:
-            rows.append(dict(zip(header, row)))
+            record = dict(zip(header, row))
+            org_defined_id = record.get("OrgDefinedId", "").strip().lstrip("#")
+            if org_defined_id == "Student1.Math100":
+                excluded_placeholder_rows += 1
+                continue
+            if not org_defined_id.isdecimal():
+                raise ValueError(
+                    f"Unexpected nonnumeric OrgDefinedId {org_defined_id!r} "
+                    f"in {csv_file.name}"
+                )
+            rows.append(record)
 
 output_path = INPUT_DIR / "2261_merged.csv"
 with output_path.open("w", newline="", encoding="utf-8") as fh:
@@ -41,6 +52,7 @@ with output_path.open("w", newline="", encoding="utf-8") as fh:
     writer.writerows(rows)
 
 print(f"Merged {len(rows)} rows from {len(csv_files)} files into {output_path.name}")
+print(f"Excluded {excluded_placeholder_rows} known non-student placeholder rows")
 print(f"Columns in merged file: {len(all_headers)}")
 for index, column_name in enumerate(all_headers, start=1):
     print(f"{index}: {column_name}")

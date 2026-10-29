@@ -10,16 +10,25 @@ analysis report.
 Intended workflow
 -----------------
 1. The source grade exports are the files named
-   "MATH 100 SP26 ..._GradesExport_....csv". The merge script (merge (1).py)
-   reads all files in this folder matching "*GradesExport*.csv".
-2. Run the merge script to combine the section exports into 2261_merged.csv.
-   It combines the columns from the exports and normalizes two inconsistent
-   D2L column headings.
-3. Run the analysis script (analysis (3).py). It expects 2261_merged.csv and
-   Untitled Analysis (18).csv. It matches grade records' OrgDefinedId values
-   to demographic records' Student ID values and writes
-   2261_merged_with_untitled.csv and 2261_placement_analysis.tex.
-4. The analysis assigns placement from Final Exam Topics:
+   "MATH 100 SP26 ..._GradesExport_....csv". From this folder, run:
+
+       python "merge (1).py"
+
+   The merge script combines all files matching "*GradesExport*.csv",
+   normalizes two inconsistent D2L column headings, excludes the known
+   non-student "Student1.Math100" placeholder, and writes 2261_merged.csv.
+   It stops if any other nonnumeric D2L ID appears.
+2. Run the analysis script:
+
+       python "analysis (3).py"
+
+   It reads 2261_merged.csv and the existing demographics export
+   "Untitled Analysis (18) (1).csv". It matches grade records' OrgDefinedId
+   values to demographic records' Student ID values and writes
+   2261_merged_with_untitled.csv and 2261_placement_analysis.tex. It stops
+   for duplicate demographic IDs or any unmatched grade row. This step
+   requires Python and pandas.
+3. The analysis assigns placement from Final Exam Topics:
    - 550 or more: Math 108/112
    - 400-549: Math 106/107
    - below 400: Math 100
@@ -27,31 +36,21 @@ Intended workflow
    Arizona high school status, first-generation status, the combination of
    those two categories, gender, and race/ethnicity flags. Race/ethnicity
    groups with fewer than five students are omitted.
-5. To make a printable report, compile the generated .tex file using
-   pdfLaTeX. The Python analysis script generates the LaTeX source but does
-   not compile it to PDF.
+4. To make a printable report, run this from the same folder:
 
-Current folder state - check before running
--------------------------------------------
-The current files mostly have the expected contents, but several names
-include "(1)" suffixes while the scripts expect the unsuffixed names:
+       pdflatex -interaction=nonstopmode -halt-on-error "2261_placement_analysis.tex"
 
-- The grade merge script writes "2261_merged.csv"; the existing merged file
-  is named "2261_merged (1).csv".
-- The analysis script expects "Untitled Analysis (18).csv"; the existing
-  demographics export is named "Untitled Analysis (18) (1).csv".
-- The existing combined data file is named
-  "2261_merged_with_untitled (1).csv"; the analysis script writes
-  "2261_merged_with_untitled.csv".
-- The report source and generated report files have "(1)" in their names;
-  the analysis script writes "2261_placement_analysis.tex".
-- "2264_merged (1).csv" is not referenced by either 2261 script; verify
-  that it belongs in this folder before using it.
+   This creates 2261_placement_analysis.pdf. The Python analysis script
+   generates the LaTeX source but does not compile it to PDF.
 
-Use the correct source files and ensure their names match what the scripts
-expect before running. Do not let old merged outputs be mistaken for fresh
-results. These files contain student-level educational and demographic
-information; store and share them only in approved locations.
+The existing files with "(1)" suffixes are prior exports or generated
+artifacts; the scripts now use the current demographic export's actual name
+and create clean, unsuffixed merged/report outputs. "2264_merged (1).csv"
+is not used by either 2261 script. The LaTeX source can be compiled with
+pdfLaTeX to create a PDF; the analysis script does not compile it.
+
+These files contain student-level educational and demographic information;
+store and share them only in approved locations.
 
 The scripts run manually. Updating a D2L export does not automatically
 refresh the merged data or report; rerun the merge and analysis steps after
